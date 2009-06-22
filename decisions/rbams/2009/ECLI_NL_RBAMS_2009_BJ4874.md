@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBAMS:2009:BJ4874"
 court: "Rechtbank Amsterdam"
 court_code: "RBAMS"
-docket: "Parketnummer 13-002157-09"
+docket: "13-002157-09"
 decided: "2009-06-22"
 published: "2013-04-05"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2009:BJ4
 published_in: ["Rechtspraak.nl", "AB 2009, 381 met annotatie van J.G. Brouwer"]
 ---
 
-# ECLI:NL:RBAMS:2009:BJ4874 Rechtbank Amsterdam , 22-06-2009 / Parketnummer 13-002157-09
+# ECLI:NL:RBAMS:2009:BJ4874 Rechtbank Amsterdam , 22-06-2009 / 13-002157-09
 
 ## Inhoudsindicatie
 
