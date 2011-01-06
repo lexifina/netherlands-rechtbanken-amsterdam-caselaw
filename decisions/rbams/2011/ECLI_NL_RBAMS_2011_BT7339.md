@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2011:BT7339"
-published_in: ["Rechtspraak.nl", "RAR 2012/4", "Prg. 2011/305", "AR-Updates.nl 2011-0832"]
+published_in: ["Rechtspraak.nl", "RAR 2012/4", "Prg. 2011/305", "AR-Updates.nl 2011-0832", "VAAN-AR-Updates.nl 2011-0832"]
 ---
 
 # ECLI:NL:RBAMS:2011:BT7339 Rechtbank Amsterdam , 06-01-2011 / CV09-41427
