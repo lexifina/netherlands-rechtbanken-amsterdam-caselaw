@@ -1,0 +1,433 @@
+---
+ecli: "ECLI:NL:RBAMS:2013:5069"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "13/845049-11"
+decided: "2013-06-20"
+published: "2013-08-14"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2013:5069"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2013:5069 Rechtbank Amsterdam , 20-06-2013 / 13/845049-11
+
+## Inhoudsindicatie
+
+Is sprake van informatie die als voorwetenschap kan worden bestempeld? Bewijsvraag: is sprake van bewuste nauwe samenwerking tussen 3 verdachten, waarvan 1 verdachte de transacties uitvoert op basis van deze voorwetenschap?
+
+Veroordeling tot werkstraffen van alle verdachten met het onderscheid wie als de 'auctor intellectualis' dient worden aangemerkt.
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+
+VONNIS
+
+Parketnummer: 13/845049-11 (Promis)
+
+Datum uitspraak: 20 juni 2013
+
+Vonnis van de rechtbank Amsterdam, meervoudige strafkamer, in de strafzaak tegen
+
+[verdachte],
+
+geboren te [plaats] op [geboortedag] 1982,
+
+ingeschreven in de gemeentelijke basisadministratie persoonsgegevens op het adres
+
+[GBA adres].
+
+1
+Het onderzoek ter terechtzitting
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzittingen op 17 januari en 6 juni 2013.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie
+
+mr. D.E. Kruimel en van wat de raadsman van verdachte, mr. M. Slewe, naar voren heeft gebracht.
+
+2
+Tenlastelegging
+
+Aan verdachte is ten laste gelegd dat
+
+1.
+
+zij op een of meer tijdstip(pen) in de periode van 30 maart 2009 tot en met 22 april 2009 te Apeldoorn en/of Rotterdam en/of Den Haag en/of Amsterdam, althans in Nederland, terwijl zij wist of redelijkerwijs moest vermoeden dat zij beschikte over voorwetenschap als bedoeld in artikel 5:53 lid 1 Wet op het financiële toezicht,  omtrent de rechtspersoon, vennootschap of instelling waarvan de aandelen zijn te beschouwen als financiële instrumenten als bedoeld in artikel 5:56, eerste lid onder a, b, c of d, de informatie waarop haar voorwetenschap betrekking had, heeft medegedeeld aan een derde, [A], te weten:
+
+dat [vennootschap 1] op korte termijn een contract zou sluiten met het bedrijf [vennootschap 2] met betrekking tot het aanleveren van kaarten van West-Europa door [vennootschap 1] aan [vennootschap 2] en/of
+
+dat de winst van [vennootschap 1] in 2009 zou verdriedubbelen ten opzichte van de winst in 2008,
+
+welke informatie nog niet openbaar was gemaakt op het moment van mededelen aan voornoemde [A] en waarvan openbaarmaking significante invloed zou kunnen
+
+hebben op de koers van de aandelen [vennootschap 1]
+
+(artikel 5:57 lid 2 onder a Wet op het financieel toezicht jo artikel 1 Wet op de economische delicten)
+
+2.
+
+zij op een of meer tijdstip(pen) in de periode van 30 maart 2009 tot en met 22 april 2009 te Apeldoorn en/of Rotterdam en/of Den Haag en/of Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer natuurlijke perso(o)n(en) en/of alleen, terwijl zij wist of redelijkerwijs moest vermoeden dat zij beschikte over voorwetenschap als bedoeld in artikel 5:53, lid 1, van de Wet op het financieel toezicht, (telkens) gebruik heeft gemaakt van die voorwetenschap door (een) transactie(s) te verrichten en/of te bewerkstelligen in (certificaten van) aandelen [vennootschap 1], zijnde financiële instrumenten die zijn toegelaten tot de handel op een gereglementeerde markt, waarvoor een vergunning als bedoeld in artikel 5:26, lid 1, van de Wet op het financieel toezicht, is verleend, te weten (NYSE) Euronext Amsterdam, immers heeft/hebben verdachte en/of haar mededader(s)
+
+op 2 april 2009 1000 aandelen [vennootschap 1] aangekocht en/of
+
+op 3 april 2009 1653 aandelen [vennootschap 1] aangekocht,
+
+terwijl zij (telkens) bekend was met niet openbaar gemaakte, concrete informatie die rechtstreeks, althans middellijk betrekking had op [vennootschap 1], te weten:
+
+dat [vennootschap 1] op korte termijn een contract zou sluiten met het bedrijf [vennootschap 2] met betrekking tot het aanleveren van kaarten van West-Europa door [vennootschap 1] aan [vennootschap 2] en/of
+
+dat de winst van [vennootschap 1] in 2009 zou verdriedubbelen ten opzichte van de winst in 2008,
+
+welke informatie (telkens) nog niet openbaar was gemaakt op het moment dat genoemde transactie(s) is/zijn verricht/bewerkstelligd en waarvan de openbaarmaking significante invloed zou kunnen hebben op de koers van de aandelen [vennootschap 1];
+
+(artikel 5:56, derde lid, jo 5:54 Wft jo artikel 2, derde lid, WED)
+
+3
+Voorvragen
+
+De dagvaarding is geldig, deze rechtbank is bevoegd tot kennisneming van de ten laste gelegde feiten en de officier van justitie is ontvankelijk. Er zijn geen redenen voor schorsing van de vervolging.
+
+4
+Waardering van het bewijs
+
+4.1.
+
+Het standpunt van het Openbaar Ministerie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de aan verdachte ten laste gelegde feiten kunnen worden bewezen en heeft hiertoe - kort samengevat - het volgende aangevoerd.
+
+Verdachte beschikte via haar broer [B], medeverdachte, (hierna: [B]) die werkzaam was bij [vennootschap 1](hierna: [vennootschap 1]), over concrete informatie die niet eerder dan op 21 april 2009 openbaar is gemaakt, inhoudende dat er door [vennootschap 1] een overeenkomst met een grote Amerikaanse instelling gesloten was, welke veel omzet en winst zou genereren. Verdachte heeft deze informatie kort daarop gedeeld met haar collega [A], medeverdachte (hierna: [A]), die vervolgens voor verdachte, [B] en zichzelf aandelen [vennootschap 1] heeft gekocht.
+
+Verdachte en haar medeverdachten beschikten over informatie waarvan een redelijk handelende belegger waarschijnlijk gebruik zal maken om er zijn beleggingsbeslissing op te baseren. Dit betreft daarom informatie die significante invloed zou kunnen hebben op de koers. Dat de informatie ook invloed heeft gehad op de koers, blijkt uit de fors gestegen koersen van [vennootschap 1] na openbaarmaking van het persbericht op 21 april 2009.
+
+4.2.
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich op het standpunt gesteld dat verdachte van de aan haar ten laste gelegde feiten dient te worden vrijgesproken en heeft daartoe het volgende bepleit.
+
+Allereerst kan de melding van de anonieme tipgever niet worden gebruikt op grond van artikel 344a, derde lid, van het Wetboek van Strafvordering (Sv). Ook de verklaringen die verdachte heeft afgelegd bij SIM kunnen niet voor het bewijs worden gebruikt, nu dat in strijd zou zijn met de beginselen van een behoorlijke procesorde.
+
+Daarnaast is er onvoldoende bewijs dat in de onderhavige zaak sprake is van voorwetenschap in de zin van artikel 5:53, eerste lid, van de Wet financieel toezicht (Wft). Het enige rechtstreekse bewijs dat verdachte bekend geweest zou kunnen zijn met informatie aangaande de aandelen [vennootschap 1] in die zin dat de waarde van deze aandelen binnen afzienbare tijd zouden gaan stijgen, zou kunnen blijken uit de verklaringen van getuige [C]. Deze verklaringen zijn echter irrelevant voor de bewijsvraag, nu vastgesteld kan worden dat de waardevolle tip van verdachte onvoldoende specifiek is om een conclusie uit te trekken over de mogelijke invloed van een bepaalde situatie of gebeurtenis op de koers van de aandelen [vennootschap 1]. Het staat daarom niet vast dat verdachte op dat moment over specifieke koersgevoelige informatie beschikte als bedoeld in artikel 5:53 Wft. Daarnaast blijkt uit het dossier duidelijk dat getuige [C] heeft verklaard over een gesprek tussen hem en verdachte geruime tijd voor de tenlastegelegde periode. Ook geruchten die [B] mogelijk op zijn werk heeft opgevangen en die dan als openbaar kunnen worden beschouwd, kunnen niet beschouwd worden als informatie die dermate concreet is dat er sprake is van voorwetenschap.
+
+Om tot een bewezenverklaring te komen moet uit de bewijsmiddelen blijken dat verdachte vanaf 30 maart 2009 maar vóór de aankoop van de aandelen [vennootschap 1] op 2 en 3 april 2009 bekend is geweest met de exacte bewoordingen van de in de dagvaarding opgenomen feitomschrijving. De officier van justitie stoelt haar bewijs hieromtrent op onder andere de drafts. Maar het is op grond van de feiten en omstandigheden niet vast te stellen dat [B] op de hoogte is geraakt van die twee drafts. Dat [B], laat staan verdachte op de hoogte is geraakt van de exacte bewoordingen van de in de dagvaarding opgenomen feitomschrijving, is dan ook volledig gebaseerd op aannames, veronderstellingen en/of gissingen, aldus de verdediging.
+
+4.3.
+
+Het oordeel van de rechtbank
+
+4.3.1.
+
+De rechtbank is - anders dan de verdediging maar met de officier van justitie - van oordeel dat bewezen kan worden dat verdachte zich schuldig heeft gemaakt aan zowel het tipverbod als aan het verbod gebruik te maken van voorwetenschap bij verrichte transacties en overweegt hiertoe als volgt.
+
+4.3.2.
+
+De rechtbank is – anders dan de verdediging – van oordeel dat het schriftelijke bescheid, inhoudende de anonieme tip van 11 juni 2009, voor het bewijs kan worden gebruikt omdat, zoals hieronder zal worden uitgewerkt, de bewezenverklaring in belangrijke mate steun vindt in andersoortig bewijsmateriaal. Weliswaar heeft de verdediging de wens te kennen gegeven om de anonieme tipgever te ondervragen, doch uit het dossier is gebleken dat het Openbaar Ministerie genoegzaam heeft geprobeerd de identiteit van de anonieme tipgever te achterhalen doch dat dit niet tot resultaat heeft geleid. Daarnaast acht de rechtbank de verklaring van die anonieme tipgever betrouwbaar, nu de door hem of haar gegeven informatie bijna naadloos aansluit op de overige in het dossier bevindende bewijsmiddelen. Derhalve zal de rechtbank de melding van de anonieme tipgever voor het bewijs bezigen.
+
+4.3.3.
+
+Het verweer van de verdediging, inhoudende dat de verklaringen van verdachte afgelegd bij de SIM buiten beschouwing dienen te blijven, zal onbesproken blijven nu de rechtbank die verklaringen van verdachte niet voor het bewijs zal bezigen.
+
+4.3.4.
+
+De rechtbank gaat op grond van de wettige bewijsmiddelen uit van de volgende feiten en omstandigheden.
+
+Aanleiding onderzoek
+
+Op 11 juni 2009 komt bij de AFM een melding van handel met voorwetenschap in het aandeel [vennootschap 1] binnen via het contactformulier van ene [D]. [D] meldt dat [verdachte] (hierna: verdachte) degene is geweest die voortijdig de beschikking heeft gehad over informatie, onder andere jaarcijfers en nieuws over een nieuwe klant in Amerika, betreffende [vennootschap 1]. Deze informatie is aan verdachte voortijdig bekend gemaakt door haar broer die werkzaam is binnen [vennootschap 1]. Verdachte heeft vervolgens via [A] (hierna: [A]) kooporders geplaatst, te weten op 2 april 2009 1000 aandelen à € 2,75 en op 3 april 460 aandelen à € 3,00, 541 aandelen à € 2,75 en 652 aandelen à € 2,82.  Vervolgens hebben verdachte en [A] hun aandelen verkocht op 21 april 2009, te weten 2001 aandelen à € 8,00 en op 22 april 2009, te weten 652 aandelen à € 8,50. [A] heeft als tussenschakel gefunctioneerd waarbij hij 652 aandelen voor zichzelf heeft aangekocht.
+
+Naar aanleiding van de hiervoor genoemde melding en een signalering van Euronext Amsterdam, is de Stichting Autoriteit Financiële Markten (hierna: AFM) een onderzoek begonnen en heeft zij op 21 februari 2011 aangifte gedaan tegen [A], [B] en verdachte van overtreding van het verbod op handelen met voorkennis en aangifte gedaan tegen [B] en verdachte van overtreding van het tipverbod.
+
+[vennootschap 1] is een effectuitgevende instelling, gevestigd te [plaats].
+
+Voorafgaande aan de koop aandelen [vennootschap 1]
+
+De broer van verdachte, [B], werkt vanaf 2007 als international sales manager bij [vennootschap 1] en deelt in april 2009 een kamer met drie andere werknemers, waaronder ook getuige A. Spigt.   A. Spigt staat op de insiderslijst en was vanaf 26 maart 2009 betrokken bij de licentieovereenkomst met een grote Amerikaanse partij (hierna: de licentieovereenkomst). De licentieovereenkomst is dan in de laatste fase. Op de kamer waar zij werken, delen zij één printer. Op 31 maart 2009 ontvangt Spigt een email over de te voeren communicatie om de licentieovereenkomst heen. Op 1 april 2009 om 19.03 uur ontvangt Spigt laat aan het eind van de dag via de mail twee draft persberichten. De ene heeft als kop: “[vennootschap 1] sluit baanbrekende overeenkomst met toonaangevende Amerikaanse software leverancier” en de andere heeft als kop “[vennootschap 1] sluit overeenkomst met toonaangevende softwareleverancier en ontvangt eenmalig 17 miljoen euro en winst in 2009 verdriedubbelt ten opzichte van 2008.”
+
+[B] is volgens de inloggegevens van de parkeergaragepas op die dagen op kantoor. Op 2 april 2009 is hij al om 06.43 uur op kantoor.
+
+Uit de informatie van [vennootschap 1] blijkt dat [B] niet op de insiderslijst stond met betrekking tot de licentieovereenkomst en ook niet was aangemerkt als insider die uit hoofde van zijn functie regelmatig in aanraking kwam met koersgevoelige informatie.  Wel heeft [B], omdat [vennootschap 1] een beursgenoteerd bedrijf is, een complianceregeling moeten ondertekenen en wordt in de arbeidsovereenkomst expliciet gewezen op de strikte geheimhouding bij koersgevoelige informatie.
+
+Koop aandelen [vennootschap 1]
+
+Verdachte en [A] waren in 2009 werkzaam bij de AbnAmro bank als leidinggevenden van een sales team. [A] werkte in Den Haag en verdachte in Apeldoorn.
+
+Getuige [C], ook werkzaam bij de AbnAmro bank en collega van verdachte en [A], verklaart op 20 maart 2012 bij de Fiod dat hij door verdachte is benaderd waarbij verdachte tegen hem had gezegd dat zij een tip had gekregen van haar broer over het bedrijf waar hij werkte en waarmee geld te verdienen was. Verdachte had aan [C] gevraagd of hij de aandelen zou kunnen kopen omdat zij liever deze aandelen niet zelf aankocht. [C] wilde dit niet doen. Een maand later heeft verdachte aan [C] verteld dat de aandelen die hij niet voor haar had gekocht en waarvoor zij de tip had gekregen haar geld had opgeleverd en dat zij ongeveer 13.000 van [A] zou krijgen.
+
+Dat [A] die aandelen heeft gekocht, klopt. Op 2 april 2009 koopt [A] via zijn AbnAmro effectenrekening 1.000 aandelen [vennootschap 1] voor een bedrag van € 2,75. Op 3 april 2009 koopt [A] via zijn AbnAmro effectenrekening nog eens 460 aandelen voor een bedrag van € 3,00, 541 aandelen voor een bedrag van € 2,75 en 652 aandelen voor een bedrag van € 2,82. In totaal zijn dat 2.653 aandelen voor een totaal bedrag van € 7.495,75. Bij een pakket van 2.001 aandelen [vennootschap 1] heeft [A] op 3 april een verkooporder geplaatst om deze bij een prijs in de markt van € 8,00 te verkopen.
+
+[A] heeft over de aankoop van de aandelen [vennootschap 1] verklaard dat hij [vennootschap 1] in eerste instantie niet kende, maar dat hij met verdachte over [vennootschap 1] heeft gesproken en dat hij daardoor wist dat de broer van verdachte daar werkt, dat het een goed bedrijf is en dat het net als TomTom ook kaarten maakt.
+
+Op 3 april 2009 heeft verdachte tweemaal € 3.000,- opgenomen en op diezelfde dag stort [A] € 2.400,00 op zijn bankrekening. [A] stort de €2.400,00 door naar zijn effectenrekening onder vermelding van “i.v.m. aankoop.”
+
+Persbericht en verkoop aandelen
+
+Op 21 april 2009 verschijnt een persbericht van [vennootschap 1] waarin wordt meegedeeld dat mapmaker [vennootschap 1] in 2009 een spectaculaire groei van omzet en winst verwacht in 2009 op basis van een reeds afgesloten contract, inhoudende een licentieovereenkomst met een grote Amerikaanse partij voor het gebruik van de kaarten van West Europa. Dezelfde dag stijgt de koers van € 4,25 naar € 8,25.
+
+Op die zelfde dag verkoopt [A] 2.001 aandelen tegen het verkooporderbedrag van € 8,00 en op 22 april 2009 verkoopt hij de overige 652 aandelen voor een bedrag van € 8,50. De totale opbrengst is € 21.512,45. Het financiële gewin bedraagt in totaal €14.016,70.
+
+Op 21 april 2009 stuurt de vrouw van [B] naar [B] een mail met daarin de vraag “Hoeveel kost het nu.” [B] antwoordt daarop op 21 april 2009 naar zijn vrouw: “Op acht, je hoeft niet verder te kijken.” Vervolgens stuurt de vrouw van [B] op 22 april 2009 een link van een krantenartikel met als kop: “Mogelijk voorkennis bij handel in [vennootschap 1] aandelen.” [B] antwoordt daarop met: “Nerd er staat toch bij de kranten kop dat het gaat om een artikel betreft 1999.”
+
+Geldstromen na de verkoop aandelen
+
+Op 8 mei 2009 wordt in Den Haag en op 11 mei 2009 in Apeldoorn door [A] in totaal een bedrag van € 13.000,00 contant van zijn rekening opgenomen. Op 11 mei wordt er € 7.000,00 gestort op de rekening van verdachte. Op 11 mei 2009 wordt een bedrag van € 5.000,00 en op 12 mei 2009 een bedrag van € 1.000,00 gestort op de rekening van de vader van verdachte en [B]. Vervolgens wordt op 18 mei 2009 vanaf de rekening van de vader van verdachte en [B] een bedrag van € 1.000,00 overgemaakt naar de rekening van verdachte en € 5.000,00 naar de rekening van [B], onder vermelding van “winst.” De vader van verdachte en [B] heeft verklaard dat zijn kinderen voor hem internetbankieren.
+
+4.3.5.
+
+Nadere bewijsoverweging
+
+De rechtbank stelt voorop, ook al is het niet betwist, dat [vennootschap 1] een uitgevende instelling is in de zin van de Wet op het financieel toezicht. Een Nederlandse naamloze vennootschap is een rechtspersoon waarvan het maatschappelijk kapitaal is verdeeld in aandelen. Dat het hier om een beursgenoteerd bedrijf gaat blijkt uit het dossier en de rechtbank neemt daarom op basis van het dossier aan dat de aandelen in [vennootschap 1] zijn genoteerd op de effectenbeurs Euronext Amsterdam, gevestigd te Amsterdam, en vergunninghouder is als bedoeld in artikel 5:26 lid 1 van de Wft.
+
+Voorts is de rechtbank van oordeel dat het niet anders kan dat [B] de concrete en koersgevoelige informatie die in drafts stonden, onder ogen heeft gekregen, door middel van  stukken waarover zijn kamergenoot en insider [E] beschikte, en dat hij die informatie heeft doorgespeeld aan verdachte, die de concrete en koersgevoelige informatie vervolgens weer heeft doorgespeeld aan [A] en naar aanleiding waarvan [A] vervolgens (mede) op verzoek van verdachte de aandelen [vennootschap 1] heeft gekocht.
+
+De rechtbank grondt hier haar overtuiging dat de informatie die [B] en vervolgens verdachte heeft doorgespeeld concrete informatie betrof, op basis van:
+
+het feit dat zowel de anonieme tipgever als getuige [C] heeft verklaard dat verdachte een waardevolle tip van haar broer had gekregen, waarbij de anonieme tipgever de informatie heeft gespecificeerd naar jaarcijfers en het nieuws van een nieuwe klant;
+
+de timing van de transacties, te weten het feit dat [A] slechts een dag na het binnenkomen van de drafts een grote hoeveelheid aandelen heeft gekocht, terwijl hij niet eerder in aandelen [vennootschap 1] heeft gehandeld;
+
+het feit dat [A] naast de aandelen die hij op verzoek van verdachte heeft gekocht zelf ook nog 652 aandelen heeft gekocht;
+
+het feit dat deze aan- en verkoop van de aandelen [vennootschap 1] afwijkt van het normale handelspatroon van [A];
+
+- en op het feit dat [A] direct op de dag van de tweede aankoop een verkooporder heeft geplaatst bij een koers van € 8,00.  Een koers die vanaf januari 2009 tot april 2009 schommelde tussen de € 2,20 en € 3,25. Deze geplaatste verkooporder acht de rechtbank dan ook zo specifiek dat het, mede gelet op het hiervoor genoemde, niet anders kan dan dat verdachte en [A] wisten dat er een verdrievoudiging van de omzet zou komen. En die informatie was niet afkomstig uit berichten dan wel geruchten in de markt die aanleiding konden geven tot speculatie op een grote koersstijging van het aandeel [vennootschap 1].
+
+De rechtbank grondt haar overtuiging dat ook verdachte [B] bij het gebruik maken van de voorwetenschap betrokken is geweest
+
+uit de verdeling van de winst na de verkoop van de aandelen. Uit de geldstromen kan niet anders worden afgeleid dan dat de € 13.000,00 die [A] contant van zijn rekening heeft afgehaald, onder verdachte en [B] is verdeeld en dat zij zelf via de rekening van hun vader hebben getracht de werkelijke herkomst van het geld te verhullen. Daarbij neemt de rechtbank in overweging dat verdachte noch [B] een aannemelijke verklaring heeft gegeven over de geldstortingen op hun rekeningen. Ook heeft [A] geen aannemelijke verklaring gegeven over waarom hij € 13.000,00 van zijn rekening heeft gehaald;
+
+en uit de mailwisselingen tussen [B] en zijn vrouw. De rechtbank acht ook de verklaringen van [B] op die mailwisselingen ongeloofwaardig en onaannemelijk.
+
+Verdachte moet worden aangemerkt als een secundaire insider. Uit de getuigenverklaring van [C] en de anonieme tip en uit het handelen van verdachte met betrekking tot de aankoop van de aandelen en gelet op de functie die verdachte bekleedde binnen de AbnAmro bank, kan worden vastgesteld dat verdachte wist dat de informatie die [B] aan haar had doorgespeeld koersgevoelige informatie betrof en daardoor te kwalificeren was als voorwetenschap.
+
+De rechtbank komt dan ook op basis van al hetgeen hiervoor is overwogen tot de slotsom dat verdachte bij de transacties die hier in het geding zijn, wist dat zij de bedoelde voorwetenschap had, die voorwetenschap heeft doorgespeeld en van die wetenschap samen met [B] en [A] gebruik heeft gemaakt, zoals ten laste gelegd.
+
+5
+Bewezenverklaring
+
+De rechtbank acht op grond van de in rubriek 4.3 vervatte bewijsmiddelen en de vervatte bewijsoverweging bewezen dat verdachte
+
+Ten aanzien van het onder feit 1 ten laste gelegde:
+
+in de periode van 30 maart 2009 tot en met 22 april 2009 te Apeldoorn en/of Rotterdam en/of Den Haag en/of Amsterdam, terwijl zij wist dat zij beschikte over voorwetenschap als bedoeld in artikel 5:53 lid 1 Wet op het financiële toezicht, omtrent de rechtspersoon, waarvan de aandelen zijn te beschouwen als financiële instrumenten als bedoeld in artikel 5:56, eerste lid onder a, b, c of d, de informatie waarop haar voorwetenschap betrekking had, heeft medegedeeld aan een derde, [A], te weten:
+
+dat [vennootschap 1] op korte termijn een contract zou sluiten met het bedrijf [vennootschap 2] met betrekking tot het aanleveren van kaarten van West-Europa door [vennootschap 1] aan [vennootschap 2] en
+
+dat de winst van [vennootschap 1] in 2009 zou verdriedubbelen ten opzichte van de winst in 2008,
+
+welke informatie nog niet openbaar was gemaakt op het moment van mededelen aan voornoemde [A] en waarvan openbaarmaking significante invloed zou kunnen
+
+hebben op de koers van de aandelen [vennootschap 1]:
+
+Ten aanzien van het onder feit 2 ten laste gelegde:
+
+in de periode van 30 maart 2009 tot en met 22 april 2009 te Apeldoorn en/of Rotterdam en/of Den Haag en/of Amsterdam, tezamen en in vereniging met personen terwijl zij wist dat zij beschikte over voorwetenschap als bedoeld in artikel 5:53, lid 1, van de Wet op het financieel toezicht, gebruik heeft gemaakt van die voorwetenschap door transacties te verrichten in aandelen [vennootschap 1], zijnde financiële instrumenten die zijn toegelaten tot de handel op een gereglementeerde markt, waarvoor een vergunning als bedoeld in artikel 5:26, lid 1, van de Wet op het financieel toezicht, is verleend, te weten Euronext Amsterdam, immers hebben verdachte en haar mededaders
+
+op 2 april 2009 1000 aandelen [vennootschap 1] aangekocht en
+
+op 3 april 2009 1653 aandelen [vennootschap 1] aangekocht,
+
+terwijl zij bekend was met niet openbaar gemaakte, concrete informatie die rechtstreeks, althans middellijk betrekking had op [vennootschap 1], te weten:
+
+dat [vennootschap 1] op korte termijn een contract zou sluiten met het bedrijf [vennootschap 2] met betrekking tot het aanleveren van kaarten van West-Europa door [vennootschap 1] aan [vennootschap 2] en
+
+dat de winst van [vennootschap 1] in 2009 zou verdriedubbelen ten opzichte van de winst in 2008,
+
+welke informatie nog niet openbaar was gemaakt op het moment dat genoemde transacties zijn verricht en waarvan de openbaarmaking significante invloed zou kunnen hebben op de koers van de aandelen [vennootschap 1].
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten staan, zijn deze verbeterd. Verdachte is hierdoor niet in de verdediging geschaad.
+
+6
+De strafbaarheid van de feiten
+
+De bewezen geachte feiten zijn volgens de wet strafbaar. Het bestaan van een rechtvaardigingsgrond is niet aannemelijk geworden.
+
+7
+De strafbaarheid van verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van verdachte uitsluit. Verdachte is dan ook strafbaar.
+
+8
+Motivering van de straffen
+
+8.1.
+
+De eis van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte voor de door haar onder 1 en 2 bewezen geachte feiten zal worden veroordeeld tot een werkstraf van 200 uren, met bevel, voor het geval dat verdachte de werkstraf niet naar behoren (heeft) verricht, dat vervangende hechtenis zal worden toegepast van 100 dagen en een geldboete van € 3.000,00, bij gebreke van betaling en verhaal te vervangen door hechtenis van 40 dagen, geheel voorwaardelijk, met een proeftijd van 2 jaren.
+
+8.2.
+
+Het strafmaatverweer van de verdediging
+
+De verdediging heeft de rechtbank verzocht bij een eventuele strafmaat rekening te houden met de geringe winst die verdachte met deze transacties zou hebben gemaakt, met het feit dat haar arbeidsovereenkomst met de AbnAmro bank is ontbonden en dat het voor haar zeer moeilijk zal worden een geschikte baan te vinden en met de impact die het strafrechtelijke onderzoek op verdachte heeft gehad. Voorts heeft de verdediging zich op het standpunt gesteld dat een voorwaardelijke geldboete niet opportuun is in het licht van de door de officier van justitie aangezegde vordering tot onttrekking van het wederrechtelijk verkregen voordeel.
+
+8.3.
+
+Het oordeel van de rechtbank
+
+De hierna te noemen strafoplegging is in overeenstemming met de ernst van het bewezen geachte, de omstandigheden waaronder dit is begaan en de persoon en de draagkracht van verdachte, zoals daarvan ter terechtzitting is gebleken.
+
+Verdachte heeft zich allereerst schuldig gemaakt aan overtreding van het tipverbod, door opzettelijk koersgevoelige informatie die zij van haar broer [B] had ontvangen, welke informatie nog niet openbaar was gemaakt, door te geven aan [A] met het doel die informatie te gebruiken bij de aankoop van aandelen, met als enige doel financieel gewin. Bij het gebruik maken van die koersgevoelige informatie heeft verdachte zich schuldig gemaakt aan het medeplegen van wat in de volksmond ook wel beursfraude wordt genoemd.
+
+De verdachte heeft door op deze wijze te handelen een inbreuk gemaakt op de (werking van de) fair and orderly market die de relevante wetgeving juist beoogt te beschermen. Nu de koersgevoelige informatie niet openbaar was gemaakt kon verdachte, die erover beschikte, een voordeel verschaffen vergeleken met alle andere marktdeelnemers die daarvan niet op de hoogte waren. Het wezenlijke kenmerk van handel met voorwetenschap bestaat er immers in dat ongerechtvaardigd voordeel uit informatie wordt gehaald ten nadele van derden die daarvan niet op de hoogte zijn, en dat er dus afbreuk wordt gedaan aan de integriteit van de financiële markten en aan het vertrouwen van de beleggers. Daarbij weegt de rechtbank mee dat verdachte samen met haar broer als de auctor intellectualis kan worden aangemerkt van de bewezen geachte feiten.
+
+De ernst van de feiten rechtvaardigen naar het oordeel van de rechtbank een straf zoals door de officier van justitie is gevorderd. Ook een voorwaardelijke geldboete acht de rechtbank op zijn plaats, omdat men ervan moet worden doordrongen dat dergelijke ernstige schendingen van financiële toezichtwetgeving niet door de beugel kunnen.
+
+Wel ziet de rechtbank reden om bij de hoogte van de werkstraf in het voordeel van verdachte af te wijken van hetgeen door officier van justitie is geëist, nu de rechtbank ten voordele van de verdachte rekening houdt met de persoonlijke omstandigheden van verdachte, waartoe het feit dat verdachte haar baan is kwijtgeraakt naar aanleiding van de bewezen geachte feiten en dat de bewezen geachte feiten inmiddels geruime tijd geleden hebben plaatsgevonden.
+
+9
+Toepasselijke wettelijke voorschriften
+
+De op te leggen straffen zijn gegrond op de artikelen 14a, 14b, 14c, 22c, 22d, 23, 24c, 47, 57 van het Wetboek van Strafrecht en op de artikelen 1, 2 en 6 van de Wet op de economische delicten en op de artikel 5:56 en 5:57 van de Wet op het financieel toezicht.
+
+De rechtbank komt op grond van het voorgaande tot de volgende beslissing.
+
+10
+Beslissing
+
+Verklaart bewezen dat verdachte het ten laste gelegde heeft begaan zoals hiervoor in rubriek 5 is vermeld.
+
+Verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd dan hiervoor is bewezen verklaard en spreekt verdachte daarvan vrij.
+
+Het bewezen verklaarde levert op:
+
+Ten aanzien van het onder feit 1 ten laste gelegde:
+
+overtreding van een voorschrift, gesteld bij artikel 5:57 van de Wet op het financieel toezicht, opzettelijk begaan
+
+Ten aanzien van het onder feit 2 ten laste gelegde:
+
+overtreding van een voorschrift, gesteld bij artikel 5:56 van de Wet op het financieel toezicht, opzettelijk begaan, meermalen gepleegd
+
+Verklaart het bewezene strafbaar.
+
+Verklaart verdachte, [verdachte], daarvoor strafbaar.
+
+Veroordeelt verdachte tot een taakstraf bestaande uit het verrichten van onbetaalde arbeid van 180 uren, met bevel, voor het geval dat de verdachte de taakstraf niet naar behoren heeft verricht, dat vervangende hechtenis zal worden toegepast van 80 dagen, met bevel dat de tijd die door verdachte vóór de tenuitvoerlegging van deze uitspraak in verzekering  is doorgebracht, bij de uitvoering van deze straf geheel in mindering zal worden gebracht naar de maatstaf van 2 uren per dag.
+
+Veroordeelt verdachte tot een geldboete van € 3.000 (drieduizend euro), bij gebreke van betaling en verhaal te vervangen door hechtenis van 40 dagen.
+
+Beveelt dat deze geldboete niet zal worden ten uitvoer gelegd, tenzij later anders wordt gelast.
+
+Stelt daarbij een proeftijd van 2 (twee) jaren vast.
+
+De tenuitvoerlegging kan worden gelast indien veroordeelde zich voor het einde van de proeftijd aan een strafbaar feit schuldig maakt.
+
+Dit vonnis is gewezen door
+
+mr. J. Knol, 	voorzitter,
+
+mrs. J.A.A.G. de Vries en P.J. van Eekeren, 	rechters,
+
+in tegenwoordigheid van mr. S. Zuithoff, 	griffier,
+
+en uitgesproken op de openbare terechtzitting van deze rechtbank van 20 juni 2013.
+
+Bijlage 1
+
+Bewijsmiddelen
+
+1. Een proces-verbaal met nummer [nummer pv] van [datum pv], in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtena(a)r(en) [Namen verbalisanten] (, doorgenummerde pag. ...).
+
+Dit proces-verbaal houdt onder meer in als verklaring van [Naam verklaarder], zakelijk weergegeven:
+
+***
+
+2. Een proces-verbaal met nummer [nummer pv] van [datum pv], in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtena(a)r(en) [Namen verbalisanten] (, doorgenummerde pag. ...).
+
+Dit proces-verbaal houdt onder meer in als verklaring van [Naam verklaarder], zakelijk weergegeven:
+
+***
+
+3. Een proces-verbaal met nummer [nummer pv] van [datum pv], in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtena(a)r(en) [Namen verbalisanten] (, doorgenummerde pag. ...).
+
+Dit proces-verbaal houdt onder meer in als verklaring van [Naam verklaarder], zakelijk weergegeven:
+
+***
+
+Voor zover niet anders vermeld, wordt in de hierna volgende voetnoten telkens verwezen naar bewijsmiddelen die zich in het aan deze zaak ten grondslag liggende dossier bevinden, volgens de in dat dossier toegepaste nummering. Tenzij anders vermeld, gaat het daarbij om processen-verbaal, in de wettelijke vorm opgemaakt door daartoe bevoegde opsporingsambtenaren.
+
+Waar in de hierna volgende voetnoten wordt verwezen naar de processtukken
+
+-	‘V’, betreft dit telkens een door de daartoe bevoegde opsporingsambtena(a)r(en) in de wettelijke vorm op ambtseed/ambtsbelofte opgemaakt proces-verbaal van verhoor [NN] als bedoeld in artikel 344, eerste lid onder 3 Sv, telkens inhoudende de als verdachte afgelegde verklaring van na te noemen [NN];
+
+-	‘G’, betreft dit telkens een door de daartoe bevoegde opsporingsambtena(a)r(en) in de wettelijke vorm op ambtseed/ambtsbelofte opgemaakt proces-verbaal van verhoor [NN] als bedoeld in artikel 344, eerste lid onder 3 Sv, telkens inhoudende de als getuige afgelegde verklaring van na te noemen [NN];
+
+-	‘AH’, betreft dit telkens een door de daartoe bevoegde opsporingsambtena(a)r(en) in de wettelijke vorm op ambtseed/ambtsbelofte opgemaakt proces-verbaal van bevindingen als bedoeld in artikel 344, eerste lid onder 3 Sv, telkens inhoudende de mededeling van door hem/haar/hun waargenomen of ondervonden feiten en omstandigheden;
+
+-	‘D’, betreft dit telkens een ander geschrift als bedoeld in artikel 344 onder 5 Sv;
+
+-	‘OPV’ of ‘ZPV’, betreft dit telkens een door de daartoe bevoegde opsporingsambtena(a)r(en) in de wettelijke vorm op ambtseed/ambtsbelofte opgemaakt overzichtsproces-verbaal dan wel zaaksproces-verbaal, bevattende een overzicht van het hierna te noemen proces-verbaal van de FIOD-ECD.
+
+Deze bewijsmiddelen ‘V’, ‘AH’ en ‘D’ en ‘OPV’ zijn telkens opgenomen als bijlage bij het proces-verbaal van de FIOD-ECD met dossiernummer 48108.
+
+D-003
+
+D-002, blz. 4 en 7
+
+D-001
+
+OPV, blz. 10
+
+AH-08, blz. 1
+
+AH-01, blz. 8
+
+V01-01, blz. 2
+
+D-019 en D-020
+
+G04-01, blz. 3
+
+D-023
+
+G04-01, blz. 7; D-045
+
+G04-01, blz. 4 en 7; D-043
+
+AH-028, blz. 6 en 10
+
+D-020
+
+D-085 en D-084
+
+V03-01, blz. 2
+
+G08-01, blz. 4, 5
+
+AH-02, blz. 3,4; D-006; D-009, blz. 11, 12
+
+V03-01, blz. 5; V03-02, blz. 4; V03-03, blz. 2
+
+D-017, blz. 10
+
+D-010, blz. 6, 7
+
+D-049
+
+D-002, blz. 8
+
+AH-02, blz. 3; D-005; D-006; D-007
+
+AH-17, alsmede D-047 en D-048
+
+AH-02;D-026, blz. 11, 13
+
+D-029, blz. 2
+
+AH-02, blz. 5; D-035, blz. 3, 4; AH-01, blz. 8
+
+G03-01, blz. 2
+
+D-085, de daarin genoemde Wet toezicht effectenverkeer is in 2006 vervangen door de toen inwerking getreden Wet op het financieel toezicht, derhalve leest de rechtbank, nu de feiten hebben plaatsgevonden in 2009, hier de nieuwe wetsartikelen.
+
+AH-16, blz. 2
+
+AH-016, blz. 2
+
+D-001; D-044
