@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2014:2313"
-published_in: ["Rechtspraak.nl", "Module Privacy en persoonsgegevens 2016/1130", "JBP 2014/93", "JBP 2015/36", "Module Privacy & AVG 2016/1130"]
+published_in: ["Rechtspraak.nl", "JBP 2014/93", "JBP 2015/36", "Module Privacy & AVG 2016/1130"]
 ---
 
 # ECLI:NL:RBAMS:2014:2313 Rechtbank Amsterdam , 26-03-2014 / AMS 12-3725
