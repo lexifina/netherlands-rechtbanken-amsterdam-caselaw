@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2015:10268"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0608", "PR-Updates.nl PR-2019-0083"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0608", "PR-Updates.nl PR-2019-0083", "VAAN-AR-Updates.nl 2019-0608", "PR-Updates.nl 2019-0083"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBAMS:2018:10039"]]
 ---
 
