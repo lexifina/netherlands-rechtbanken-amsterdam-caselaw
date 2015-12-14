@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2015:9415"
-published_in: ["Rechtspraak.nl", "AR 2015/2701", "PJ 2016/35", "AR-Updates.nl 2016-0001", "PR-Updates.nl AR-2016-0001"]
+published_in: ["Rechtspraak.nl", "AR 2015/2701", "PJ 2016/35", "AR-Updates.nl 2016-0001", "PR-Updates.nl AR-2016-0001", "PR-Updates.nl 2016-0001"]
 ---
 
 # ECLI:NL:RBAMS:2015:9415 Rechtbank Amsterdam , 14-12-2015 / CV EXPL 14-13214
