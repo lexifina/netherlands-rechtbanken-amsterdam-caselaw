@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2016:1678"
-published_in: ["Rechtspraak.nl", "AR 2016/882", "Prg. 2016/123", "TRA 2016/62 met annotatie van F.M. Dekker", "PJ 2016/111", "JAR 2016/98 met annotatie van mr. M. Faber", "AR-Updates.nl 2016-0326", "XpertHR.nl 2017-20000961", "PR-Updates.nl AR-2016-0326"]
+published_in: ["Rechtspraak.nl", "AR 2016/882", "Prg. 2016/123", "TRA 2016/62 met annotatie van F.M. Dekker", "PJ 2016/111", "JAR 2016/98 met annotatie van mr. M. Faber", "AR-Updates.nl 2016-0326", "PR-Updates.nl AR-2016-0326", "Brightmine 2017-20000961", "PR-Updates.nl 2016-0326"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-669.md", "netherlands/national/acts/bw-boek-7/art-671b.md"]
 ---
 
