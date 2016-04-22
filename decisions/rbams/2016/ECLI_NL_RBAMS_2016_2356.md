@@ -1,0 +1,126 @@
+---
+ecli: "ECLI:NL:RBAMS:2016:2356"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "AMS - 15 _ 6497"
+decided: "2016-04-22"
+published: "2016-04-21"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2016:2356"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2016:2356 Rechtbank Amsterdam , 22-04-2016 / AMS - 15 _ 6497
+
+## Inhoudsindicatie
+
+De rechtbank verwijst naar de uitspraak van de Afdeling van 26 november 2015 (ECLI:NL:RVS:2015:3415). Uit deze uitspraak volgt, dat vreemdelingen zonder rechtmatig verblijf zich tot de staatssecretaris van Veiligheid en Justitie kunnen wenden voor opvang in een vrijheidsbeperkende locatie (VBL). De stelling van eiseres dat zij ten tijde van de aanvraag in deze procedure in een kansrijke verblijfsprocedure zat en van haar daarom niet verlangd kon worden dat zij opvang in een VBL moet genieten is op zichzelf niet onaannemelijk, maar dat eiseres ten tijde van de aanvraag in deze procedure al in een kansrijke verblijfsprocedure zat, heeft zij niet onderbouwd en dus niet aannemelijk gemaakt.
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+Bestuursrecht
+
+zaaknummer: AMS 15/6497
+
+uitspraak van de enkelvoudige kamer van 22 april 2016 in de zaak tussen
+
+[de vrouw] , te Amsterdam, eiseres
+
+(gemachtigde: mr. E.C. Weijsenfeld),
+
+en
+
+het college van burgemeester en wethouders van de gemeente Amsterdam, verweerder
+
+(gemachtigde: mr. E.T. 't Jong).
+
+Procesverloop
+
+Bij besluit van 22 april 2015 (het primaire besluit) heeft verweerder de aanvraag van eiseres om een tijdelijke maatwerkvoorziening op grond van de Wet maatschappelijke ondersteuning 2015 (Wmo 2015) afgewezen.
+
+Bij besluit van 25 september 2015 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard.
+
+Eiseres heeft tegen het bestreden besluit beroep ingesteld. Verweerder heeft een verweerschrift ingediend.
+
+Met toestemming van partijen is het onderzoek ter zitting achterwege gebleven.
+
+Overwegingen
+
+1.1.
+
+Eiseres is geboren op [geboortedatum] 1984, stelt afkomstig te zijn uit Somalië en had tot 29 september 2015 geen rechtmatig verblijf (meer) in Nederland. Op 17 februari 2015 heeft eiseres een melding en aanvraag ingediend om een tijdelijke maatwerkvoorziening. Verweerder heeft het verzoek aangemerkt als een aanvraag om een maatwerkvoorziening als bedoeld in de Wmo 2015.
+
+1.2.
+
+Bij het primaire besluit heeft verweerder de aanvraag afgewezen. Eiseres heeft hiertegen bezwaar gemaakt. Met (een kantoorgenoot van) de gemachtigde van eiseres is afgesproken in deze zaak geen hoorzitting te houden, maar de bezwaren uit de hoorzitting van 28 mei 2015 in een soortgelijk geval zo veel mogelijk mee te nemen.
+
+2. Bij het bestreden besluit heeft verweerder het bezwaar van eiseres ongegrond verklaard. Verweerder heeft hieraan onder meer ten grondslag gelegd dat eiseres vanwege haar verblijfsstatus en gelet op het koppelingsbeginsel op grond van de Wmo 2015 geen aanspraak heeft op een maatwerkvoorziening. In het bestreden besluit is verder vermeld dat een bed-bad-broodvoorziening is ingericht en opengesteld, die vrij toegankelijk is voor elke vreemdeling zonder rechtmatig verblijf. Die bed-bad-broodvoorziening is namelijk een algemene voorziening en geen maatwerkvoorziening. Eiseres heeft verder niet aannemelijk gemaakt dat zij voldoet aan de voorwaarden om in aanmerking te komen voor een uitkering op grond van het Fonds Gevolgen Vreemdelingenwetgeving (FGV).
+
+3. Eiseres stelt in beroep – samengevat – dat verweerder ten onrechte heeft volstaan met een verwijzing naar de bed-bad-broodvoorziening zonder onderzoek te doen naar de noodzaak voor een maatwerkvoorziening. Voorts maakt eiseres aanspraak op leefgeld bijvoorbeeld op grond van het FGV naar de norm van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 (Rva).
+
+4.1.
+
+Eiseres heeft verder een beroep gedaan op het bestaan van betalingsonmacht ten aanzien van de verplichting tot het betalen van griffierecht. Eiseres heeft daartoe een verklaring omtrent inkomen en vermogen overgelegd.
+
+4.2.
+
+Gelet op het voorgaande en gelet op hetgeen de Centrale Raad van Beroep in zijn uitspraak van 13 februari 2015 (ECLI:NL:CRVB:2015:282) heeft overwogen, is de rechtbank van oordeel dat het beroep op betalingsonmacht dient te worden toegewezen. Eiseres hoeft in deze procedure geen griffierecht te betalen.
+
+5. Op grond van artikel 1.2.2 van de Wmo 2015 komt een vreemdeling voor het verstrekken van een maatwerkvoorziening slechts in aanmerking indien hij rechtmatig verblijf houdt in de zin van artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000.
+
+6. De rechtbank wijst voorts op de uitspraken van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) en de Centrale Raad van Beroep (de Raad) van 26 november 2015 (ECLI:NL:RVS:2015:3415, ECLI:NL:CRVB:2015:3803 en ECLI:NL:CRVB:2015:3834). Uit deze uitspraken blijkt dat de staatssecretaris van Veiligheid en Justitie verantwoordelijk is voor de opvang van niet rechtmatig in Nederland verblijvende vreemdelingen en dat, anders dan voorheen, de door gemeenten getroffen specifieke opvangvoorzieningen voor niet rechtmatig in Nederland verblijvende vreemdelingen op wie het koppelingsbeginsel van toepassing is, niet (meer) worden aangemerkt als (maatschappelijke) opvang op grond van de Wmo 2015.
+
+7. De besluitvorming van verweerder berust voor een deel op de Wmo 2015 en voor een deel op de bed-bad-broodvoorziening en het overig beleid van verweerder met betrekking tot vreemdelingen zonder rechtmatig verblijf. De Raad heeft in zijn uitspraak van 24 februari 2016 (ECLI:NL:CRVB:2016:622) overwogen dat, gelet op de hierboven aangehaalde uitspraak ECLI:NL:CRVB:2015:3834, niet hij maar de Afdeling bevoegd is kennis te nemen van hoger beroepen gericht tegen uitspraken die zien op de bed-bad-broodvoorziening en het (overige) gemeentelijke FGV-beleid. Daarom zal de rechtbank de gronden in verband met de Wmo 2015 en de gronden in verband met het verzoek om opvang en in verband met het beleid van verweerder ten aanzien van vreemdelingen zonder rechtmatig verblijf afzonderlijk beoordelen.
+
+Aanspraak op een maatwerkvoorziening op grond van de Wmo 2015
+
+8. Omdat eiseres in de periode in geding niet rechtmatig in Nederland verbleef, kon zij gelet op het voorgaande geen aanspraak maken op een maatwerkvoorziening op grond van de Wmo 2015. Daarom was verweerder ook niet gehouden onderzoek te doen naar de noodzaak voor een maatwerkvoorziening.
+
+9. De rechtbank zal het beroep voor zover het betreft de aanspraak op een maatwerkvoorziening op grond van de Wmo 2015 dan ook ongegrond verklaren.
+
+Verzoek om opvang en aanspraken op grond van het beleid van verweerder
+
+10. De rechtbank verwijst naar de hierboven genoemde uitspraak van de Afdeling van 26 november 2015. Uit deze uitspraak volgt, dat vreemdelingen zonder rechtmatig verblijf zich tot de staatssecretaris van Veiligheid en Justitie kunnen wenden voor opvang in een vrijheidsbeperkende locatie (VBL). Het gevolg van de keuze van een meerderjarige vreemdeling zonder rechtmatig verblijf op wie de plicht rust om Nederland uit eigen beweging te verlaten, om zich niet bereid te verklaren mee te werken aan vertrek, te weten dat de staatssecretaris hem de toegang tot de VBL weigert, komt in beginsel voor diens risico. Voorts is in een VBL medisch noodzakelijke zorg voorhanden. Ten slotte volgt uit deze uitspraak dat slechts in een procedure over een aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd wordt beoordeeld of een vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken. De stelling van eiseres dat zij ten tijde van de aanvraag in deze procedure in een kansrijke verblijfsprocedure zat en van haar daarom niet verlangd kon worden dat zij opvang in een VBL moet genieten is op zichzelf niet onaannemelijk, maar dat eiseres ten tijde van de aanvraag in deze procedure al in een kansrijke verblijfsprocedure zat, heeft zij niet onderbouwd en dus niet aannemelijk gemaakt. Naar het oordeel van de rechtbank diende eiseres zich voor opvang in de tijd tot 29 september 2015 dan ook tot de staatssecretaris van Veiligheid en Justitie te wenden.
+
+11. Verweerder heeft beleid ontwikkeld voor vreemdelingen zonder rechtmatig verblijf. Er is een bed-bad-broodvoorziening ingericht en opengesteld en er is crisis- en ziekenboegopvang. Voorts kan op grond van dit beleid een bepaalde categorie vreemdelingen een uitkering uit het FGV krijgen, te weten vreemdelingen met medische problematiek en juridisch perspectief. Omdat de bed-bad-broodvoorziening vrij toegankelijk is voor elke vreemdeling zonder rechtmatig verblijf, is dit een algemene voorziening als bedoeld in het beleid en is voor verwijzing naar deze voorziening geen besluit vereist. Omdat vreemdelingen zonder rechtmatig verblijf worden geacht zich voor opvang tot de staatssecretaris van Veiligheid en Justitie te wenden, kunnen op grond van de stelling dat de bed-bad-broodvoorziening niet adequaat is, zo deze onderbouwd zou zijn, geen rechten aan het beleid worden ontleend.
+
+12. Verweerder kan in beginsel volstaan te verwijzen naar een algemene voorziening, zoals de bed-bad-broodvoorziening. Omdat eiseres geen begin van bewijs heeft geleverd om de aanspraak op een andere voorziening te onderbouwen, was verweerder niet gehouden daarnaar onderzoek te verrichten. Eiseres heeft voorts niet onderbouwd dat zij voldoet aan de voorwaarden om in aanmerking te komen voor een uitkering op grond van het FGV. Omdat het een aanvraagsituatie betreft, ligt het op de weg van eiseres om haar aanspraken te onderbouwen. Verweerder heeft daarom terecht besloten dat eiseres niet in aanmerking komt voor een uitkering op grond van het FGV.
+
+13. De rechtbank zal het beroep voor zover het betreft het verzoek om opvang en de aanspraken op grond van het beleid van verweerder dan ook ongegrond verklaren.
+
+Proceskosten en griffierecht
+
+14. Voor een veroordeling in de proceskosten ziet de rechtbank geen aanleiding. Eiseres is in deze procedure vrijgesteld van betaling van het griffierecht.
+
+Beslissing I
+
+De rechtbank verklaart het beroep voor zover het betreft aanspraak op een maatwerkvoorziening op grond van de Wmo 2015 ongegrond.
+
+Rechtsmiddel I
+
+Tegen dit deel van de uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.
+
+Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
+
+Beslissing II
+
+De rechtbank verklaart het beroep voor zover het betreft het verzoek om opvang en aanspraken op grond van het beleid van verweerder ongegrond.
+
+Rechtsmiddel II
+
+Tegen dit deel van de uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+
+Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
+
+Deze uitspraak is gedaan door mr. E.J. Otten, rechter, in aanwezigheid van mr. E.H. Kalse-Spoon, griffier.
+
+De beslissing is in het openbaar uitgesproken op 22 april 2016.
+
+griffier
+
+rechter
+
+Afschrift verzonden aan partijen op:
