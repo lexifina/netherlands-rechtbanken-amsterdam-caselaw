@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2016:3559"
-published_in: ["Rechtspraak.nl", "AR 2016/1663", "PJ 2016/113", "JAR 2016/135", "AR-Updates.nl 2016-0656", "PR-Updates.nl AR-2016-0656"]
+published_in: ["Rechtspraak.nl", "AR 2016/1663", "PJ 2016/113", "JAR 2016/135", "AR-Updates.nl 2016-0656", "PR-Updates.nl AR-2016-0656", "PR-Updates.nl 2016-0656"]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-310.md", "netherlands/national/acts/bw-boek-7/art-646.md", "netherlands/national/acts/bw-boek-7/art-649.md"]
 ---
 
