@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2016:6084"
-published_in: ["Rechtspraak.nl", "AR 2016/2789", "PJ 2016/161 met annotatie van E. Lutjens", "JAR 2016/261", "AR-Updates.nl 2016-1066", "PR-Updates.nl AR-2016-1066"]
+published_in: ["Rechtspraak.nl", "AR 2016/2789", "PJ 2016/161 met annotatie van E. Lutjens", "JAR 2016/261", "AR-Updates.nl 2016-1066", "PR-Updates.nl AR-2016-1066", "PR-Updates.nl 2016-1066"]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-248.md", "netherlands/national/acts/wet-op-de-loonvorming/art-004.md"]
 ---
 
