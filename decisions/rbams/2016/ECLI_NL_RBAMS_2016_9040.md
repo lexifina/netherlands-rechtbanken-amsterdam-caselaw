@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2016:9040"
-published_in: ["Rechtspraak.nl", "AR 2017/27", "PJ 2017/10 met annotatie van A.G. van Marwijk Kooy", "AR-Updates.nl 2017-0006", "PR-Updates.nl AR-2017-0006"]
+published_in: ["Rechtspraak.nl", "AR 2017/27", "PJ 2017/10 met annotatie van A.G. van Marwijk Kooy", "AR-Updates.nl 2017-0006", "PR-Updates.nl AR-2017-0006", "PR-Updates.nl 2017-0006"]
 ---
 
 # ECLI:NL:RBAMS:2016:9040 Rechtbank Amsterdam , 30-12-2016 / CV EXPL 15-14703
