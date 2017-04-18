@@ -1,0 +1,337 @@
+---
+ecli: "ECLI:NL:RBAMS:2017:2774"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "13/698044-16"
+decided: "2017-04-18"
+published: "2017-04-25"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2017:2774"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2017:2774 Rechtbank Amsterdam , 18-04-2017 / 13/698044-16
+
+## Inhoudsindicatie
+
+Medeplegen (poging) zware mishandeling en openlijke geweldpleging
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+
+VONNIS
+
+Parketnummers: 	13/698044-16
+
+13/701390-15 (TUL)
+
+16/652294-15 (TUL)
+
+Datum uitspraak: 18 april 2017
+
+Vonnis van de rechtbank Amsterdam, meervoudige strafkamer, in de strafzaak tegen
+
+[verdachte]
+,
+
+geboren te [geboorteplaats] (Iran) op [geboortedatum] 1994 ,
+
+ingeschreven in de Basisregistratie personen op het adres
+
+[adres] , [postcode] te [woonplaats 1] .
+
+1
+Onderzoek ter terechtzitting
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzitting van 4 april 2017.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie,
+
+mr. C.J. van Aert, en van wat verdachte en zijn raadsman, mr. P.P.J. van der Meij, naar voren hebben gebracht.
+
+2
+Tenlastelegging
+
+Aan verdachte is – na wijziging op de zitting – ten laste gelegd dat
+
+1.
+
+hij op of omstreeks 21 december 2015 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, aan [slachtoffer 1] opzettelijk zwaar lichamelijk letsel, te weten een hoofdwond en/of schedelfractuur, heeft toegebracht, door een of meermalen met een fles en/of kettingslot, in elk geval een of meer hard(e) voorwerp(en) in/op/tegen het hoofd te slaan en/of door het een of meermalen slaan/stompen en/of schoppen in/op/tegen het gezicht, althans het hoofd en/of het lichaam (terwijl voornoemde [slachtoffer 1] op de grond lag);
+
+Subsidiair:
+
+hij op of omstreeks 21 december 2015 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om aan [slachtoffer 1] opzettelijk zwaar lichamelijk letsel toe te brengen, voornoemde [slachtoffer 1] een of meermalen met een fles en/of kettingslot, in elk geval een of meer hard(e) voorwerp(en) in/op/tegen het hoofd heeft geslagen en/of een of meermalen in/op/tegen het gezicht, althans het hoofd en/of het lichaam heeft geslagen/gestompt en/of geschopt (terwijl voornoemde [slachtoffer 1] op de grond lag);
+
+meer subsidiair:
+
+hij op of omstreeks 21 december 2015 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk mishandelend een of meermalen met een fles en/of kettingslot in/op/tegen het hoofd van [slachtoffer 1] heeft geslagen en/of een of meermalen in/op/tegen het gezicht, althans het hoofd en/of het lichaam heeft geslagen/gestompt en/of geschopt (terwijl voornoemde [slachtoffer 1] op de grond lag), ten gevolge waarvan voornoemde [slachtoffer 1] zwaar lichamelijk letsel (een hoofdwond en/of schedelfractuur), althans enig lichamelijk letsel, heeft bekomen en/of pijn heeft ondervonden;
+
+2.
+
+hij op of omstreeks 21 december 2015 te Amsterdam, in elk geval in Nederland, met een ander of anderen, op of aan de openbare weg, te weten de Geelvincksteeg en/of de Singel en/of de Openhartsteeg, in elk geval op of aan een openbare weg, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer 1] , welk geweld bestond uit
+
+- het een of meermalen slaan/stompen en/of schoppen in/op/tegen het gezicht, althans het hoofd en/of het lichaam en/of
+
+- het een of meermalen slaan met een fles en/of kettingslot, in elk geval een of meer hard(e) voorwerp(en) in/op/tegen het hoofd;
+
+3.
+
+hij op of omstreeks 03 november 2015 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, aan [slachtoffer 2] opzettelijk zwaar lichamelijk letsel, te weten een gebroken enkel, heeft toegebracht, door een of meermalen op/tegen de enkel en/of het been en/of het gezicht en/of het hoofd en/of de zij en/of de rug en/of het lichaam van voornoemde [slachtoffer 2] te slaan/stompen en/of te schoppen en/of te trappen;
+
+Subsidiair
+
+hij op of omstreeks 03 november 2015 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om aan [slachtoffer 2] opzettelijk zwaar lichamelijk letsel toe te brengen, een of meermalen op/tegen de enkel en/of het been en/of het gezicht en/of het hoofd en/of de zij en/of de rug en/of het lichaam van voornoemde [slachtoffer 2] heeft geslagen/gestompt en/of geschopt en/of getrapt;
+
+Meer subsidiair
+
+hij op of omstreeks 03 november 2015 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk mishandelend een of meermalen tegen de enkel en/of het been en/of het gezicht en/of het hoofd en/of de zij en/of de rug en/of het lichaam van [slachtoffer 2] heeft geslagen/gestompt en/of geschopt en/of getrapt, ten gevolge waarvan voornoemde [slachtoffer 2] zwaar lichamelijk letsel (een gebroken enkel en/of been), althans enig lichamelijk letsel, heeft bekomen en/of pijn heeft ondervonden;
+
+4.
+
+hij op of omstreeks 03 november 2015 te Amsterdam, in elk geval in Nederland, met een ander of anderen, op een voor het publiek toegankelijke plaats of in een voor het publiek toegankelijke ruimte, te weten horecagelegenheid [naam horecagelegenheid] , en/of op of aan de openbare weg, de Reguliersdwarsstraat, in elk geval op of aan een openbare weg, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer 2] , welk geweld bestond uit
+
+- het een of meermalen slaan/stompen en/of schoppen op/tegen de enkel en/of het been van voornoemde [slachtoffer 2] en/of
+
+- het een of meer malen slaan/stompen en/of schoppen in/op/tegen het gezicht, althans het hoofd en/of het lichaam van voornoemde [slachtoffer 2] en/of
+
+- het gooien van een glas, althans een hard voorwerp, in/op/tegen het gezicht, althans het hoofd en/of het lichaam van voornoemde [slachtoffer 2] .
+
+3
+Voorvragen
+
+De dagvaarding is geldig, deze rechtbank is bevoegd tot kennisneming van de ten laste gelegde feiten en de officier van justitie is ontvankelijk. Er zijn geen redenen voor schorsing van de vervolging.
+
+4
+Waardering van het bewijs
+
+Feiten en omstandigheden
+
+De rechtbank gaat op grond van de in bijlage 1 vervatte bewijsmiddelen uit van de volgende feiten en omstandigheden.
+
+Ten aanzien van 21 december 2015
+
+Op 21 december 2015 zijn [slachtoffer 1] (hierna: slachtoffer) en [naam] (hierna: [naam] ) op stap in de bar Taboo in de Reguliersdwarsstraat te Amsterdam. Omstreeks 03:00 uur verlaten zij de bar. Op de hoek van de Reguliersdwarsstraat en de Geelvincksteeg ontstaat een geschil tussen het slachtoffer en twee mannen. Deze mannen blijken later verdachte en [medeverdachte] (hierna: [medeverdachte] ) te zijn. Het slachtoffer wordt aangevallen en krijgt klappen van beide mannen. Verdachte en [medeverdachte] lopen weg van het slachtoffer, gevolgd door het slachtoffer die achter hen aan rent. Verdachte en [medeverdachte] pakken beiden een fles en slaan daarmee het slachtoffer, onder meer op zijn hoofd. Daarnaast wordt het slachtoffer geschopt. In de directe nabijheid neemt getuige [getuige] (hierna: [getuige] ) het incident waar. Als één van de mannen in zijn richting loopt, pakt [getuige] het kettingslot van zijn fiets. De man weet dit kettingslot te bemachtigen. Ondertussen is het slachtoffer weggerend in de richting van de Geelvincksteeg. De man met het kettingslot rent achter hem aan. Halverwege de Geelvincksteeg voelt het slachtoffer een harde klap op zijn hoofd, waardoor hij op de grond valt. Het slachtoffer ziet één van de mannen naast hem staan met een kettingslot in zijn hand. [naam] en [getuige] lopen in de richting van het slachtoffer. [naam] ziet een behoorlijke hoofdwond bij het slachtoffer. [getuige] ziet de man met het kettingslot wegrennen. Hij ziet dat de man het kettingslot na enkele meters weggooit. Beide mannen rennen vervolgens weg in de richting van het Koningsplein.
+
+Ten aanzien van 3 november 2015
+
+Op 3 november 2015 zijn verdachte en [medeverdachte] in café [naam horecagelegenheid] op de Reguliersdwarsstraat te Amsterdam. Omstreeks 02:46 uur komt [slachtoffer 2] (hierna: slachtoffer) het café binnen. Vrijwel direct ontstaat een discussie tussen verdachte en het slachtoffer. Op de camerabeelden is zichtbaar dat verdachte door het slachtoffer wordt geprovoceerd. Het slachtoffer slaat de pet van het hoofd van verdachte en slaat een paar keer met zijn vuist in zijn hand. Vervolgens trekt hij op agressieve wijze zijn jas uit. Hierop wordt hij door verdachte aangevallen. Hij krijgt harde vuistslagen, waarna beide op de grond komen te liggen. Hierna wordt het slachtoffer door verdachte geslagen en door twee andere mannen (hierna: NN1 en NN2) geschopt. Het slachtoffer krijgt harde schoppen in het gezicht, op zijn rug en in zijn zij. Om 02:47 uur is te zien dat het slachtoffer zich richting de ingang van het toilet beweegt. Hij vlucht het toilet in, gevolgd door verdachte en NN1. Op de camera bij de ingang van het toilet is te zien dat het slachtoffer meerdere harde klappen krijgt van verdachte. Het slachtoffer komt weer terug de bedrijfsruimte in en strompelt richting de deur. Hij krijgt daarbij twee vuistslagen van NN1. Om 02:48 uur is te zien dat hij op handen en voeten naar buiten kruipt. NN1 geeft hem daar nog twee harde schoppen tegen het hoofd.
+
+Standpunt van het Openbaar Ministerie
+
+De officier van justitie heeft zich op het standpunt gesteld dat het onder 1 subsidiair, 2, 3 primair en 4 ten laste gelegde bewezen kan worden. Alle geweldshandelingen kunnen aan verdachte worden toegerekend, nu deze tezamen en in vereniging zijn gepleegd. Ten aanzien van het onder 3 primair en 4 ten laste gelegde stelt de officier van justitie dat een noodweersituatie niet aannemelijk is geworden.
+
+Standpunt van de verdediging
+
+De raadsman heeft bepleit dat verdachte van het onder 1 en 2 ten laste gelegde dient te worden vrijgesproken. Er kan niet worden vastgesteld wie het slachtoffer met een kettingslot op zijn hoofd heeft geslagen, terwijl uit het dossier blijkt dat slechts één van de verdachten op dat moment bij het slachtoffer stond. Het medeplegen van (een poging tot) het toebrengen van zwaar lichamelijk letsel kan daarom niet worden bewezen. Ten aanzien van het onder 3 en 4 ten laste gelegde komt verdachte een beroep toe op noodweer, dan wel noodweerexces. De handelingen van aangever kunnen worden gekwalificeerd als een ogenblikkelijke, wederrechtelijke (dreigende) aanranding van eigen of eens anders lijf, waartegen verdachte zich mocht verdedigen.
+
+Oordeel van de rechtbank
+
+De rechtbank heeft op grond van de wettige bewijsmiddelen die in bijlage 1 bij dit vonnis zijn opgenomen en waarin zijn vervat de redengevende feiten en omstandigheden waarop deze bewezenverklaring steunt, de overtuiging gekregen, en acht dan ook bewezen, dat verdachte het onder 1 subsidiair, 2, 3 primair en 4 ten laste gelegde feit heeft begaan, zoals beschreven in rubriek 5. De rechtbank betrekt in haar nadere overwegingen de door de officier van justitie en de verdediging aangevoerde standpunten.
+
+Nadere overwegingen
+
+Verklaring verdachte
+
+Verdachte heeft ter terechtzitting verklaard dat [medeverdachte] en hij op 21 december 2015 door het slachtoffer werden aangevallen, nadat hij ergens over struikelde en bier over de kleding van het slachtoffer morste. Deze verklaring strookt niet met de verklaring van het slachtoffer en evenmin met de verklaringen van getuigen [naam] en [getuige] , die allen stellen dat verdachte en [medeverdachte] de eerste geweldshandelingen hebben verricht. Nu de verklaring van verdachte – ook overigens – niet aannemelijk is geworden, zal de rechtbank deze terzijde schuiven.
+
+Medeplegen geweldshandelingen
+
+Aan verdachte zijn verscheidene geweldshandelingen ten laste gelegd. Uit de in bijlage 1 opgenomen bewijsmiddelen blijkt dat niet alle feitelijke handelingen door verdachte zijn verricht, maar enkele daarvan door zijn mededader(s). De vraag die de rechtbank moet beantwoorden is of verdachte eveneens voor de niet door hem verrichte handelingen strafrechtelijk aansprakelijk moet worden gesteld en hoe dit vervolgens moet worden gekwalificeerd.
+
+De rechtbank stelt voorop dat de betrokkenheid aan een strafbaar feit als medeplegen kan worden bewezenverklaard indien is komen vast te staan dat bij het begaan daarvan sprake is geweest van een voldoende nauwe en bewuste samenwerking. Dit houdt in dat de medeplegers willens en wetens, dus met opzet, samenwerken tot het verrichten van het delict. Bij de beoordeling of daarvan sprake is, kan rekening worden gehouden met onder meer de intensiteit van de samenwerking, de onderlinge taakverdeling, het belang van de rol van de verdachte, diens aanwezigheid op belangrijke momenten en het zich niet terugtrekken op een daartoe geëigend tijdstip.
+
+Ten aanzien van 21 december 2015
+
+Uit de bewijsmiddelen leidt de rechtbank met betrekking tot de betrokkenheid van verdachte af dat hij, samen met zijn mededader, de eerste klappen aan [slachtoffer 1] heeft uitgedeeld. Wanneer [slachtoffer 1] verdachte en zijn mededader achtervolgt, ontstaat de tweede geweldssituatie. Het slachtoffer wordt daarbij door zowel verdachte als zijn mededader geslagen met een fles. Ook wordt hij door beide mannen geschopt. Als het slachtoffer wegrent wordt hij door één van de verdachten achtervolgd en met een kettingslot op zijn hoofd geslagen. Uit het dossier en uit het onderzoek ter terechtzitting is niet duidelijk geworden wie van de verdachten laatstgenoemde handeling heeft verricht. Wel stelt de rechtbank vast dat dit verdachte of [medeverdachte] is geweest.
+
+Op grond van het voorgaande is de rechtbank van oordeel dat de voor medeplegen vereiste voldoende nauwe en bewuste samenwerking tussen verdachte en [medeverdachte] is komen vast te staan. Uit bovengenoemde feiten en omstandigheden volgt dat verdachte en [medeverdachte] in samenhang het geweld geïnitieerd hebben, waarna zij – na een korte onderbreking – beiden bewapend met een fles, het slachtoffer geslagen en geschopt hebben. Verdachte heeft daarmee een actieve bijdrage geleverd aan het geweld, waarbij hij zich op geen enkel moment heeft gedistantieerd. De rechtbank is van oordeel dat het voorwaardelijk opzet op het toebrengen van zwaar lichamelijk letsel reeds door de hiervoor beschreven gedragingen van verdachte is komen vast te staan. Door het slachtoffer op zijn hoofd te slaan, tegen zijn lichaam te schoppen en vervolgens met een fles (op zijn hoofd) te slaan heeft verdachte willens en wetens de aanmerkelijke kans aanvaard dat het slachtoffer zwaar lichamelijk letsel zou oplopen.
+
+Hoewel niet duidelijk is geworden of verdachte of [medeverdachte] het slachtoffer met het kettingslot heeft geslagen, is de rechtbank van oordeel dat verdachte, zelfs als hij niet degene was die met het kettingslot heeft geslagen, voldoende nauw en bewust heeft samengewerkt met [medeverdachte] om als medepleger van deze handeling te worden aangemerkt. Daartoe wordt overwogen dat het slaan met het kettingslot kort na het hiervoor beschreven geweld is gebeurd. Het slachtoffer rende immers nog weg van de verdachten op het moment dat hij werd geslagen. Gedurende het geweld voorafgaand aan het slaan met het kettingslot, hadden verdachte en [medeverdachte] continu een gelijkwaardige rol. Voorts is niet gebleken dat verdachte het slaan met het kettingslot heeft willen voorkomen. Evenmin volgt uit het dossier dat verdachte zich hiervan heeft gedistantieerd. Op beelden van de toezichtcamera’s van de Reguliersdwarsstraat is immers te zien dat de verdachte en [medeverdachte] na de mishandeling tezamen wegrennen in de richting van het Koningsplein. Gelet op het voorgaande kan het slaan met een kettingslot aan verdachte worden toegerekend.
+
+Nu de rechtbank heeft vastgesteld welk aandeel verdachte heeft gehad bij het geweld, moet de vraag worden beantwoord hoe dit moet worden gekwalificeerd. Met de officier van justitie en de raadsman is de rechtbank van oordeel dat het door het geweld ontstane letsel niet kan worden aangemerkt als zwaar lichamelijk letsel in de zin van artikel 82 van het Wetboek van Strafrecht, waardoor verdachte van het aan hem onder 1 primair ten laste gelegde zal worden vrijgesproken. Wel acht de rechtbank bewezen dat verdachte zich schuldig heeft gemaakt aan het hem onder 1 subsidiair ten laste gelegde medeplegen van een poging tot zware mishandeling, nu bij hem het voorwaardelijk opzet bestond om het slachtoffer zwaar lichamelijk letsel toe te brengen.
+
+Ten aanzien van 3 november 2015
+
+Uit de bewijsmiddelen leidt de rechtbank met betrekking tot de betrokkenheid van verdachte af dat hij het slachtoffer op 3 november 2015 heeft aangevallen. Door klappen van verdachte valt het slachtoffer op de grond, waar hij wederom door verdachte wordt geslagen. Op dat moment wordt het slachtoffer eveneens door enkele personen geschopt. Het gevecht verplaatst zich naar het toilet, waar verdachte wederom klappen uitdeelt. Wanneer het slachtoffer uit het toilet weet te ontsnappen, beweegt hij zich moeizaam naar buiten. Daarbij wordt hij nog enkele keren geslagen en geschopt door andere personen dan verdachte.
+
+Op grond van het voorgaande is de rechtbank van oordeel dat de voor medeplegen vereiste voldoende nauwe en bewuste samenwerking tussen verdachte en zijn mededaders is komen vast te staan. Daartoe wordt overwogen dat ten aanzien van de bewezenverklaarde handelingen steeds sprake is van een gezamenlijke uitvoering. Nadat verdachte de eerste klappen uitdeelt en het slachtoffer op de grond valt, wordt het slachtoffer door andere personen dan verdachte geschopt. Tegelijkertijd is te zien dat verdachte het slachtoffer slaat. Verdachte heeft daarmee een actieve bijdrage geleverd aan het geweld. Daarnaast is niet gebleken dat verdachte op enigerlei wijze heeft gepoogd het geweld van zijn mededaders te doen stoppen of dat hij zich daarvan heeft gedistantieerd. Op grond van het voorgaande dient verdachte niet alleen voor zijn eigen geweldshandelingen, maar eveneens voor de geweldshandelingen van zijn mededaders strafrechtelijk aansprakelijk gesteld te worden.
+
+Nu de rechtbank heeft vastgesteld welk aandeel verdachte heeft gehad bij het geweld, moet de vraag worden beantwoord hoe dit moet worden gekwalificeerd. Uit het medisch dossier van het slachtoffer is gebleken dat hij ten gevolge van het geweld een spiraalfractuur van de proximale fibula heeft opgelopen. Ten behoeve van het herstel bleek operatief ingrijpen vereist. Als nabehandeling moest het slachtoffer zes weken zijn onderbeen onbelast in het gips houden, gevolgd door twee weken loopgips. De rechtbank is van oordeel dat dit letsel dient te worden gekwalificeerd als zwaar lichamelijk letsel. Eveneens is het voorwaardelijk opzet van verdachte op het toebrengen van dat letsel bewezen. Daartoe wordt overwogen dat het slachtoffer door verdachte en zijn mededaders meermalen is geslagen en met kracht is geschopt tegen zijn hoofd en zijn bovenlichaam. Het is algemeen bekend dat het hoofd en het bovenlichaam kwetsbare en vitale delen van het menselijk lichaam zijn. Door zo te handelen heeft verdachte willens en wetens de aanmerkelijke kans aanvaard dat het slachtoffer zwaar lichamelijk letsel zou oplopen.
+
+5
+Bewezenverklaring
+
+De rechtbank acht op grond van de in bijlage 1 vervatte bewijsmiddelen bewezen dat verdachte
+
+ten aanzien van het onder 1 subsidiair ten laste gelegde
+
+op 21 december 2015 te Amsterdam, tezamen en in vereniging met een ander, ter uitvoering van het door verdachte voorgenomen misdrijf om aan [slachtoffer 1] opzettelijk zwaar lichamelijk letsel toe te brengen, [slachtoffer 1] met een fles en kettingslot op/tegen het hoofd heeft geslagen en tegen het lichaam heeft geslagen en geschopt;
+
+ten aanzien van het onder 2 ten laste gelegde
+
+op 21 december 2015 te Amsterdam, met een ander, aan de openbare weg, te weten de Geelvincksteeg, de Singel en de Openhartsteeg, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer 1] , welk geweld bestond uit
+
+- het slaan en schoppen tegen het lichaam; en
+
+- het slaan met een fles en kettingslot op/tegen het hoofd;
+
+ten aanzien van het onder 3 primair ten laste gelegde
+
+op 03 november 2015 te Amsterdam, tezamen en in vereniging met anderen, aan [slachtoffer 2] opzettelijk zwaar lichamelijk letsel, te weten een gebroken enkel, heeft toegebracht, door tegen het lichaam van voornoemde [slachtoffer 2] te slaan en te schoppen;
+
+ten aanzien van het onder 4 ten laste gelegde
+
+op 03 november 2015 te Amsterdam, met anderen, in een voor het publiek toegankelijke ruimte, te weten horecagelegenheid [naam horecagelegenheid] , openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer 2] , welk geweld bestond uit
+
+- het slaan, stompen en schoppen tegen het gezicht en het lichaam van [slachtoffer 2] .
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten staan, zijn deze verbeterd. Verdachte is hierdoor niet in de verdediging geschaad.
+
+6
+De strafbaarheid van de feiten en van verdachte
+
+Noodweer(exces)
+
+Ter terechtzitting heeft de raadsman aangevoerd dat de verdachte ten aanzien van het onder 3 en 4 ten laste gelegde heeft gehandeld uit noodweer, als bedoeld in artikel 41, eerste lid, van het Wetboek van Strafrecht. De raadsman heeft gesteld dat de verdachte zich geconfronteerd zag met een ogenblikkelijke, wederrechtelijke aanranding, dan wel het onmiddellijk dreigend gevaar daarvoor. De raadsman heeft gesteld dat verdachte mogelijkerwijs de grenzen van een noodzakelijke verdediging heeft overschreden, maar dat deze overschrijding het onmiddellijk gevolg is geweest van een hevige gemoedsbeweging, veroorzaakt door het onmiddellijk dreigend gevaar voor de aanranding.
+
+Daartoe heeft de raadsman aangevoerd dat [slachtoffer 2] de pet van het hoofd van verdachte sloeg, vervolgens met zijn vuist in zijn handen sloeg en zijn jas op demonstratieve wijze uitdeed. Het was voor verdachte niet mogelijk om te vluchten. Dit was het moment waarop verdachte zich mocht verdedigen. De hevige gemoedsbeweging is veroorzaakt door een incident in de zomer van 2015, waarbij verdachte door [slachtoffer 2] is neergestoken. Dientengevolge was verdachte bang dat [slachtoffer 2] wederom een mes zou trekken.
+
+De rechtbank is van oordeel dat de feiten en omstandigheden die de raadsman aan het verweer ten grondslag heeft gelegd, geen beroep op noodweer rechtvaardigen. Door de gedragingen van de aangever was weliswaar sprake van onmiddellijk dreigend gevaar voor een ogenblikkelijke, wederrechtelijke aanranding van eigen lijf, maar op grond van het verhandelde ter terechtzitting is niet aannemelijk geworden dat de situatie zodanig is geweest dat de gedragingen van de verdachte geboden waren door de noodzakelijke verdediging van zijn lijf, nu de gekozen gedragingen van verdachte niet in redelijke verhouding staan tot de ernst van de aanranding. Daartoe wordt overwogen dat verdachte het slachtoffer gedurende ruim een minuut, in samenhang met zijn mededaders, te lijf is gegaan. Het slachtoffer werd daarbij door verdachte achtervolgd naar het toilet en weer terug de bedrijfsruimte in, waarbij er geslagen en geschopt werd, ook nadat het slachtoffer weerloos op de grond lag. Daarmee is verdachte verder gegaan dan geboden.
+
+Voorop gesteld moet worden dat een overschrijding van de grenzen van noodzakelijke verdediging verontschuldigbaar kan zijn indien deze overschrijding het onmiddellijk gevolg is geweest van een hevige gemoedsbeweging die is veroorzaakt door de daaraan voorafgaande (dreigende) wederrechtelijke aanranding. Verdachte heeft hieromtrent verklaard dat hij een half jaar vóór het ten laste gelegde door het slachtoffer was gestoken en hij bang was dat hij ditmaal wederom gestoken zou worden. De rechtbank stelt hieromtrent vast dat uit het dossier en het onderzoek ter terechtzitting niets is gebleken omtrent een eerder incident tussen verdachte en het slachtoffer. Voorts is niet gebleken dat het slachtoffer tijdens het ten laste gelegde een mes of enig ander wapen in zijn bezit had. Evenmin is uit de camerabeelden gebleken dat het slachtoffer een beweging heeft gemaakt waaruit verdachte in redelijkheid zou hebben kunnen afleiden dat het slachtoffer een mes wilde pakken. De rechtbank is op grond van het voorgaande van oordeel dat niet aannemelijk is geworden dat de gedragingen van verdachte het onmiddellijk gevolg zijn geweest van een hevige gemoedsbeweging veroorzaakt door de daaraan voorafgaande dreigende wederrechtelijke aanranding.
+
+Het beroep op noodweer(exces) wordt dan ook verworpen.
+
+Er is – ook overigens – geen omstandigheid aannemelijk geworden die de strafbaarheid van de feiten en van verdachte uitsluit. De feiten en verdachte zijn dan ook strafbaar.
+
+7
+Motivering van de straf
+
+Eis van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte voor de door haar onder 1 subsidiair, 2, 3 primair en 4 bewezen geachte feiten zal worden veroordeeld tot een gevangenisstraf van 6 maanden, met aftrek van voorarrest, waarvan 3 maanden voorwaardelijk, met een proeftijd van 2 jaren.
+
+Strafmaatverweer van de verdediging
+
+De verdediging heeft aangevoerd dat verdachte sinds de bewezen verklaarde feiten niet opnieuw met justitie in aanraking is gekomen. Het recidiverisico is afgenomen door de begeleiding van de reclassering en het verkrijgen van een eigen woning. De raadsman heeft verzocht bij bewezenverklaring een voorwaardelijke gevangenisstraf of een taakstraf op te leggen.
+
+Oordeel van de rechtbank
+
+De hierna te noemen strafoplegging is in overeenstemming met de ernst van het bewezen geachte, de omstandigheden waaronder dit is begaan en de persoon van verdachte, zoals daarvan ter terechtzitting is gebleken.
+
+De rechtbank heeft bij de keuze tot het opleggen van een vrijheidsbenemende straf en bij de vaststelling van de duur daarvan in het bijzonder het volgende laten meewegen.
+
+Verdachte heeft in het uitgaansleven twee personen ernstig mishandeld. Beide keren werd het slachtoffer door meerdere personen, waaronder verdachte, geslagen en geschopt. Daarnaast is gebruik gemaakt van wapens, namelijk flessen en een kettingslot. De slachtoffers hebben zeer angstige momenten beleefd en hebben beiden aanzienlijk letsel aan het geweld overgehouden, waarvoor zij in het ziekenhuis moesten worden behandeld. De raadsman van [slachtoffer 2] heeft ter terechtzitting verklaard dat laatstgenoemde nog steeds hinder ondervindt van de breuk die hij in zijn onderbeen heeft opgelopen. Verdachte heeft zichzelf ten aanzien van beide mishandelingen in de slachtofferrol geplaatst. Hij heeft hiermee laten zien dat hij geen enkele verantwoordelijkheid neemt voor zijn daden.
+
+Om te bevorderen dat landelijk voor dezelfde feiten door rechtbanken ongeveer dezelfde straf wordt opgelegd, zijn landelijke oriëntatiepunten voor strafoplegging ontwikkeld. Deze oriëntatiepunten van het Landelijk Overleg Vakinhoud Strafrecht (LOVS) adviseren in het geval van openlijke geweldpleging met zwaar lichamelijk letsel ten gevolge, oplegging van een onvoorwaardelijke gevangenisstraf van zes maanden. Als de openlijke geweldpleging slechts enig lichamelijk letsel ten gevolge heeft, adviseren de oriëntatiepunten oplegging van een onvoorwaardelijke gevangenisstraf van drie maanden. Gelet op het voorgaande en de bewezenverklaarde feiten, is oplegging van een gevangenisstraf van aanmerkelijke duur aangewezen. De door de officier van justitie gevorderde straf doet naar het oordeel van de rechtbank onvoldoende recht aan de ernst van de feiten. De rechtbank zal, aansluitend bij de oriëntatiepunten, verdachte veroordelen tot een gevangenisstraf voor de duur van negen maanden. In de persoonlijke omstandigheden van verdachte ziet de rechtbank aanleiding een gedeelte van drie maanden in voorwaardelijke vorm op te leggen. Hiermee hoopt de rechtbank hem te weerhouden zich in de toekomst wederom schuldig te maken aan soortgelijke misdrijven.
+
+8
+Ten aanzien van de benadeelde partij en de schadevergoedingsmaatregel
+
+De benadeelde partij [slachtoffer 2] vordert € 472,- (zegge: vierhonderd tweeënzeventig euro) aan materiële schadevergoeding en € 1500,- (zegge: duizend vijfhonderd euro) aan immateriële schadevergoeding, te vermeerderen met de wettelijke rente.
+
+Vast staat dat aan de benadeelde partij door het onder 3 primair en 4 bewezen verklaarde rechtstreeks materiële schade is toegebracht, te weten het eigen risico voor zijn zorgverzekering. De rechtbank waardeert deze schade op € 472,-. Voorts heeft de benadeelde partij voldoende onderbouwd dat hij als gevolg van het onder 3 primair en 4 bewezen verklaarde psychische schade heeft geleden, als bedoeld in artikel 6:106 BW. Op grond van de door de benadeelde partij gestelde omstandigheden en rekening houdend met de vergoedingen die in soortgelijke zaken worden toegekend, begroot de rechtbank deze schade naar billijkheid op
+
+€ 800,-.
+
+De vordering zal in zoverre worden toegewezen, vermeerderd met de wettelijke rente vanaf het moment van het ontstaan van de schade. Het overige gedeelte zal niet-ontvankelijk worden verklaard. De benadeelde partij kan dit gedeelte van de vordering bij de burgerlijke rechter aanbrengen.
+
+Voorts dient verdachte te worden veroordeeld in de kosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken.
+
+De rechtbank zal de hierna te noemen schadevergoedingsmaatregel opleggen, aangezien verdachte jegens het slachtoffer [slachtoffer 2] naar burgerlijk recht aansprakelijk is voor de schade die door het onder 3 primair en 4 bewezen verklaarde is toegebracht. De rechtbank waardeert deze schade op een bedrag van in totaal € 1272,- (zegge: duizend tweehonderd tweeënzeventig euro), vermeerderd met de wettelijke rente.
+
+9
+Tenuitvoerlegging voorwaardelijke veroordeling
+
+13/701390-15
+
+Bij de stukken bevindt zich de op 11 maart 2016 ter griffie van deze rechtbank ontvangen vordering van de officier van justitie in het arrondissement Amsterdam in de zaak met parketnummer 13/701390-15, betreffende het onherroepelijk geworden vonnis d.d. 11 maart 2015 van de politierechter te Amsterdam, waarbij verdachte is veroordeeld tot een gevangenisstraf van 14 dagen, met bevel dat van deze straf een gedeelte, groot 13 dagen niet zal worden ten uitvoer gelegd, tenzij de rechter later anders mocht gelasten op grond dat veroordeelde zich voor het einde van een op 2 jaren bepaalde proeftijd aan een strafbaar feit heeft schuldig gemaakt.
+
+Tevens bevindt zich bij de stukken een geschrift waaruit blijkt dat de mededeling als bedoeld in artikel 366a van het Wetboek van Strafvordering aan verdachte per post is toegezonden.
+
+Gebleken is dat verdachte zich voor het einde van voornoemde proeftijd aan een strafbaar feit heeft schuldig gemaakt, zoals naar voren komt uit de verdere inhoud van dit vonnis. De rechtbank ziet hierin aanleiding de tenuitvoerlegging van dat voorwaardelijk strafdeel te gelasten.
+
+16/652294-15
+
+Bij de stukken bevindt zich de op 11 maart 2016 ter griffie van deze rechtbank ontvangen vordering van de officier van justitie in het arrondissement Amsterdam in de zaak met parketnummer 16/652294-15, betreffende het onherroepelijk geworden vonnis d.d. 6 mei 2015 van de politierechter te Utrecht, waarbij verdachte is veroordeeld tot een gevangenisstraf van vier weken, met bevel dat van deze straf een gedeelte, groot twee weken niet zal worden ten uitvoer gelegd, tenzij de rechter later anders mocht gelasten op grond dat veroordeelde zich voor het einde van een op 2 jaren bepaalde proeftijd aan een strafbaar feit heeft schuldig gemaakt.
+
+Tevens bevindt zich bij de stukken een geschrift waaruit blijkt dat de mededeling als bedoeld in artikel 366a van het Wetboek van Strafvordering aan verdachte per post is toegezonden.
+
+Gebleken is dat verdachte zich voor het einde van voornoemde proeftijd aan een strafbaar feit heeft schuldig gemaakt, zoals naar voren komt uit de verdere inhoud van dit vonnis. De rechtbank ziet hierin aanleiding de tenuitvoerlegging van dat voorwaardelijk strafdeel te gelasten.
+
+10
+Toepasselijke wettelijke voorschriften
+
+De op te leggen straf en maatregel zijn gegrond op de artikelen 36f, 45, 47, 57, 63, 141 en 302 van het Wetboek van Strafrecht.
+
+De rechtbank komt op grond van het voorgaande tot de volgende beslissing.
+
+11
+Beslissing
+
+Verklaart het onder 1 primair ten laste gelegde niet bewezen en spreekt verdachte daarvan vrij.
+
+Verklaart bewezen dat verdachte het onder 1 subsidiair, 2, 3 primair en 4 ten laste gelegde heeft begaan zoals hiervoor in rubriek 5 is vermeld.
+
+Verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd dan hiervoor is bewezen verklaard en spreekt verdachte daarvan vrij.
+
+Het bewezen verklaarde levert op:
+
+ten aanzien van het onder 1 subsidiair ten laste gelegde
+
+poging tot medeplegen van zware mishandeling;
+
+ten aanzien van het onder 3 primair ten laste gelegde
+
+medeplegen van zware mishandeling;
+
+ten aanzien van het onder 2 en 4 ten laste gelegde
+
+openlijk in vereniging geweld plegen tegen personen.
+
+Verklaart het bewezene strafbaar.
+
+Verklaart verdachte, [verdachte] , daarvoor strafbaar.
+
+Veroordeelt verdachte tot een gevangenisstraf van 9 maanden.
+
+Beveelt dat de tijd die door veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, bij de tenuitvoerlegging van die straf in mindering gebracht zal worden.
+
+Beveelt dat een gedeelte, groot 3 maanden, van deze gevangenisstraf niet zal worden ten uitvoer gelegd, tenzij later anders wordt gelast.
+
+Stelt daarbij een proeftijd van 2 (twee) jaren vast.
+
+De tenuitvoerlegging kan worden gelast indien veroordeelde zich voor het einde van de proeftijd aan een strafbaar feit schuldig maakt.
+
+Wijst de vordering van [slachtoffer 2] , wonende te [woonplaats 2] , toe tot € 1272,- (zegge: duizend tweehonderd tweeënzeventig euro), vermeerderd met de wettelijke rente.
+
+Veroordeelt verdachte tot betaling van het toegewezen bedrag aan [slachtoffer 2] voornoemd, behalve voor zover deze vordering al door of namens anderen is betaald.
+
+Veroordeelt verdachte voorts in de kosten door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil.
+
+Bepaalt dat de benadeelde partij voor het overige niet-ontvankelijk in zijn vordering is.
+
+Legt verdachte de verplichting op ten behoeve van [slachtoffer 2] , € 1272,- (zegge: duizend tweehonderd tweeënzeventig euro), vermeerderd met de wettelijke rente, aan de Staat te betalen. Bij gebreke van betaling en verhaal wordt deze betalingsverplichting vervangen door hechtenis van 22 dagen. De toepassing van die hechtenis heft de hiervoor opgelegde verplichting niet op.
+
+Bepaalt dat, indien en voor zover verdachte aan een van de genoemde betalingsverplichtingen heeft voldaan, daarmee de andere is vervallen.
+
+Gelast de tenuitvoerlegging van de straf, voor zover deze voorwaardelijk is opgelegd bij genoemd vonnis van 11 maart 2015, namelijk een gevangenisstraf van 13 dagen.
+
+Gelast de tenuitvoerlegging van de straf, voor zover deze voorwaardelijk is opgelegd bij genoemd vonnis van 6 mei 2015, namelijk een gevangenisstraf van twee weken.
+
+Heft op het - geschorste - bevel tot voorlopige hechtenis.
+
+Dit vonnis is gewezen door
+
+mr. J. Knol, 	voorzitter,
+
+mrs. J.P.W. Helmonds en F. Dekkers, 	rechters,
+
+in tegenwoordigheid van mr. M. Groot, 	griffier,
+
+en uitgesproken op de openbare terechtzitting van deze rechtbank van 18 april 2017.
+
+De voorzitter is buiten staat dit vonnis mede te ondertekenen.
