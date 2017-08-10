@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBAMS:2017:5814"
 court: "Rechtbank Amsterdam"
 court_code: "RBAMS"
-docket: "13/730004-17 (Promis) en 99/000616-31 (v.i.-zaaknummer)"
+docket: "13/730004-17 en 99/000616-31"
 decided: "2017-08-10"
 published: "2017-08-10"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2017:581
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBAMS:2017:5814 Rechtbank Amsterdam , 10-08-2017 / 13/730004-17 (Promis) en 99/000616-31 (v.i.-zaaknummer)
+# ECLI:NL:RBAMS:2017:5814 Rechtbank Amsterdam , 10-08-2017 / 13/730004-17 en 99/000616-31
 
 ## Inhoudsindicatie
 
