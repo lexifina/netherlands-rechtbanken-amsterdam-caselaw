@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2017:9786"
-published_in: ["Rechtspraak.nl", "PJ 2018/96", "PR-Updates.nl PR-2018-0033"]
+published_in: ["Rechtspraak.nl", "PJ 2018/96", "PR-Updates.nl PR-2018-0033", "PR-Updates.nl 2018-0033"]
 ---
 
 # ECLI:NL:RBAMS:2017:9786 Rechtbank Amsterdam , 18-10-2017 / C/13/606002 / HA ZA 16-382
