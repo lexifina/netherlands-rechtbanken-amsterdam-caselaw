@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:182"
-published_in: ["Rechtspraak.nl", "AR 2018/375", "PJ 2018/22", "AR-Updates.nl 2018-0103", "PR-Updates.nl PR-2018-0007"]
+published_in: ["Rechtspraak.nl", "AR 2018/375", "PJ 2018/22", "AR-Updates.nl 2018-0103", "PR-Updates.nl PR-2018-0007", "VAAN-AR-Updates.nl 2018-0103", "PR-Updates.nl 2018-0007"]
 ---
 
 # ECLI:NL:RBAMS:2018:182 Rechtbank Amsterdam , 12-01-2018 / 6042428  EA VERZ 17-511
