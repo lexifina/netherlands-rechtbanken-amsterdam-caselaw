@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:431"
-published_in: ["Rechtspraak.nl", "PJ 2018/114 met annotatie van V. Gerlach", "NTHR 2018, afl. 5, p. 256", "PR-Updates.nl PR-2018-0061"]
+published_in: ["Rechtspraak.nl", "PJ 2018/114 met annotatie van V. Gerlach", "NTHR 2018, afl. 5, p. 256", "PR-Updates.nl PR-2018-0061", "PR-Updates.nl 2018-0061"]
 ---
 
 # ECLI:NL:RBAMS:2018:431 Rechtbank Amsterdam , 19-01-2018 / 5818800 CV EXPL 17-6981
