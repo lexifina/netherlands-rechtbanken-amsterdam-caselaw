@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:1755"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/773", "V-N 2018/26.11 met annotatie van Redactie", "Belastingadvies 2018/10-11.8", "PJ 2018/82 met annotatie van W.P.M. Thijssen", "Viditax (FutD), 05-04-2018", "FutD 2018-0968 met annotatie van Fiscaal up to Date", "NTFR 2018/1033 met annotatie van mr. M. Wolff", "RFR 2018/115", "JONDR 2018/508", "PR-Updates.nl PR-2018-0034"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/773", "V-N 2018/26.11", "Belastingadvies 2018/10-11.8", "PJ 2018/82 met annotatie van W.P.M. Thijssen", "RFR 2018/115", "JONDR 2018/508", "PR-Updates.nl PR-2018-0034", "NTFR 2018/1033 met annotatie van mr. M. Wolff", "FutD 2018-0968", "Viditax (FutD) 2018040501", "PR-Updates.nl 2018-0034"]
 ---
 
 # ECLI:NL:RBAMS:2018:1755 Rechtbank Amsterdam , 31-01-2018 / C/13/632721 / FA RK 17-4850
