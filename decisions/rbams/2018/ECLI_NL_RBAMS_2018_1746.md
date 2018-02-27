@@ -1,0 +1,124 @@
+---
+ecli: "ECLI:NL:RBAMS:2018:1746"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "13/730057-17"
+decided: "2018-02-27"
+published: "2018-03-27"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:1746"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2018:1746 Rechtbank Amsterdam , 27-02-2018 / 13/730057-17
+
+## Inhoudsindicatie
+
+Verdachte wordt vrijgesproken. Uit de enkele aanwezigheid van verdachte in de bewuste woning kan niet worden afgeleid dat hij wetenschap had van de verdovende middelen, geldbedragen, bitcoins en aanverwante zaken die daar zijn aangetroffen.
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+
+VONNIS
+
+Parketnummer: 13/730057-17 (Promis)
+
+Datum uitspraak: 27 februari 2018
+
+Vonnis van de rechtbank Amsterdam, meervoudige strafkamer, in de strafzaak tegen
+
+[verdachte] ,
+
+geboren te [geboorteplaats] ( [geboorteland] ) op [geboortedag] 1983,
+
+zonder vaste woon- of verblijfplaats in Nederland.
+
+1
+Het onderzoek ter terechtzitting
+
+Op de zitting van 27 februari 2018 is door de rechtbank de zaak tegen verdachte inhoudelijk behandeld. Verdachte was hierbij aanwezig.
+
+De rechtbank heeft kennisgenomen van de vordering van de officieren van justitie mrs. A. van de Venn en M.A. van der Vlugt en van wat verdachte en zijn raadsman mr. V.R.C. Shukrula naar voren hebben gebracht.
+
+2
+Tenlastelegging
+
+Verdachte wordt – na wijziging van de tenlastelegging op de zitting van 27 februari 2018 –  ervan beschuldigd dat hij zich op 15 november 2017 schuldig heeft gemaakt aan
+
+het (in vereniging) bewerken/ verwerken/ verkopen/ afleveren/ verstrekken/ vervoeren/ aanwezig hebben van diverse soorten harddrugs: 293 XTC tabletten (MDMA), 5,11 gram cocaïne, 664 eenheden 25B NBOMe, 0,77 gram tetrahydrocannabinol en/of 36,9 gram hennepolie;
+
+het (in vereniging) bewerken/ verwerken/ verkopen/ afleveren/ verstrekken/ vervoeren/ aanwezig hebben van diverse soorten softdrugs: 87,3 kilogram weed, 55,24 kilogram hasjiesj, 30,33 kilogram hennep en/of 6,02 kilogram voorgedraaide joints;
+
+het (in vereniging) voorhanden hebben van diverse goederen om de productie van MDMA, cocaïne, 25B NBOMe en/of ketamine voor te bereiden/ te bevorderen;
+
+het (in vereniging) witwassen van € 144.030,- en/of 0,18 bitcoins.
+
+De tekst van de hele tenlastelegging is opgenomen in bijlage I.
+
+3
+Vrijspraak
+
+3.1
+
+Inleiding
+
+Naar aanleiding van schriftelijke informatie van het Landelijk Internationaal Rechtshulp Centrum (LIRC) over een ontmoeting op 15 november 2017 tussen meerdere personen omtrent een levering van drugs in Ierland en de geldoverdracht daarvan, is door de politie een observatie gestart. Het observatieteam heeft een aantal verdachten gevolgd naar onder meer de adressen [adres 1] en [adres 2] te Amsterdam. Na de aanhouding van de verdachten op verschillende locaties zijn deze woningen doorzocht. In de woning aan de [adres 2] is daarbij het volgende aangetroffen: verschillende soorten en hoeveelheden harddrugs en softdrugs, diverse goederen die mogelijk in verband kunnen worden gebracht met het voorbereiden of bewerken van harddrugs en een geldbedrag van € 144.030,- en 0,18 bitcoins. De vraag is nu – kort gezegd – of bij verdachte sprake is van wetenschap van de aanwezigheid van deze goederen, of hij de beschikkingsmacht daarover had en of dit strafbaar is.
+
+3.2
+
+Het standpunt van het Openbaar Ministerie
+
+De officieren van justitie vinden dat feit 1, 2 en 3 bewezen kunnen worden. Uit de observatie blijkt dat de verdachte en de twee medeverdachten [medeverdachte 1] en [medeverdachte 2] gezamenlijk vanuit een woning aan de [adres 3] in Amstelveen naar de woning in de [adres 2] worden gebracht door medeverdachte [medeverdachte 3] . Zij verblijven uiteindelijk enkele uren in die woning die door medeverdachte [medeverdachte 4] wordt gehuurd. Op basis van de bevindingen in- en rondom het distributiepand op de [adres 2] , de contacten met de Nederlandse medeverdachten en het opvallende sms-bericht en telefoongesprek van medeverdachte [medeverdachte 1] kan worden vastgesteld dat ook verdachte wetenschap en zeggenschap had ten aanzien van de drugs en voorbereidingsmiddelen die in de woning zijn aangetroffen.
+
+Verdachte dient wel van het witwassen te worden vrijgesproken omdat zijn wetenschap van de geldbedragen en de bitcoins niet kan worden vastgesteld.
+
+3.3
+
+Het standpunt van de verdediging
+
+De raadsman heeft de rechtbank verzocht om verdachte vrij te spreken van alle tenlastegelegde feiten. Allereerst is sprake geweest van een onrechtmatige start van het onderzoek wat dient te leiden tot bewijsuitsluiting. Voorts had verdachte geen wetenschap van de aanwezigheid van de verdovende middelen, het geld en de bitcoins in de woning. Het alleen maar kort aanwezig zijn in een woning waar drugs en geld lagen die volledig aan het zicht waren onttrokken, kan niet leiden tot een veroordeling voor het voorhanden hebben van het geld en de soft- en/of harddrugs. Tot slot blijkt uit het dossier op geen enkele wijze van nauwe en bewuste samenwerking tussen verdachte en de medeverdachten.
+
+3.4
+
+Het oordeel van de rechtbank
+
+Het dossier bevat onvoldoende aanwijzingen waaruit blijkt van enige wetenschap van verdachte over de in de woning aan de [adres 2] aanwezige verdovende middelen, geldbedragen, bitcoins en aanverwante zaken. Hoewel er aanwijzingen bestaan dat verdachte betrokken is bij de handel in verdovende middelen, kan hieruit en de aanwezigheid van verdachte in de bewuste woning niet worden afgeleid dat hij wetenschap had van de goederen die daar zijn aangetroffen. In het bijzonder omdat deze voorwerpen op de eerste verdieping en in de kruipruimte zijn gevonden en niet kan worden vastgesteld dat verdachte daar is geweest. Het sms-bericht dat is gevonden in de telefoon van medeverdachte [medeverdachte 1] met de mededeling op 15 november 2017 dat hij in een meeting zit waarbij hij een foto van wiet heeft gestuurd, verandert daar niets aan. Dit bericht zegt immers niets over de wetenschap van verdachte over de goederen die in de [adres 2] zijn aangetroffen. Nu zijn wetenschap niet kan worden vastgesteld, komt de rechtbank niet toe aan de vraag of verdachte ook de beschikkingsmacht over de aangetroffen goederen had. Kortom, de rechtbank acht de ten laste gelegde feiten niet bewezen. Verdachte zal geheel worden vrijgesproken. Om die reden laat de rechtbank de verweren aangaande de start van het onderzoek verder buiten bespreking.
+
+4
+Beslag
+
+Onder verdachte zijn de volgende voorwerpen in beslag genomen:
+
+Een Nokia telefoon, vallende onder goednummer 5485101;
+
+Een Rolex, vallende onder goednummer 5485526.
+
+Teruggave aan verdachte
+
+Nu verdachte wordt vrijgesproken van de ten laste gelegde feiten kunnen voornoemde in beslag genomen goederen worden teruggegeven aan verdachte.
+
+5
+Beslissing
+
+De rechtbank komt op grond van het voorgaande tot de volgende beslissing.
+
+Verklaart het ten laste gelegde niet bewezen en spreekt verdachte daarvan vrij.
+
+Gelast de teruggave aan verdachte van:
+
+Een Nokia telefoon, vallende onder goednummer 5485101;
+
+Een Rolex, vallende onder goednummer 5485526.
+
+Dit vonnis is gewezen door
+
+mr. G.M. van Dijk, 	voorzitter,
+
+mrs. G.H. Marcus en M.C.M. Hamer, 	rechters,
+
+in tegenwoordigheid van mr. M. van der Mark, 	griffier,
+
+en uitgesproken op de openbare terechtzitting van deze rechtbank van 27 februari 2018.
