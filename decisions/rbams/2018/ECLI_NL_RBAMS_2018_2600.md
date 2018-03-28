@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:2600"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0092"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0092", "PR-Updates.nl 2020-0092"]
 ---
 
 # ECLI:NL:RBAMS:2018:2600 Rechtbank Amsterdam , 28-03-2018 / C/13/628802 / HA ZA 17-502
