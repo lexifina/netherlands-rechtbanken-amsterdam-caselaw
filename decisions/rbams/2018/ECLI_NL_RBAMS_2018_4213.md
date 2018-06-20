@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:4213"
-published_in: ["Rechtspraak.nl", "JPF 2018/108 met annotatie van prof. mr.  I. Sumner", "PR-Updates.nl PR-2018-0079", "FJR 2020/32.67"]
+published_in: ["Rechtspraak.nl", "JPF 2018/108 met annotatie van prof. mr.  I. Sumner", "PR-Updates.nl PR-2018-0079", "FJR 2020/32.67", "PR-Updates.nl 2018-0079"]
 ---
 
 # ECLI:NL:RBAMS:2018:4213 Rechtbank Amsterdam , 20-06-2018 / C/13/599941 / FA RK 15-9353
