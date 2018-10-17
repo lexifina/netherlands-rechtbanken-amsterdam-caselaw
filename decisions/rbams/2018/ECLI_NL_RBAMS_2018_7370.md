@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:7370"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2018/1045", "JAAN 2019/33 met annotatie van"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2018/1045", "JAAN 2019/33 met annotatie van mr. drs. M.J. de Meij, mr. G. Verberne"]
 ---
 
 # ECLI:NL:RBAMS:2018:7370 Rechtbank Amsterdam , 17-10-2018 / C/13/653341 / KG ZA 18-912
