@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:7569"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2024:3770, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2018:7569 Rechtbank Amsterdam , 19-10-2018 / 13/997015-16 (Promis)
@@ -731,7 +732,7 @@ medeplegen van witwassen, terwijl hij daarvan een gewoonte heeft gemaakt.
 
 Verklaart het in rubriek 5 onder 1, 2 en 3 bewezene strafbaar.
 
-Verklaart verdachte, Emiel [verdachte] , daarvoor strafbaar.
+Verklaart verdachte, [verdachte] , daarvoor strafbaar.
 
 Veroordeelt verdachte tot een gevangenisstraf van vier (4) jaar.
 
