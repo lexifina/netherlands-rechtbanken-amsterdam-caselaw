@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-iseres kan geen aanspraak maken op een Nederlandse WW-uitkering, omdat zij op haar eerste WW-dag niet kan worden aangemerkt als gedeeltelijke werkloze in de zin van artikel 65, eerste lid, van de Verordening (EG) Nr. 883/2004 (grensarbeider), omdat zij haar werkzaamheden verrichtte vanuit België in plaats van in Nederland.
+Eiseres kan geen aanspraak maken op een Nederlandse WW-uitkering, omdat zij op haar eerste WW-dag niet kan worden aangemerkt als gedeeltelijke werkloze in de zin van artikel 65, eerste lid, van de Verordening (EG) Nr. 883/2004 (grensarbeider), omdat zij haar werkzaamheden verrichtte vanuit België in plaats van in Nederland.
 
 ## Uitspraak
 
