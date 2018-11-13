@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBAMS:2018:8044"
 court: "Rechtbank Amsterdam"
 court_code: "RBAMS"
-docket: "Parketnummer: 13/751847-18 RK nummer: 18/7400"
+docket: "13/751847-18"
 decided: "2018-11-13"
 published: "2018-11-12"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:804
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBAMS:2018:8044 Rechtbank Amsterdam , 13-11-2018 / Parketnummer: 13/751847-18 RK nummer: 18/7400
+# ECLI:NL:RBAMS:2018:8044 Rechtbank Amsterdam , 13-11-2018 / 13/751847-18
 
 ## Inhoudsindicatie
 
