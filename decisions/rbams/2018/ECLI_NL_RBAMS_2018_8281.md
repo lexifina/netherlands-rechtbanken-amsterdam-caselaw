@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:8281"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1388", "PR-Updates.nl PR-2018-0154"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1388", "PR-Updates.nl PR-2018-0154", "VAAN-AR-Updates.nl 2018-1388", "PR-Updates.nl 2018-0154"]
 ---
 
 # ECLI:NL:RBAMS:2018:8281 Rechtbank Amsterdam , 15-11-2018 / EA18-551
