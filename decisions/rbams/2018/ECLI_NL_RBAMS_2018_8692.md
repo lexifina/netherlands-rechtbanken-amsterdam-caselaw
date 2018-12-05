@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:8692"
-published_in: ["Rechtspraak.nl", "PJ 2019/85", "PR-Updates.nl PR-2018-0157"]
+published_in: ["Rechtspraak.nl", "PJ 2019/85", "PR-Updates.nl PR-2018-0157", "PR-Updates.nl 2018-0157"]
 ---
 
 # ECLI:NL:RBAMS:2018:8692 Rechtbank Amsterdam , 05-12-2018 / C/13/656152 / KG ZA 18-1131 FB/MB
