@@ -339,4 +339,4 @@ in tegenwoordigheid van mrs. J.B.P. Terwindt en L.C. Fleskens, 	griffiers,
 
 en uitgesproken op de openbare terechtzitting van deze rechtbank van 19 december 2018.
 
-HR 9 oktober 2009, ECLI:NL:HR:2009:BI8583 (https://www.navigator.nl/document/id77982f0c2b504f904aa2f9ce54705978?h1=((art.%206%3A108%20BW))%2C((art.%20108%20.%20Burgerlijk%20Wetboek%20Boek%206))%2C((%20artikel%20108))%2C((Burgerlijk%20Wetboek%20Boek%206%2C%20Artikel%20108))%2C(Boek)&idp=LegalIntelligence&anchor=id-91d79c2ba1c5cca989049803e4caba9a), NJ 2010/387 (K./Reaal)
+HR 9 oktober 2009, ECLI:NL:HR:2009:BI8583 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI8583), NJ 2010/387 (K./Reaal)
