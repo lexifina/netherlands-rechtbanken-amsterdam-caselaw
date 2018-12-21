@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2018:9311"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1416", "PJ 2019/5", "PR-Updates.nl PR-2018-0158"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1416", "PJ 2019/5", "PR-Updates.nl PR-2018-0158", "VAAN-AR-Updates.nl 2018-1416", "PR-Updates.nl 2018-0158"]
 ---
 
 # ECLI:NL:RBAMS:2018:9311 Rechtbank Amsterdam , 21-12-2018 / 7368013  KK EXPL 18-1097
