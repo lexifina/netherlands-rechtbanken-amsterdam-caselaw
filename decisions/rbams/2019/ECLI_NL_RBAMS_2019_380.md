@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:380"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0173", "PR-Updates.nl PR-2019-0031"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0173", "PR-Updates.nl PR-2019-0031", "VAAN-AR-Updates.nl 2019-0173", "PR-Updates.nl 2019-0031"]
 ---
 
 # ECLI:NL:RBAMS:2019:380 Rechtbank Amsterdam , 22-01-2019 / EA 17-1133
