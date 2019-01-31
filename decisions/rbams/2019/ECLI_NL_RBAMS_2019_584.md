@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:584"
-published_in: ["Rechtspraak.nl", "PJ 2019/52", "PR-Updates.nl PR-2019-0034"]
+published_in: ["Rechtspraak.nl", "PJ 2019/52", "PR-Updates.nl PR-2019-0034", "PR-Updates.nl 2019-0034"]
 ---
 
 # ECLI:NL:RBAMS:2019:584 Rechtbank Amsterdam , 31-01-2019 / AMS 18/4810
