@@ -286,4 +286,4 @@ ECLI:NL:HR:2018:2242
 
 ECLI:NL:HR:2004:AO5710 en ECLI:NL:HR:2014:3095 (http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2014:3095)
 
-ECLI:NL:HR:2013:BZ1890 i.c.m. ECLI:NL:PHR:2013:BZ1890 (https://www.navigator.nl/document/ide081057e0ed0479d868886e2195f4ea8?anchor=id-907286f3-32d9-40e5-a0cc-8e1069454e97)
+ECLI:NL:HR:2013:BZ1890 i.c.m. ECLI:NL:PHR:2013:BZ1890 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BZ1890 i.c.m. https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2013:BZ1890)
