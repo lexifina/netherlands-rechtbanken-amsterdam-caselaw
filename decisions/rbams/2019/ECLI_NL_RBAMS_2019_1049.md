@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:1049"
-published_in: ["Rechtspraak.nl", "PJ 2019/30", "PR-Updates.nl PR-2019-0037"]
+published_in: ["Rechtspraak.nl", "PJ 2019/30", "PR-Updates.nl PR-2019-0037", "PR-Updates.nl 2019-0037"]
 ---
 
 # ECLI:NL:RBAMS:2019:1049 Rechtbank Amsterdam , 18-02-2019 / 7155090  CV EXPL 18-18334
