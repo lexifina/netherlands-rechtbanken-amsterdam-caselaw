@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:1556"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0085"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0085", "PR-Updates.nl 2019-0085"]
 ---
 
 # ECLI:NL:RBAMS:2019:1556 Rechtbank Amsterdam , 06-03-2019 / C/13/640265 / HA ZA 17-1353
