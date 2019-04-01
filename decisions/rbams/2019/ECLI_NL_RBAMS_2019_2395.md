@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:2395"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0368", "JAR 2019/97", "PR-Updates.nl PR-2019-0070"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0368", "JAR 2019/97", "PR-Updates.nl PR-2019-0070", "VAAN-AR-Updates.nl 2019-0368", "PR-Updates.nl 2019-0070"]
 ---
 
 # ECLI:NL:RBAMS:2019:2395 Rechtbank Amsterdam , 01-04-2019 / 6558665  CV EXPL 18-167
@@ -124,7 +124,7 @@ Vordering en verweer
 
 2. [eiseres] vordert I. voor recht te verklaren dat het eindigen van de bovenwettelijke werkloosheids-uitkering op de leeftijd van 65 jaar op grond van artikel 9 lid 3 BWNU ongeoorloofd leeftijdsonderscheid met zich meebrengt en in strijd is met de wet gelijke behandeling op grond van leeftijd bij de arbeid (verder: WGBL), en II a. primair de VU te veroordelen om artikel 9 lid 3 BWNU op dit onderdeel buiten toepassing te laten en de bovenwettelijke werkloosheidsuitkering te laten voortduren tot de AOW-gerechtigde leeftijd van [eiseres] , te weten tot 18 oktober 2023, of II b. subsidiair de VU te veroordelen de compensatieregeling van artikel 22a BWNU 2014 (door de kantonrechter genoemd: BWNU 2015) op [eiseres] van toepassing te verklaren; met veroordeling van de VU in de kosten van de procedure.
 
-3. Primair stelt [eiseres] hiertoe, samengevat, dat het handhaven van de leeftijd van 65 jaar, waarop de aansluitende bovenwettelijke uitkering  op grond van de BWNU eindigt, een ongeoorloofd leeftijdsonderscheid oplevert en in strijd is met de WGBL.  wijst op meerdere uitspraken, waarin dit reeds is bepaald. Subsidiair meent [eiseres] dat ook voor artikel 22a BWNU 2015 geldt dat deze in strijd is met de WGBL, waarvoor geen legitiem doel aanwezig is, althans het middel niet passend dan wel noodzakelijk is.
+3. Primair stelt [eiseres] hiertoe, samengevat, dat het handhaven van de leeftijd van 65 jaar, waarop de aansluitende bovenwettelijke uitkering  op grond van de BWNU eindigt, een ongeoorloofd leeftijdsonderscheid oplevert en in strijd is met de WGBL. [eiseres] wijst op meerdere uitspraken, waarin dit reeds is bepaald. Subsidiair meent [eiseres] dat ook voor artikel 22a BWNU 2015 geldt dat deze in strijd is met de WGBL, waarvoor geen legitiem doel aanwezig is, althans het middel niet passend dan wel noodzakelijk is.
 
 4. De VU verweert zich hiertegen, samengevat, door er op te wijzen dat a. de VU niet mag afwijken van de CAO NU en [eiseres] en zij beide lid zijn van de partijen, die de CAO NU hebben afgesloten; b. er geen sprake is van leeftijdsonderscheid; c. als er al sprake is van leeftijdsonderscheid, dit dan objectief gerechtvaardigd is.
 
