@@ -105,7 +105,7 @@ Bij de feitelijke ontruiming zijn zowel toezichthouders (handhavers) van de geme
 
 Wat verdachte nu wordt verweten, is dat hij niet heeft voldaan aan een bevel of een vordering gedaan door of een opsporingsambtenaar of een handhaver van de gemeente Amsterdam.
 
-Voor een bewezenverklaring is vereist dat diegene die het bevel of de vordering heeft gedaan, ook bevoegd moet zijn geweest om dat bevel te geven. Die bevoegdheid moet uitdrukkelijk volgen uit een wettelijk voorschrift. Zo voldoen APV-bepalingen volgens de Hoge Raad niet aan de vereiste uitdrukkelijkheid wanneer zij weliswaar een verplichting voor de burger formuleren om mee te werken aan een bevel van een opsporingsambtenaar, maar het bestaan van de bevelsbevoegdheid niet uitdrukkelijk noemen (zie onder meer ECLI:NL:HR:2012:BT7085 (https://www.navigator.nl/document/id619983fa7d7c48a4b31da566d05cecc1?anchor=id-32424745-1aaf-4a16-a791-6a8d301b1d7f)).
+Voor een bewezenverklaring is vereist dat diegene die het bevel of de vordering heeft gedaan, ook bevoegd moet zijn geweest om dat bevel te geven. Die bevoegdheid moet uitdrukkelijk volgen uit een wettelijk voorschrift. Zo voldoen APV-bepalingen volgens de Hoge Raad niet aan de vereiste uitdrukkelijkheid wanneer zij weliswaar een verplichting voor de burger formuleren om mee te werken aan een bevel van een opsporingsambtenaar, maar het bestaan van de bevelsbevoegdheid niet uitdrukkelijk noemen (zie onder meer ECLI:NL:HR:2012:BT7085 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BT7085)).
 
 Voor een bewezenverklaring moet dan ook kunnen worden vastgesteld:
 
