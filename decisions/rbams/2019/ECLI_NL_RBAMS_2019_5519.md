@@ -42,7 +42,7 @@ verzoekster
 
 nader te noemen: [verzoekster]
 
-gemachtigde: mr. S. Pentinga
+gemachtigde: mr. D.C.J. Bogerd en/of mr. S. Bergwerff
 
 t e g e n
 
@@ -64,7 +64,7 @@ verweerster
 
 nader te noemen: [verweerster sub 2]
 
-gemachtigde: mr. D.C.J. Bogerd
+gemachtigde: mr. S. Pentinga
 
 Verloop van de procedure
 
@@ -146,11 +146,11 @@ hotel toegestaan?
 
 14. Met betrekking tot de gevraagde verklaring voor recht heeft [verzoekster] aangevoerd dat deze niet in een verzoekschriftprocedure kan worden verzocht. De verklaring voor recht is geregeld in artikel 3:302 Burgerlijk Wetboek. Alhoewel dit artikel spreekt over het  “op vordering” verkrijgen van een verklaring van recht, is daarmee niet uitgesloten dat deze in een verzoekschriftprocedure wordt gevraagd (vgl. HR 30 oktober 1998, NJ 1999, 83, HR 10 september 1999, NJ 1999, 735 en HR 31 maart 2000, NJ 2000, 497). Nu [verweerster sub 2] ook een duidelijk belang heeft bij de verklaring voor recht, zal de kantonrechter hier een beslissing over nemen.
 
-14. Voor de uitleg van de beperkingen aan het gebruik is bepalend hetgeen daaromtrent is vastgelegd in de op die splitsing betrekking hebbende splitsingsstukken. Bij de uitleg daarvan komt het aan op de daarin tot uitdrukking gebrachte bedoeling van degene die tot splitsing is overgegaan. Deze bedoeling moet naar objectieve maatstaven worden afgeleid uit de omschrijving in die akte, bezien in het licht van de gehele inhoud van de akte.
+15. Voor de uitleg van de beperkingen aan het gebruik is bepalend hetgeen daaromtrent is vastgelegd in de op die splitsing betrekking hebbende splitsingsstukken. Bij de uitleg daarvan komt het aan op de daarin tot uitdrukking gebrachte bedoeling van degene die tot splitsing is overgegaan. Deze bedoeling moet naar objectieve maatstaven worden afgeleid uit de omschrijving in die akte, bezien in het licht van de gehele inhoud van de akte.
 
-14. De vraag die partijen verdeeld houdt is of – kort gezegd – het horecaverbod zijn werking heeft verloren doordat de eigendom van [adres 2] is overgegaan van [naam 2] naar [verzoekster] . Naar het oordeel van de kantonrechter is dat het geval. De splitsingsakte is ondubbelzinnig op dit punt: de beperking geldt indien en zolang het gebruik als hotel [in [adres 3] , ktr] door de huidige eigenaar nog plaatsvindt. Die eigenaar was destijds [naam 2] en dat is nu niet meer het geval. Dat [naam 2] wel bestuurder en aandeelhouder is van de rechtspersoon die inmiddels eigenaar is, maakt de zaak niet anders. Uit de splitsingsakte kan immers niet worden afgeleid dat het de bedoeling was het begrip “eigenaar” zo op te vatten dat hieronder ook een toekomstige middellijk eigenaar moet worden begrepen. Voor de door [verzoekster] bepleite uitkomst is dat wel vereist, nu bij de uitleg slechts acht mag worden geslagen op de gegevens die voor derden uit of aan de hand van de in de openbare registers ingeschreven splitsingsstukken kenbaar zijn.
+16. De vraag die partijen verdeeld houdt is of – kort gezegd – het horecaverbod zijn werking heeft verloren doordat de eigendom van [adres 2] is overgegaan van [naam 2] naar [verzoekster] . Naar het oordeel van de kantonrechter is dat het geval. De splitsingsakte is ondubbelzinnig op dit punt: de beperking geldt indien en zolang het gebruik als hotel [in [adres 3] , ktr] door de huidige eigenaar nog plaatsvindt. Die eigenaar was destijds [naam 2] en dat is nu niet meer het geval. Dat [naam 2] wel bestuurder en aandeelhouder is van de rechtspersoon die inmiddels eigenaar is, maakt de zaak niet anders. Uit de splitsingsakte kan immers niet worden afgeleid dat het de bedoeling was het begrip “eigenaar” zo op te vatten dat hieronder ook een toekomstige middellijk eigenaar moet worden begrepen. Voor de door [verzoekster] bepleite uitkomst is dat wel vereist, nu bij de uitleg slechts acht mag worden geslagen op de gegevens die voor derden uit of aan de hand van de in de openbare registers ingeschreven splitsingsstukken kenbaar zijn.
 
-14. De gevraagde verklaring voor recht is dan ook toewijsbaar voor zover deze op de beperking uit de splitsingsakte betrekking heeft. Voor het overige heeft de gevraagde verklaring een te ruime strekking, in zoverre zal deze worden afgewezen.
+17. De gevraagde verklaring voor recht is dan ook toewijsbaar voor zover deze op de beperking uit de splitsingsakte betrekking heeft. Voor het overige heeft de gevraagde verklaring een te ruime strekking, in zoverre zal deze worden afgewezen.
 
 proceskosten
 
