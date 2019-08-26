@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:6292"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0910", "Viditax (FutD), 28-08-2019", "FutD 2019-2272", "JAR 2019/226", "NLF 2019/2133 met annotatie van Carl Luijken", "RAR 2019/164", "PJ 2019/135 met annotatie van Redactie", "PR-Updates.nl PR-2019-0123"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0910", "JAR 2019/226", "NLF 2019/2133 met annotatie van Carl Luijken", "RAR 2019/164", "PJ 2019/135", "PR-Updates.nl PR-2019-0123", "VAAN-AR-Updates.nl 2019-0910", "FutD 2019-2272", "Viditax (FutD) 2019082807", "PR-Updates.nl 2019-0123"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2021:3979"]]
 ---
 
 # ECLI:NL:RBAMS:2019:6292 Rechtbank Amsterdam , 26-08-2019 / 7532946 CV EXPL 19-3933
