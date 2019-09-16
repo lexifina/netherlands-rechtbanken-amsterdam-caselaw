@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:6780"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1032", "PS-Updates.nl 2019-1180", "PJ 2019/133", "PR-Updates.nl PR-2019-0156"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1032", "PS-Updates.nl 2019-1180", "PJ 2019/133", "PR-Updates.nl PR-2019-0156", "VAAN-AR-Updates.nl 2019-1032", "PR-Updates.nl 2019-0156"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2021:3559"]]
 ---
 
 # ECLI:NL:RBAMS:2019:6780 Rechtbank Amsterdam , 16-09-2019 / 7478477 CV EXPL 19-1800
