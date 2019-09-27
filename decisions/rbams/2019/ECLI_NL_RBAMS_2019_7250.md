@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7250"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1374", "PR-Updates.nl PR-2019-0140"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1374", "PR-Updates.nl PR-2019-0140", "VAAN-AR-Updates.nl 2019-1374", "PR-Updates.nl 2019-0140"]
 ---
 
 # ECLI:NL:RBAMS:2019:7250 Rechtbank Amsterdam , 27-09-2019 / 8027137  KK EXPL 19-854
