@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7926"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1186", "PR-Updates.nl PR-2019-0174"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1186", "PR-Updates.nl PR-2019-0174", "VAAN-AR-Updates.nl 2019-1186", "PR-Updates.nl 2019-0174"]
 ---
 
 # ECLI:NL:RBAMS:2019:7926 Rechtbank Amsterdam , 30-09-2019 / 5970034 EA VERZ 17-407
