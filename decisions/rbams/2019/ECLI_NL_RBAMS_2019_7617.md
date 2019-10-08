@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7617"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1116", "PJ 2019/142 met annotatie van W. van Heest", "PR-Updates.nl PR-2019-0162"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1116", "PJ 2019/142 met annotatie van W. van Heest", "PR-Updates.nl PR-2019-0162", "VAAN-AR-Updates.nl 2019-1116", "PR-Updates.nl 2019-0162"]
 ---
 
 # ECLI:NL:RBAMS:2019:7617 Rechtbank Amsterdam , 08-10-2019 / 6468875  CV EXPL 17-26514
