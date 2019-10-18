@@ -167,4 +167,4 @@ Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger
 
 Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
 
-ABRvS 23-11-2016, ECLI:NL:RVS:2016:3131 (https://www.navigator.nl/document/id34aeb39b786c465294d522dcd56b884e?anchor=id-962562a8-92d3-4f02-b57b-cd6eb24af003), m.nt. H.E. Bröring
+ABRvS 23-11-2016, ECLI:NL:RVS:2016:3131 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:3131), m.nt. H.E. Bröring
