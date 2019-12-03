@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:10063"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0186", "PR-Updates.nl PR-2020-0051", "PJ 2020/47"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0186", "PR-Updates.nl PR-2020-0051", "PJ 2020/47", "VAAN-AR-Updates.nl 2020-0186", "PR-Updates.nl 2020-0051"]
 ---
 
 # ECLI:NL:RBAMS:2019:10063 Rechtbank Amsterdam , 03-12-2019 / 7335186 EA VERZ 18-886
