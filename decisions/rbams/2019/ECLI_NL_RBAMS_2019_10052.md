@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:10052"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0166", "PR-Updates.nl PR-2020-0049", "PJ 2020/45"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0166", "PR-Updates.nl PR-2020-0049", "PJ 2020/45", "VAAN-AR-Updates.nl 2020-0166", "PR-Updates.nl 2020-0049"]
 ---
 
 # ECLI:NL:RBAMS:2019:10052 Rechtbank Amsterdam , 23-12-2019 / CV 19-15484
