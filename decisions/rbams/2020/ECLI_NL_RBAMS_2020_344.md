@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:344"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0048", "PJ 2020/51 met annotatie van W.P.M. Thijssen"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0048", "PJ 2020/51 met annotatie van W.P.M. Thijssen", "PR-Updates.nl 2020-0048"]
 ---
 
 # ECLI:NL:RBAMS:2020:344 Rechtbank Amsterdam , 23-01-2020 / C/13/670936 / HA RK 19-280
