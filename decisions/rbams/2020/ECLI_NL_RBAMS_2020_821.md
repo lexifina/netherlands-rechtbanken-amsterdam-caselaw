@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:821"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0046", "PJ 2020/46", "S&S 2020/84"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0046", "PJ 2020/46", "S&S 2020/84", "AR-Updates.nl 2020-0164", "VAAN-AR-Updates.nl 2020-0164", "PR-Updates.nl 2020-0046"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2021:2836"]]
 ---
 
 # ECLI:NL:RBAMS:2020:821 Rechtbank Amsterdam , 03-02-2020 / 7818996  CV EXPL 19-12580
