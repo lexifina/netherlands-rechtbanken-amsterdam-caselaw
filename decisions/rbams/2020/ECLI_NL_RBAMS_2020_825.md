@@ -1,0 +1,128 @@
+---
+ecli: "ECLI:NL:RBAMS:2020:825"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "AWB - 19 _ 1121, 19/1122, 19/1123, 19/1124, 19/1125, 19/1126, 19/1127, 19/1128, 19/1129, 19/1131, 19/1132, 19/1134, 19/1135 en 19/1136"
+decided: "2020-02-07"
+published: "2020-02-12"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:825"
+published_in: ["Rechtspraak.nl", "Belastingblad 2020/240 met annotatie van L.J. Boone"]
+---
+
+# ECLI:NL:RBAMS:2020:825 Rechtbank Amsterdam , 07-02-2020 / AWB - 19 _ 1121, 19/1122, 19/1123, 19/1124, 19/1125, 19/1126, 19/1127, 19/1128, 19/1129, 19/1131, 19/1132, 19/1134, 19/1135 en 19/1136
+
+## Inhoudsindicatie
+
+Naheffingsaanslagen parkeerbelasting. Eiser voert aan dat binnen 24 uur niet nog een keer een aanslag opgelegd mag worden. Dit beroep slaagt niet, volgens artikel 234 Gemeentewet eenmaal ‘per kalenderdag’ kosten van de naheffingsaanslag. Ook het beroep op het vertrouwensbeginsel slaagt niet. Beroep ongegrond.
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+Bestuursrecht
+
+zaaknummers: AMS 19/1121, AMS 19/1122, AMS 19/1123, AMS 19/1124, AMS 19/1125, AMS 19/1126, AMS 19/1127, AMS 19/1128, AMS 19/1129, AMS 19/1131, AMS 19/1132, AMS 19/1134, AMS 19/1135 en AMS 19/1136
+
+uitspraak van de enkelvoudige kamer van 7 februari 2020 in de zaken tussen
+
+[eiser] , te Amsterdam, eiser
+(gemachtigde: mr. M. Pinarbasi-Ilbay),
+
+en
+
+de heffingsambtenaar van de gemeente Amsterdam,
+(gemachtigde: A. van Beek).
+
+Procesverloop
+
+In de periode van 2 januari tot en met 18 januari 2019 heeft de heffingsambtenaar aan eiser veertien naheffingsaanslagen parkeerbelasting opgelegd.
+
+In veertien afzonderlijke uitspraken op bezwaar van 5 februari 2019 heeft de heffingsambtenaar de bezwaren van eiser ongegrond verklaard.
+
+Eiser heeft daartegen veertien afzonderlijke beroepschriften ingesteld. De heffingsambtenaar heeft verweerschriften ingediend.
+
+De zaken zijn behandeld op de zitting van 16 januari 2020. Eiser was aanwezig, bijgestaan door [naam] (kantoorgenoot van de gemachtigde van eiser). De heffingsambtenaar heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+Het verzoek om vrijstelling van het griffierecht
+
+1. Eiser heeft bij brief van 5 april 2019 verzocht om vrijstelling van de verplichting tot het betalen van griffierecht wegens betalingsonmacht. Het verzoek om vrijstelling van het griffierecht is door de griffier bij brief van 12 juni 2019 in alle zaken voorlopig afgewezen. Met de overgelegde uitkeringsspecificaties van februari en maart 2019 heeft eiser niet aangetoond dat hij op het moment dat het griffierecht verschuldigd was, voldeed aan de norm om voor vrijstelling in aanmerking te komen. De rechtbank wijst daarom in alle zaken de verzoeken om vrijstelling (definitief) af.
+
+2. De gemachtigde van eiser heeft op zitting aangevoerd dat in dit geval, omdat veertien keer griffierecht moet worden betaald, het griffierecht wel erg zwaar op de financiële situatie van eiser drukt. Dit argument slaagt niet, omdat de rechtbank het verzoek om vrijstelling van het griffierecht per zaak dient te beoordelen. Dat voor meerdere zaken griffierecht is verschuldigd, is dus niet een omstandigheid waarmee rekening kan worden gehouden bij de vraag of vrijstelling van betaling kan worden verleend.
+
+Zijn de naheffingsaanslagen terecht opgelegd?
+
+3. De heffingsambtenaar heeft de naheffingsaanslagen opgelegd voor het parkeren van de auto van eiser met kenteken [nummer] op:
+
+27 december 2018 om 11:36 uur ter hoogte van [straat 1] ;
+
+28 december 2018 om 19:53 uur ter hoogte van [straat 1] ;
+
+29 december 2018 om 11:44 uur ter hoogte van [straat 1] ;
+
+29 december 2018 om 17:35 uur ter hoogte van [straat 2] ;
+
+2 januari 2019 om 11:41 uur te hoogte van [straat 3] ;
+
+3 januari 2019 om 17:44 uur te hoogte van [straat 4] ;
+
+5 januari 2019 om 18:12 uur te hoogte van [straat 5] ;
+
+8 januari 2019 om 20:34 uur te hoogte van [straat 1] ;
+
+9 januari 2019 om 17:55 uur te hoogte van [straat 3] ;
+
+10 januari 2019 om 11:45 uur te hoogte van [straat 3] ;
+
+10 januari 2019 om 20:41 uur te hoogte van [straat 5] ;
+
+11 januari 2019 om 19:48 uur te hoogte van [straat 6] ;
+
+12 januari 2019 om 20:30 uur te hoogte van [straat 7] ;
+
+14 januari 2019 om 09:02 uur te hoogte van [straat 8] .
+
+4. De hiervoor genoemde parkeerlocaties liggen binnen het vergunninggebied West 1.2. De naheffingsaanslagen zijn opgelegd omdat bij controles geen geldig parkeerbewijs voor de auto voor dit vergunninggebied zijn aangetroffen.
+
+5. Eiser vindt dat de naheffingsaanslagen onterecht zijn opgelegd.
+
+De beoordeling door de rechtbank
+
+6. Volgens eiser mag de heffingsambtenaar per 24 uur maar één naheffingsaanslag opleggen. Er is een aantal keer binnen 24 uur een tweede aanslag opgelegd, waardoor deze volgens eiser onterecht aan hem zijn opgelegd.
+
+7. Het betoog van eiser slaagt niet. Volgens artikel 234, vijfde lid, van de Gemeentewet is niet bepalend of er binnen 24 uur meerdere aanslagen zijn opgelegd. De heffingsambtenaar mag per kalenderdag eenmaal de kosten van het opleggen van een naheffingsaanslag in rekening brengen als een auto zonder parkeerrecht op dezelfde parkeerplaats geparkeerd blijft staan. In dit geval is niet gebleken dat de heffingsambtenaar in strijd met artikel 234 van de Gemeentewet aanslagen heeft opgelegd. De aanslagen zijn hier voor het merendeel op afzonderlijke kalenderdagen opgelegd. Alleen op 29 december 2018 en 10 januari 2019 zijn er elke keer per kalenderdag twee aanslagen opgelegd. Aangezien toen echter geen sprake was van parkeren voor een aaneengesloten periode op dezelfde parkeerplaats, zo blijkt uit de stukken in het dossier, is geen sprake van strijd met de regelgeving. Eiser heeft op zitting nog gevraagd om coulance van de heffingsambtenaar. Op grond van de regelgeving is de heffingsambtenaar echter niet verplicht om in dit soort situaties coulance toe te passen.
+
+8. Verder heeft eiser aangevoerd dat de heffingsambtenaar in dit geval een wielklem had kunnen plaatsen na de oplegging van vijf naheffingsaanslagen. In dat geval was eiser, zo stelt hij, eerder op de hoogte geraakt van de al opgelegde naheffingsaanslagen en had hij verdere naheffingsaanslagen kunnen voorkomen. Het betoog van eiser slaagt niet, reeds omdat de heffingsambtenaar niet verplicht is om een wielklem te plaatsen.
+
+- Gerechtvaardigd vertrouwen?
+
+9. Eiser woont in het vergunninggebied West 1.2. Hij had geen parkeervergunning. Op 3 december 2018 heeft eiser voor zijn vergunninggebied een bewonersvergunning aangevraagd. Op dat moment gold voor deze vergunning een wachtlijst. In afwachting van de vergunning heeft de heffingsambtenaar toen aan eiser een overloopvergunning toegekend voor gebied West 2. Het staat niet ter discussie dat eiser begin december wist dat hij met de overloopvergunning niet in vergunninggebied West 1.2 mocht parkeren, omdat hij een overloopvergunning had en geen bewonersvergunning.
+
+10. De dochter van eiser heeft op 24 december 2018 gebeld met de gemeente om te vragen of eiser niet toch voor zijn woning mocht parkeren. De medewerker van de gemeente met wie is gesproken heeft gezegd, zo heeft eiser van zijn dochter begrepen, dat de parkeervergunning voor het gebied West 1.2 geactiveerd zou zijn.
+
+11. De heffingsambtenaar heeft verklaard dat er niets is geregistreerd van een dergelijk gesprek. Wel is op 28 december 2018 iemand aan de balie van het stadsloket geweest. Toen is de betaalwijze aangepast van acceptgiro naar automatische incasso. Die gewijzigde betaalwijze zag op de overloopvergunning en een bevestiging hiervan is meegegeven.
+
+12. De rechtbank overweegt als volgt. Voor een geslaagd beroep op het vertrouwensbeginsel is vereist dat toezeggingen of andere uitlatingen zijn gedaan waaruit de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht afleiden of en, zo ja, hoe het bestuursorgaan in een concreet geval een bevoegdheid zou uitoefenen. Het zou in dit geval gaan om een mondelinge toezegging. Eiser heeft zelf dat gesprek niet gevoerd met de gemeente, maar zijn dochter. Eiser kan daarom niet uit eigen wetenschap verklaren wat tijdens het gesprek precies is besproken. Bovendien is onduidelijk gebleven – ook na vragen hierover op de zitting – wat er precies tegen zijn dochter is gezegd of met wie is gesproken. Daar komt nog bij dat op 28 december 2018 de betaalwijze voor de overloopvergunning is gewijzigd. Dat is niet logisch als eiser enkele dagen daarvoor in plaats van die vergunning al een bewonersvergunning zou hebben gekregen. Naar het oordeel van de rechtbank heeft eiser niet aannemelijk gemaakt dat op 24 december 2018 een toezegging is gedaan waaruit hij redelijkerwijs kon en mocht afleiden dat vanaf dat moment de bewonersvergunning was geactiveerd. Het beroep op het vertrouwensbeginsel slaagt daarom niet.
+
+13. Naar het oordeel van de rechtbank zijn de naheffingsaanslagen terecht opgelegd.
+
+14. De beroepen zijn ongegrond. Eiser krijgt dus geen gelijk. Voor vergoeding van griffierecht of een proceskostenvergoeding is geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart de beroepen ongegrond.
+
+Deze uitspraak is gedaan door mr. J.T. Kruis, rechter, in aanwezigheid van mr. R. Boerlage, griffier. De beslissing is in het openbaar uitgesproken op 7 februari 2020.
+
+griffier
+
+rechter
+
+Afschrift verzonden aan partijen op:
+
+Wat kunt u doen als u het niet eens bent met deze uitspraak?
+
+Tegen deze uitspraak kunt u binnen zes weken na de dag van verzending daarvan hoger beroep instellen bij het gerechtshof Amsterdam, Postbus 1312, 1000 BH Amsterdam.
