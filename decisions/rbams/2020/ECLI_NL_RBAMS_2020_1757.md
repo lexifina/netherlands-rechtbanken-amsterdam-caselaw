@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:1757"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0346", "PR-Updates.nl PR-2020-0064", "RAR 2020/91"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0346", "PR-Updates.nl PR-2020-0064", "RAR 2020/91", "VAAN-AR-Updates.nl 2020-0346", "PR-Updates.nl 2020-0064"]
 ---
 
 # ECLI:NL:RBAMS:2020:1757 Rechtbank Amsterdam , 28-02-2020 / 7778357  EA VERZ 19-362
