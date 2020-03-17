@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:1807"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2025:3850, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2020:1807 Rechtbank Amsterdam , 17-03-2020 / 13/096600-19
