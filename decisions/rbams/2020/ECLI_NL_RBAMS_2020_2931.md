@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:2931"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0697", "JAR 2020/168 met annotatie van Faber, M.", "PR-Updates.nl PR-2020-0115", "RAR 2020/135", "PJ 2020/127", "Prg. 2020/191"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0697", "JAR 2020/168 met annotatie van Faber, M.", "PR-Updates.nl PR-2020-0115", "RAR 2020/135", "PJ 2020/127", "Prg. 2020/191", "VAAN-AR-Updates.nl 2020-0697", "PR-Updates.nl 2020-0115"]
 ---
 
 # ECLI:NL:RBAMS:2020:2931 Rechtbank Amsterdam , 15-06-2020 / 8345461
