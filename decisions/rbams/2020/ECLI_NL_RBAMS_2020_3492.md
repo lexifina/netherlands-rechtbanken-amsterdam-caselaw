@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:3492"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0131"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0131", "PR-Updates.nl 2020-0131"]
 ---
 
 # ECLI:NL:RBAMS:2020:3492 Rechtbank Amsterdam , 17-07-2020 / 6993114 CV EXPL 18-13258
