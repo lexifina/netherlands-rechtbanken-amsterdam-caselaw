@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:4141"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0153", "PJ 2020/156"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0153", "PJ 2020/156", "PR-Updates.nl 2020-0153"]
 ---
 
 # ECLI:NL:RBAMS:2020:4141 Rechtbank Amsterdam , 22-07-2020 / C/13/668398 / HA ZA 19-696
