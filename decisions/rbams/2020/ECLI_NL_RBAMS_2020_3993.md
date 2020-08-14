@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:3993"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0146"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0146", "PR-Updates.nl 2020-0146"]
 ---
 
 # ECLI:NL:RBAMS:2020:3993 Rechtbank Amsterdam , 14-08-2020 / 8474498
