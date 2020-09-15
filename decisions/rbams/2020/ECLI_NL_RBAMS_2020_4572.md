@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:4572"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0176", "Prg. 2020/316"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0176", "Prg. 2020/316", "PR-Updates.nl 2020-0176"]
 ---
 
 # ECLI:NL:RBAMS:2020:4572 Rechtbank Amsterdam , 15-09-2020 / C/13/687154 / FT RK 20.795
