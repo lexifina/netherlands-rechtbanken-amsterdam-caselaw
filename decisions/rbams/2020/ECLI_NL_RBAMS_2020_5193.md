@@ -137,7 +137,7 @@ Verklaart niet bewezen hetgeen aan verdachte meer of anders is ten laste gelegd 
 
 Het bewezenverklaarde levert op de overtreding van:
 
-Een algemeen voorschrift van politie, krachtens de Gemeentewet (https://www.navigator.nl/document/openCitation/id1c89d51a25de1b6647cbdb2eca89bb97) in buitengewone omstandigheden door de burgemeester, de voorzitter van de veiligheidsregio of de commissaris van de Koning in de provincie uitgevaardigd en afgekondigd.
+Een algemeen voorschrift van politie, krachtens de Gemeentewet (https://wetten.overheid.nl/BWBR0005416/2020-01-01) in buitengewone omstandigheden door de burgemeester, de voorzitter van de veiligheidsregio of de commissaris van de Koning in de provincie uitgevaardigd en afgekondigd.
 
 Verklaart het bewezene strafbaar.
 
