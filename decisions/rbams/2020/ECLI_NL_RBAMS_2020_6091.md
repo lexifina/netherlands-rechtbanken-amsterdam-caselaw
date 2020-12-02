@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:6091"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0022", "PJ 2021/25"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0022", "PJ 2021/25", "PR-Updates.nl 2021-0022"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2022:501, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2020:6091 Rechtbank Amsterdam , 02-12-2020 / 20/3273 e.v.
