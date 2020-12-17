@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:7040"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2022:509, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2020:7040 Rechtbank Amsterdam , 17-12-2020 / AMS 19/2381
@@ -158,8 +159,8 @@ ECLI:NL:RVS:2017:2394.
 
 ECLI:NL:RVS:2020:98, ECLI:NL:RVS:2019:195 en ECLI:NL:RVS:2018:2849.
 
-ECLI:NL:CRVB:2016:1943 (https://www.navigator.nl/document/iddf5be5fe9007475e81e403ea4f6b3cf2?ctx=WKNL_CSL_10000001&anchor=id-9b13e35e-5446-46de-9811-c2a3600b518a).
+ECLI:NL:CRVB:2016:1943 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2016:1943
 
-ECLI:NL:CRVB:2016:1943 (https://www.navigator.nl/document/iddf5be5fe9007475e81e403ea4f6b3cf2?ctx=WKNL_CSL_10000001&anchor=id-9b13e35e-5446-46de-9811-c2a3600b518a) en ECLI:NL:CRVB:2018:269.
+ECLI:NL:CRVB:2016:1943 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2016:1943) en ECLI:NL:CRVB:2018:269.
 
 Idem.
