@@ -352,7 +352,7 @@ Verordening (EU) nr. 1215/2012 van het Europees Parlement en de Raad van 12 dece
 
 Wetboek van Burgerlijke Rechtsvordering (hierna: Rv).
 
-Verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (hierna: Rome I (https://www.navigator.nl/document/openCitation/id5aba9745150ee0c2ddda46a806a77ad5)), PbEG 2008, L 177/6.
+Verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (hierna: Rome I (https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex:32008R0593)), PbEG 2008, L 177/6.
 
 Richtsnoeren inzake geautomatiseerde individuele besluitvorming en profilering voor de toepassing van Verordening (EU) 2016/679 van de Groep Gegevensbescherming Artikel 29 van 3 oktober 2017, laatstelijk gewijzigd op 6 februari 2018, WP251rev.01 (hierna: Richtsnoeren). Deze groep thans European Data Protection Board genoemd, bestaat uit vertegenwoordigers van de nationale toezichthouders voor gegevensbescherming.
 
