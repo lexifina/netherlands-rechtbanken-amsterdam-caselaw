@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1642"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0015", "JR-Updates.nl 2021-0015"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0015", "JR-Updates.nl 2021-0015", "PFR-Updates.nl 2021-0015"]
 ---
 
 # ECLI:NL:RBAMS:2021:1642 Rechtbank Amsterdam , 19-03-2021 / RK 20/5401 en 20/5402
