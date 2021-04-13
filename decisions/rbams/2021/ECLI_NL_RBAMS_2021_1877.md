@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste en enige aanleg"
 subject: "Strafrecht; Europees strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1877"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0017", "JR-Updates.nl 2021-0017"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0017", "JR-Updates.nl 2021-0017", "PFR-Updates.nl 2021-0017"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBAMS:2021:3509"]]
 ---
 
