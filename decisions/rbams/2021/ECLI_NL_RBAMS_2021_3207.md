@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:3207"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0143"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0143", "PR-Updates.nl 2021-0143"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2022:2043"]]
 ---
 
