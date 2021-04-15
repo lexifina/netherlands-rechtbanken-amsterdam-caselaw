@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:2482"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0707"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0707", "VAAN-AR-Updates.nl 2021-0707"]
 ---
 
 # ECLI:NL:RBAMS:2021:2482 Rechtbank Amsterdam , 15-04-2021 / C/13/694256 / HA RK 20-350
