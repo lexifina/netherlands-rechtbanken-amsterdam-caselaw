@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1982"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2021-0404", "Jeugdrecht.nl JR-2021-0020", "JR-Updates.nl 2021-0020"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2021-0404", "Jeugdrecht.nl JR-2021-0020", "JR-Updates.nl 2021-0020", "PFR-Updates.nl 2021-0020"]
 ---
 
 # ECLI:NL:RBAMS:2021:1982 Rechtbank Amsterdam , 22-04-2021 / 13.210797.20 (Promis)
