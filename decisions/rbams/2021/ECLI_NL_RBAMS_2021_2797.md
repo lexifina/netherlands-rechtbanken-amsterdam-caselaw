@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:2797"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0125"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0125", "PR-Updates.nl 2021-0125"]
 ---
 
 # ECLI:NL:RBAMS:2021:2797 Rechtbank Amsterdam , 06-05-2021 / 9000129 EA VERZ 21-45
