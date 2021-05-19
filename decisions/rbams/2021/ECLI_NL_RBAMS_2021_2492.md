@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:2492"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0124"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0124", "PR-Updates.nl 2021-0124"]
 ---
 
 # ECLI:NL:RBAMS:2021:2492 Rechtbank Amsterdam , 19-05-2021 / C/13/680226 / FA RK 20-932 en C/13/697666 / FA RK 21-1103
