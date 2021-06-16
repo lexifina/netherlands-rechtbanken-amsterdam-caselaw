@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:3015"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0120", "PJ 2021/102"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0120", "PJ 2021/102", "PR-Updates.nl 2021-0120"]
 ---
 
 # ECLI:NL:RBAMS:2021:3015 Rechtbank Amsterdam , 16-06-2021 / C/13/684383 / HA ZA 20-530
