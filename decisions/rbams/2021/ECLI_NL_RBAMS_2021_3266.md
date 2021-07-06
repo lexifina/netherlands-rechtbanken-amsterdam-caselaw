@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:3266"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0132", "PJ 2021/108"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0132", "PJ 2021/108", "PR-Updates.nl 2021-0132"]
 ---
 
 # ECLI:NL:RBAMS:2021:3266 Rechtbank Amsterdam , 06-07-2021 / 8538208
