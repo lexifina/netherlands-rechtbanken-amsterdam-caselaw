@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Verdachte heeft zich schuldig gemaakt aan onvoorzichtig en onachtzaam rijgedrag, waardoor hij tegen twee auto's is gebotst. Hierdoor heeft de bestuurder van de tweede auto zwaar lichamelijk letstel opgelopen. Twaalf maanden gevangenisstraf, waarvan zes maanden voorwaardelijk.
+Verdachte heeft zich schuldig gemaakt aan onvoorzichtig en onachtzaam rijgedrag, waardoor hij tegen twee auto's is gebotst. Hierdoor heeft de bestuurder van de tweede auto zwaar lichamelijk letstel opgelopen. Taakstraf 120 uur en twaalf maanden gevangenisstraf, waarvan zes maanden voorwaardelijk.
 
 ## Uitspraak
 
