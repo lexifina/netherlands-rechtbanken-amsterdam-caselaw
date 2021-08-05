@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:4092"
 published_in: ["Rechtspraak.nl", "NLF 2021/1607", "Viditax (FutD) 2021081001", "FutD 2021-2572"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1209, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2021:4092 Rechtbank Amsterdam , 05-08-2021 / 13-993855-19 (Promis)
