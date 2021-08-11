@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:4435"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0038", "NJFS 2022/81", "JR-Updates.nl 2021-0038"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0038", "NJFS 2022/81", "JR-Updates.nl 2021-0038", "PFR-Updates.nl 2021-0038"]
 ---
 
 # ECLI:NL:RBAMS:2021:4435 Rechtbank Amsterdam , 11-08-2021 / 13/741029-17
