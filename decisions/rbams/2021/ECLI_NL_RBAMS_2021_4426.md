@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:4426"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0193"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0193", "PR-Updates.nl 2021-0193"]
 ---
 
 # ECLI:NL:RBAMS:2021:4426 Rechtbank Amsterdam , 25-08-2021 / C/13/694467 / HA ZA 20-1248
