@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:5722"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1275", "PR-Updates.nl PR-2021-0203", "PJ 2021/150", "VAAN-AR-Updates.nl 2021-1275"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1275", "PR-Updates.nl PR-2021-0203", "PJ 2021/150", "VAAN-AR-Updates.nl 2021-1275", "PR-Updates.nl 2021-0203"]
 ---
 
 # ECLI:NL:RBAMS:2021:5722 Rechtbank Amsterdam , 05-10-2021 / 8133076  EA VERZ 19-770
