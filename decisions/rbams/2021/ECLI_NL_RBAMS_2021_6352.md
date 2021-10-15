@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:6352"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0230"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0230", "PR-Updates.nl 2021-0230"]
 ---
 
 # ECLI:NL:RBAMS:2021:6352 Rechtbank Amsterdam , 15-10-2021 / 9092628 EA VERZ 21-180
