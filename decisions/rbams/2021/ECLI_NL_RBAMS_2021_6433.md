@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:6433"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0051", "JR-Updates.nl 2021-0051"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0051", "JR-Updates.nl 2021-0051", "PFR-Updates.nl 2021-0051"]
 ---
 
 # ECLI:NL:RBAMS:2021:6433 Rechtbank Amsterdam , 11-11-2021 / 13/117691-20 + 13/684196-13 (tul) (Promis)
