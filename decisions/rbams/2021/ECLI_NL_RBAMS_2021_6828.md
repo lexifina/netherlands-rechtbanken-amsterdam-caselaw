@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:6828"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0013", "PJ 2022/33"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0013", "PJ 2022/33", "PR-Updates.nl 2022-0013"]
 ---
 
 # ECLI:NL:RBAMS:2021:6828 Rechtbank Amsterdam , 26-11-2021 / 8913342  CV EXPL 20-21932
