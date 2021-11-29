@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:7094"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1575", "PR-Updates.nl PR-2022-0012", "VAAN-AR-Updates.nl 2021-1575"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1575", "PR-Updates.nl PR-2022-0012", "VAAN-AR-Updates.nl 2021-1575", "PR-Updates.nl 2022-0012"]
 ---
 
 # ECLI:NL:RBAMS:2021:7094 Rechtbank Amsterdam , 29-11-2021 / 9516952
