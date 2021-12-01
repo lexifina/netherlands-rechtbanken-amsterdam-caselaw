@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:7090"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/3025", "ERF-Updates.nl 2021-0365", "V-N 2022/8.20 met annotatie van Redactie", "NJF 2022/93", "UDH:IR/17112 met annotatie van Mr. F. Schemkes", "JBP 2022/15", "FJR 2022/23.24", "Jurisprudentie Erfrecht 2022/38 met annotatie van mr. L.A.G.M. van der Geld", "Mediaforum 2022-4, nr. 12 met annotatie van B. Kleinhout en J.L. Naves", "JERF 2022/38 met annotatie van mr. L.A.G.M. van der Geld", "JERF Actueel 2021/526"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/3025", "ERF-Updates.nl 2021-0365", "V-N 2022/8.20", "NJF 2022/93", "UDH:IR/17112 met annotatie van Mr. F. Schemkes", "JBP 2022/15", "FJR 2022/23.24", "Jurisprudentie Erfrecht 2022/38 met annotatie van mr. L.A.G.M. van der Geld", "Mediaforum 2022-4, nr. 12 met annotatie van B. Kleinhout en J.L. Naves", "JERF 2022/38 met annotatie van mr. L.A.G.M. van der Geld", "JERF Actueel 2021/526"]
 ---
 
 # ECLI:NL:RBAMS:2021:7090 Rechtbank Amsterdam , 01-12-2021 / C/13/708783 / KG ZA 21-859 DvH/MAH
