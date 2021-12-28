@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:7573"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0033", "PJ 2022/19"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0033", "PJ 2022/19", "PR-Updates.nl 2022-0033"]
 ---
 
 # ECLI:NL:RBAMS:2021:7573 Rechtbank Amsterdam , 28-12-2021 / 9117736
