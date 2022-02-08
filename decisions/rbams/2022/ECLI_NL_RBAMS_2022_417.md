@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:417"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2022-0014", "JR-Updates.nl 2022-0014"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2022-0014", "JR-Updates.nl 2022-0014", "PFR-Updates.nl 2022-0014"]
 ---
 
 # ECLI:NL:RBAMS:2022:417 Rechtbank Amsterdam , 08-02-2022 / 13/215753-21
