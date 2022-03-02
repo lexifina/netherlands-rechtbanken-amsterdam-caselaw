@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:1495"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0100"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0100", "PR-Updates.nl 2022-0100"]
 ---
 
 # ECLI:NL:RBAMS:2022:1495 Rechtbank Amsterdam , 02-03-2022 / C/13/687050 / HA ZA 20-740
