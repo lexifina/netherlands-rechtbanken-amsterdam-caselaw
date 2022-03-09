@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:1089"
-published_in: ["Rechtspraak.nl", "JAR 2022/80", "RAR 2022/77"]
+published_in: ["Rechtspraak.nl", "JAR 2022/80", "RAR 2022/77", "AA20230208 met annotatie van Sillen J.J.J. Joost"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2023:276"]]
 ---
 
