@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:1388"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5205"]]
 ---
 
 # ECLI:NL:RBAMS:2022:1388 Rechtbank Amsterdam , 17-03-2022 / AWB - 20 _ 3339
