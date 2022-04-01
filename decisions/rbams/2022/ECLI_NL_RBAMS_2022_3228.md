@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:3228"
-published_in: ["Rechtspraak.nl", "JAR 2023/114 met annotatie van mr. M.M. Govaert", "Jurisprudentie HSE 2023/50", "PR-Updates.nl PR-2023-0088"]
+published_in: ["Rechtspraak.nl", "JAR 2023/114 met annotatie van mr. M.M. Govaert", "Jurisprudentie HSE 2023/50", "PR-Updates.nl PR-2023-0088", "PR-Updates.nl 2023-0088"]
 ---
 
 # ECLI:NL:RBAMS:2022:3228 Rechtbank Amsterdam , 01-04-2022 / 9605153 EA 21-818
