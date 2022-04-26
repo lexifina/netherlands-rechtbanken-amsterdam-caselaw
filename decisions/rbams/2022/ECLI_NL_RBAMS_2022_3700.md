@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:3700"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2648"]]
 ---
 
 # ECLI:NL:RBAMS:2022:3700 Rechtbank Amsterdam , 26-04-2022 / 13-011588-21 (A)
