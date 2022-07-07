@@ -35,15 +35,15 @@ op de vordering ex artikel 23 Overleveringswet (OLW), ingediend door de officier
 
 Dit EAB is uitgevaardigd op 13 april 2022 door het Amtsgericht Darmstadt (Duitsland) en strekt tot de aanhouding en overlevering van:
 
-[opgeëiste persoon],
+[opgeëiste persoon] ,
 
 geboren te [geboorteplaats] op [geboortedag] 1988,
 
 ingeschreven in de Basisregistratie Personen op het adres:
 
-[adres], [plaats],
+[adres] , [plaats] ,
 
-gedetineerd in de [detentieadres],
+gedetineerd in de [detentieadres] ,
 
 hierna te noemen de opgeëiste persoon.
 
@@ -142,4 +142,4 @@ Ingevolge artikel 29, tweede lid, OLW staat tegen deze uitspraak geen gewoon rec
 
 Rechtbank Amsterdam 18 maart 2005, ECLI:NL:RBAMS:2005:AT2566 en rechtbank Amsterdam 10 oktober 2006, ECLI:NL:RBAMS:2006:AZ1408.
 
-Rechtbank Amsterdam 2 september 2014, ECLI:NL:RBAMS:2014:7735 (https://www.navigator.nl/document/id8e1feaab0cea44a39d2db788532c16bc?anchor=id-034e6102-25c9-4682-b4cf-d6087a507873) en rechtbank Amsterdam 30 januari 2015, ECLI:NL:RBAMS:2015:587 (https://www.navigator.nl/document/id8fef6d840ada4b1ea0f30f7651222ea3?anchor=id-6c589c16-044f-458f-8264-8b1b528be564).
+Rechtbank Amsterdam 2 september 2014, ECLI:NL:RBAMS:2014:7735 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2014:7735) en rechtbank Amsterdam 30 januari 2015, ECLI:NL:RBAMS:2015:587 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2015:587).
