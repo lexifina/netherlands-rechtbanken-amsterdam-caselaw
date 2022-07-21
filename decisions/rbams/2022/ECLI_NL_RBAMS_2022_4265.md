@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:4265"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0147", "PJ 2022/100", "NJF 2022/420"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0147", "PJ 2022/100", "NJF 2022/420", "PR-Updates.nl 2022-0147"]
 ---
 
 # ECLI:NL:RBAMS:2022:4265 Rechtbank Amsterdam , 21-07-2022 / C/13/718754 / KG ZA 22-518
