@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:7758"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2529, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2022:7758 Rechtbank Amsterdam , 22-07-2022 / 13/997030-20 (A) en 13/997062-21 (B)
