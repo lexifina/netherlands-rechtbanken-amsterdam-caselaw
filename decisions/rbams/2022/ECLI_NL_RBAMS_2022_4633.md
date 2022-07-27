@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:4633"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0155"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0155", "PR-Updates.nl 2022-0155"]
 ---
 
 # ECLI:NL:RBAMS:2022:4633 Rechtbank Amsterdam , 27-07-2022 / C/13/706369 / FA RK 21-5276
