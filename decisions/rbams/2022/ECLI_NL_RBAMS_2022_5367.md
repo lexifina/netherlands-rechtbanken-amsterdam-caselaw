@@ -1,0 +1,229 @@
+---
+ecli: "ECLI:NL:RBAMS:2022:5367"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "13/117667-22"
+decided: "2022-09-06"
+published: "2022-09-14"
+type: "uitspraak"
+procedure: "Eerste en enige aanleg"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:5367"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2022:5367 Rechtbank Amsterdam , 06-09-2022 / 13/117667-22
+
+## Inhoudsindicatie
+
+Belgisch vervolgings-EAB, beroep op gelijkstelling, derdelander met verblijfsvergunning, geen terugkeergarantie.
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+
+INTERNATIONALE RECHTSHULPKAMER
+
+Parketnummer: 13/117667-22
+
+RK nummer: 22/3270
+
+Datum uitspraak: 6 september 2022
+
+UITSPRAAK
+
+op de vordering ex artikel 23 Overleveringswet (OLW), ingediend door de officier van justitie bij deze rechtbank. Deze vordering dateert van 23 juni 2022 en betreft onder meer het in behandeling nemen van een Europees aanhoudingsbevel (EAB).
+
+Dit EAB is uitgevaardigd op 11 mei 2022 door de Rechtbank van Eerste Aanleg Oost-Vlaanderen, afdeling Dendermonde (België) en strekt tot de aanhouding en overlevering van:
+
+[opgeëiste persoon]
+
+geboren in [geboorteplaats] (Suriname) op [geboortedag] 1994,
+
+ingeschreven in de Basisregistratie Personen op het adres:
+
+[adres],
+
+hierna te noemen de opgeëiste persoon.
+
+1
+Procesgang
+
+De vordering is behandeld op de openbare zitting van 23 augustus 2022. Het verhoor heeft plaatsgevonden in tegenwoordigheid van de officier van justitie mr. M. Diependaal. De opgeëiste persoon is bijgestaan door zijn raadsvrouw mr. J.T. Brassé, advocaat te Amsterdam, waarnemend  voor, mr. E.G.S. Roethof, ook advocaat te Amsterdam.
+
+Op grond van artikel 22, derde lid, OLW heeft de rechtbank de termijn waarbinnen zij op grond van het eerste lid van dit artikel uitspraak moet doen met dertig dagen verlengd omdat zij die verlenging nodig heeft om over de verzochte overlevering te beslissen.
+
+2
+Identiteit van de opgeëiste persoon
+
+De rechtbank heeft de identiteit van de opgeëiste persoon onderzocht. De opgeëiste persoon heeft ter zitting verklaard dat de bovenvermelde personalia juist zijn en dat hij de Surinaamse nationaliteit heeft.
+
+3
+Grondslag en inhoud van het EAB
+
+In het EAB wordt melding gemaakt van een bevel tot aanhouding van 11 mei 2022 door de onderzoeksrechter bij de Rechtbank van Eerste Aanleg Oost-Vlaanderen (afdeling Dendermonde).
+
+De overlevering wordt verzocht ten behoeve van een door de justitiële autoriteiten van de uitvaardigende lidstaat ingesteld strafrechtelijk onderzoek in verband met het vermoeden dat de opgeëiste persoon zich schuldig heeft gemaakt aan naar Belgisch recht strafbare feiten.
+
+Deze feiten zijn omschreven in onderdeel e) van het EAB
+
+3.1
+
+Genoegzaamheid
+
+De raadsvrouw heeft zich op het standpunt gesteld dat de overlevering moet worden geweigerd omdat het EAB niet als voldoende genoegzaam kan worden aangemerkt. De verdenking van de opgeëiste persoon is enkel gebaseerd op een foto waarop hij is afgebeeld terwijl hij grote hoeveelheden geld telt. De rol van de opgeëiste persoon en zijn betrokkenheid bij de in het EAB omschreven feiten blijven hiermee onduidelijk.
+
+De officier van justitie heeft zich op het standpunt gesteld dat aan de vereisten van genoegzaamheid is voldaan. De rol van de opgeëiste persoon is in het EAB omschreven en het is duidelijk waarvoor de overlevering wordt verzocht.
+
+De rechtbank overweegt dat het EAB gegevens moe bevatten op basis waarvan het voor de opgeëiste persoon duidelijk is waarvoor zijn overlevering wordt verzocht en het voor de rechtbank duidelijk is of het verzoek voldoet aan de in de Overleveringswet geformuleerde vereisten. Daartoe dient het EAB een beschrijving te bevatten van de omstandigheden waaronder de strafbare feiten zijn gepleegd, met vermelding van, in ieder geval, het tijdstip, de plaats en de mate van betrokkenheid van de opgeëiste persoon bij de strafbare feiten. Bovendien dient die beschrijving de naleving van het specialiteitsbeginsel te kunnen waarborgen.
+
+Uit het EAB onder E) blijkt dat de opgeëiste persoon ervan wordt verdacht deel te hebben genomen aan een criminele organisatie die zich bezig hield met phishing, hacking en het op grote schaal witwassen met als pleegplaatsen Wetteren, Mechelen, Aalter, en elders in het Belgische rijk en in Nederland. In het bijzonder zou de opgeëiste persoon zich bezig hebben gehouden met het verkrijgen van bankpassen en het cashen van het ontvangen geld.
+
+De pleegperiode wordt onder hetzelfde onderdeel beschreven als van 01/01/2018 tot heden. In aanvullende informatie van 28 juli 2022 is door de onderzoeksrechter in Dendermonde bevestigd dat dit de juiste periode betreft. De rechtbank begrijpt deze pleegperiode zo, dat de overlevering wordt verzocht  voor de periode van 1 januari 2018 tot het moment van uitvaardigen van het nationale aanhoudingsbevel en het EAB, namelijk 11 mei 2022.
+
+Met de bovenstaande informatie is duidelijk waarvoor de overlevering wordt verzocht en is naar het oordeel van de rechtbank voldaan aan de hiervoor genoemde eisen. Hieruit volgt dat het specialiteitsbeginsel is gewaarborgd. Of daadwerkelijk sprake is geweest van de in het EAB beschreven strafbare feiten, en op welke manier de opgeëiste persoon daarmee in verband zou kunnen worden gebracht, is een bewijskwestie die door de Belgische autoriteiten moet worden onderzocht.
+
+De rechtbank verwerpt het verweer van de raadsvrouw.
+
+4
+Strafbaarheid
+
+Feiten vermeld op bijlage 1 bij de OLW
+
+Onderzoek naar de dubbele strafbaarheid van de feiten waarvoor de overlevering wordt verzocht, moet achterwege blijven, nu de uitvaardigende justitiële autoriteit de strafbare feiten heeft aangeduid als feiten vermeld in de lijst van bijlage 1 bij de OLW. De feiten vallen op deze lijst onder nummers 1, 9, 11 en 20, te weten:
+
+deelneming aan een criminele organisatie;
+
+witwassen van opbrengsten van misdrijven;
+
+informaticacriminaliteit;
+
+oplichting.
+
+Uit het EAB volgt dat op deze feiten naar het recht van België een vrijheidsstraf met een maximum van ten minste drie jaren is gesteld.
+
+5
+Beroep op gelijkstelling met een Nederlander als bedoeld in artikel 6 OLW
+
+Overlevering van een met een Nederlander gelijk te stellen vreemdeling kan op basis van  artikel 6, eerste en derde lid, OLW worden geweigerd voor zover deze is gevraagd ten behoeve van een tegen hem gericht strafrechtelijk onderzoek en naar het oordeel van de uitvoerende justitiële autoriteit onvoldoende is gewaarborgd dat, zo hij ter zake van de feiten waarvoor de overlevering kan worden toegestaan in de uitvaardigende lidstaat tot een onvoorwaardelijke vrijheidsstraf wordt veroordeeld, hij deze straf in Nederland zal mogen ondergaan.
+
+Om in aanmerking te komen voor gelijkstelling met een Nederlander, moet aan de volgende drie voorwaarden zijn voldaan:
+
+1. de opgeëiste persoon toont aan dat hij ten minste vijf jaren ononderbroken rechtmatig in Nederland heeft verbleven als bedoeld in artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000;
+
+2. de opgeëiste persoon kan in Nederland worden vervolgd voor de feiten die aan het EAB ten grondslag liggen en;
+
+3. de verwachting bestaat dat de opgeëiste persoon niet zijn verblijfsrecht in Nederland zal verliezen ten gevolge van een hem na overlevering opgelegde straf of maatregel.
+
+Standpunt van de raadsvrouw
+
+De raadsvrouw heeft zich op het standpunt gesteld dat de opgeëiste persoon kan worden gelijkgesteld met een Nederlander, zodat hij aanspraak kan maken op een zogenaamde terugkeergarantie om een eventuele straf in Nederland te ondergaan. De opgeëiste persoon heeft de Surinaamse nationaliteit, maar beschikt over een reguliere verblijfsvergunning voor bepaalde tijd en uit de overgelegde stukken blijkt dat hij vanaf 2017 een uitkering via de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (hierna: Wajong-uitkering) ontvangt. Uit de stukken blijkt dus dat hij in ieder geval vijf jaar ononderbroken rechtmatig verblijf heeft gehad in Nederland. Om die reden moet het onderzoek ter zitting worden aangehouden, om alsnog een terugkeergarantie bij de uitvaardigende justitiële autoriteit op te vragen.
+
+Standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de opgeëiste persoon niet kan worden gelijkgesteld met een Nederlander en dat daarom geen terugkeergarantie hoeft te worden verstrekt. Het beroep op gelijkstelling kan om twee redenen niet slagen.
+
+Allereerst betreft een Wajong-uitkering een sociale voorziening waarvoor geen premies zijn afgedragen. De inkomsten uit deze uitkering kunnen daarom niet worden aangemerkt als inkomen op basis waarvan een rechtmatig verblijf kan worden vastgesteld.
+
+Verder blijkt uit de brief van de Immigratie- en Naturalisatiedienst (hierna: IND) van 2 augustus 2022 dat de strafrechtelijke feiten uit het EAB ertoe zouden kunnen leiden dat de opgeëiste persoon zijn verblijfsrecht verliest.
+
+Oordeel van de rechtbank
+
+De rechtbank gaat bij de beoordeling van het gelijkstellingsverweer uit van het volgende.
+
+De opgeëiste persoon is een zogeheten derdelander met een verblijfsvergunning voor bepaalde tijd sinds 18 februari 2013. Op basis van artikel 6, derde lid OLW dient hij, om in aanmerking te komen voor gelijkstelling met een Nederlander, aan te tonen dat hij tenminste vijf jaar ononderbroken rechtmatig verblijf in Nederland heeft gehad. Gelet op de zich tussen de stukken bevindende uitdraai uit het systeem van de gemeentelijke Basisregistratie Personen staat de opgeëiste persoon sinds 2010 onafgebroken ingeschreven in Nederland. Dit betekent dat de opgeëiste persoon naar het oordeel van de rechtbank een ononderbroken rechtmatig verblijf van vijf jaar heeft gehad. Daarmee is aan de eerste voorwaarde voor een gelijkstelling voldaan.
+
+Met de officier van justitie komt de rechtbank echter tot de conclusie dat de opgeëiste persoon niet kan worden gelijkgesteld met een Nederlander vanwege het voornoemde advies van de IND.
+
+Het advies van de IND waarop de overleveringsrechter zijn oordeel baseert, draagt een voorlopig karakter. Uit artikel 6, derde lid, OLW blijkt dat alleen vereist is dat de verwachting wordt uitgesproken dat de opgeëiste persoon zijn verblijfsrecht in Nederland niet verliest als gevolg van een hem na overlevering opgelegde straf of maatregel. De wetgever heeft daarmee aan de overleveringsrechter een beoordeling met een voorlopig karakter opgedragen. Daarbij is rekening gehouden met de omstandigheid dat, in geval van een veroordeling tot een onherroepelijke vrijheidsstraf in de uitvaardigende lidstaat na een overlevering onder een terugkeergarantie, de IND zal beoordelen of de betrokkene daadwerkelijk zijn verblijfsrecht zal verliezen als gevolg van die veroordeling. Hieruit volgt dat de overleveringsrechter dit advies terughoudend moet toetsen.
+
+Op grond van het voornoemde IND-advies kan niet worden gezegd dat de verwachting bestaat dat de opgeëiste persoon niet zijn verblijfsrecht zal verliezen als gevolg van een aan hem na overlevering voor de in het EAB vermelde feiten opgelegde straf of maatregel. In het licht van de voornoemde terughoudende toets, voldoet de opgeëiste persoon daarmee niet aan de vereisten om gelijkgesteld te worden met een Nederlander als bedoeld in artikel 6 OLW. Dit betekent dat de overlevering niet afhankelijk kan worden gesteld van een terugkeergarantie. De rechtbank ziet om dezelfde redenen geen aanleiding om de behandeling van de zaak aan te houden.
+
+6
+Weigeringsgrond als bedoeld in artikel 13 OLW
+
+De raadsvrouw heeft de rechtbank verzocht de overlevering op grond van artikel 13, eerste lid, aanhef en onder a, OLW te weigeren en heeft daartoe aangevoerd dat de betrokkenheid van de opgeëiste persoon zou zien op gedragingen die op Nederlands grondgebied hebben plaatsgevonden.
+
+De officier van justitie heeft de rechtbank in overweging gegeven om af te zien van toepassing van de weigeringsgrond en heeft daartoe het volgende aangevoerd:
+
+het onderzoek is aangevangen in België;
+
+het bewijs bevindt zich in België;
+
+de medeverdachten zijn aangehouden in België;
+
+het Nederlandse openbaar ministerie is niet voornemens de opgeëiste persoon voor de feiten in het EAB te vervolgen.
+
+De rechtbank stelt voorop dat:
+
+aan de regeling van het EAB ten grondslag ligt dat overlevering de hoofdregel is en toepassing van een facultatieve weigeringsgrond de uitzondering dient te zijn;
+
+de weigeringsgrond ertoe strekt te voorkomen dat Nederland zou moeten meewerken aan overlevering voor een zogenoemd lijstfeit dat geheel of ten dele in Nederland is gepleegd en dat hier niet strafbaar is of hier niet pleegt te worden vervolgd.
+
+Gelet op de door de officier van justitie aangevoerde argumenten, is de rechtbank van oordeel dat onvoldoende aanleiding bestaat om deze weigeringsgrond toe te passen. Wat de raadsvrouw heeft aangevoerd, is onvoldoende om tot een ander oordeel te komen.
+
+7
+Belgische detentieomstandigheden
+
+Bij uitspraak van 22 juni 2021 heeft de rechtbank in de zaak van een andere opgeëiste persoon geconcludeerd dat in België een reëel gevaar bestaat op een onmenselijke of vernederende behandeling in de zin van artikel 4 van het Handvest van de Grondrechten van de Europese Unie (hierna: Handvest) voor gedetineerden die terecht komen in een instelling waar sprake is van grondslapers. Daardoor wordt de minimale persoonlijke ruimte van 3m2 in een meerpersoonscel niet meer gewaarborgd. Dat reële gevaar geldt ook voor situaties  waarin sprake is van niet-afgeschermde toiletten in meerpersoonscellen. De detentie-instellingen waar hiervan sprake is, zijn: Antwerpen, Gent, Brugge, Oudenaarde, Hasselt, Dendermonde en Mechelen.
+
+De rechtbank stelt vast dat bij brief van 9 september 2021, afkomstig van de Directeur-generaal bij het Directoraat-generaal Wetgeving, Fundamentele Rechten en Vrijheden, een algemene detentiegarantie voor België is gegeven:
+
+Als algemene regel, kunnen in België de volgende algemene waarborgen gegeven worden bij een overlevering in het kader van de tenuitvoerlegging van een Europees aanhoudingsbevel:
+
+De overgeleverde persoon zal in een cel worden opgesloten waarvan de oppervlakte en de inrichting beantwoordt aan de normen van het CPT van de Europese Raad (minimum 3m2). Dit zowel wanneer hij alleen verblijft in een cel als wanneer hij een daarvoor aangepaste en grotere cel deelt met een andere persoon.
+
+De sanitaire blokken, doorgaans voorzien van een wasbak en toilet, zijn afgescheiden van de rest van de cel door een muur of door een scherm. Soms is er ook een douche voorzien. In dat geval is het sanitair complex afgescheiden van de rest van de cel.
+
+Eerder in deze brief is ten aanzien van gevangenissen waar gedetineerden op een extra matras slapen, ofwel waar de ‘grondslapers-problematiek’ zich voordoet, over de celruimte en de sanitaire blokken de volgende opmerking gemaakt:
+
+Bovendien garanderen wij dat in de gevangenissen waar dit fenomeen zich voordoet, er zal op toegezien worden dat de overgeleverden niet meer zullen worden opgesloten in een dergelijke afdeling zodat de overgeleverde personen ten minste over 3m2 personal space beschikken exclusief de sanitaire blokken.
+
+In haar uitspraak van 7 oktober 2021 heeft de rechtbank overwogen dat de hiervoor genoemde brief van de Belgische autoriteiten van 9 september 2021 in elke overleveringszaak geldig is, zoals de Belgische autoriteiten in bedoelde brief hebben bevestigd, en dat het om die reden niet noodzakelijk is dat voor elke individuele opgeëiste persoon een detentiegarantie wordt opgevraagd.
+
+Standpunt van de verdediging
+
+De raadsvrouw heeft betoogd dat het overleveringsverzoek dient te worden geweigerd, nu uit de algemene detentiegarantie niet volgt waar de opgeëiste persoon na overlevering zal worden geplaatst.
+
+Standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de overlevering kan worden toegestaan. Er is sprake van een actuele detentiegarantie die ook daadwerkelijk wordt nageleefd door de Belgische uitvaardigende autoriteiten.
+
+Oordeel van de rechtbank
+
+Aan de hand van een globale beoordeling van alle gegevens waarover zij beschikt, gaat de rechtbank uit van de geboden zekerheid in de algemene detentiegarantie. De raadsvrouw heeft geen omstandigheden op basis van nieuwe, objectieve, betrouwbare, nauwkeurige en naar behoren bijgewerkte gegevens naar voren gebracht waaruit kan voortvloeien dat de garantie niet meer voldoet. De rechtbank is ambtshalve ook niet bekend met zulke omstandigheden.
+
+De rechtbank is van oordeel dat het reële gevaar op een onmenselijke of vernederende behandeling in de zin van artikel 4 Handvest, dat zij ten aanzien van voornoemde penitentiaire inrichtingen heeft aangenomen, met de afgegeven detentiegarantie is weggenomen voor de opgeëiste persoon.
+
+8
+Slotsom
+
+Nu is vastgesteld dat het EAB voldoet aan de eisen van artikel 2 OLW, er ook verder geen weigeringsgronden aan de overlevering in de weg staan en geen sprake is van een geval waarin aan het EAB geen gevolg mag worden gegeven, dient de overlevering te worden toegestaan.
+
+9
+Toepasselijke wetsartikelen
+
+De artikelen 2, 5, 7 en 13 OLW.
+
+10
+Beslissing
+
+STAAT TOE de overlevering van [opgeëiste persoon] aan de Rechtbank van Eerste Aanleg Oost-Vlaanderen, afdeling Dendermonde (België) voor de feiten zoals die zijn omschreven in onderdeel e) van het EAB.
+
+Aldus gedaan door
+
+mr. P. van Kesteren,  				                         			voorzitter,
+
+mrs. R. Godthelp en L. Sanders,	                         				   rechters,
+
+in tegenwoordigheid van mr. V.J.G. van der Want,		                        		    griffier,
+
+en uitgesproken ter openbare zitting van 6 september 2022.
+
+Ingevolge artikel 29, tweede lid, OLW staat tegen deze uitspraak geen gewoon rechtsmiddel open.
+
+Rechtbank Amsterdam 22 juni 2021, ECLI:NL:RBAMS:2021:3243.
+
+Rechtbank Amsterdam 7 oktober 2021, ECLI:NL:RBAMS:2021:5759.
+
+Hof van Justitie van de Europese Unie, 25 juli 2018, zaak ML (C-220/18 PPU, ECLI:EU:C:2018:589), punt 114.
