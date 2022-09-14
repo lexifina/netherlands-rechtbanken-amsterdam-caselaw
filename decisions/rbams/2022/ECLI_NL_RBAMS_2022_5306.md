@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:5306"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2022-0262", "JERF 2022/175", "JERF Actueel 2022/298"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2022-0262", "JERF 2022/175", "JERF Actueel 2022/298", "FJR 2026/55.27"]
 ---
 
 # ECLI:NL:RBAMS:2022:5306 Rechtbank Amsterdam , 14-09-2022 / C/13/709776 / HA ZA 21-995
