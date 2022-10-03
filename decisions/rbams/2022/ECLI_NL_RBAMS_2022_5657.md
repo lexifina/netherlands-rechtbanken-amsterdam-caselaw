@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:5657"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1099", "JAR 2022/254", "PR-Updates.nl PR-2022-0198", "RAR 2023/8", "VAAN-AR-Updates.nl 2022-1099"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1099", "JAR 2022/254", "PR-Updates.nl PR-2022-0198", "RAR 2023/8", "VAAN-AR-Updates.nl 2022-1099", "PR-Updates.nl 2022-0198"]
 ---
 
 # ECLI:NL:RBAMS:2022:5657 Rechtbank Amsterdam , 03-10-2022 / 9633778 CV EXPL 22-692
