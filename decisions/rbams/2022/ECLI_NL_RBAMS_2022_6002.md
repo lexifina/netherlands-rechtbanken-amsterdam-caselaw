@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:6002"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1153", "JAR 2022/273", "RAR 2023/7", "Prg. 2022/390", "JIN 2023/3 met annotatie van mr. W. van Wijngaarden", "Sdu Nieuws Arbeidsrecht 2022/442", "VAAN-AR-Updates.nl 2022-1153", "Viditax (FutD) 2022102402", "FutD 2022-2983"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1153", "JAR 2022/273", "RAR 2023/7", "Prg. 2022/390", "JIN 2023/3 met annotatie van mr. W. van Wijngaarden", "Sdu Nieuws Arbeidsrecht 2022/442", "VAAN-AR-Updates.nl 2022-1153", "Viditax (FutD) 2022102402", "FutD 2022-2983", "Sdu Nieuws Belastingzaken 2022/678"]
 ---
 
 # ECLI:NL:RBAMS:2022:6002 Rechtbank Amsterdam , 17-10-2022 / 9719583 EA VERZ 22-115
