@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:6120"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:3822, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2022:6120 Rechtbank Amsterdam , 27-10-2022 / 22/1102
