@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:7274"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0011"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0011", "PR-Updates.nl 2023-0011"]
 ---
 
 # ECLI:NL:RBAMS:2022:7274 Rechtbank Amsterdam , 07-12-2022 / 720293
