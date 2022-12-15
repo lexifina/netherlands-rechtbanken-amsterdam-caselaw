@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:7600"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1222, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2022:7600 Rechtbank Amsterdam , 15-12-2022 / AWB - 19 _ 3693
