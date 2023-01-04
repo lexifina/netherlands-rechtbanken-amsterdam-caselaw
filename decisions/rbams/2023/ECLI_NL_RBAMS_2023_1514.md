@@ -1,0 +1,155 @@
+---
+ecli: "ECLI:NL:RBAMS:2023:1514"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "13/279181-22"
+decided: "2023-01-04"
+published: "2023-03-17"
+type: "uitspraak"
+procedure: "Eerste en enige aanleg"
+subject: "Strafrecht; Europees strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:1514"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2023:1514 Rechtbank Amsterdam , 04-01-2023 / 13/279181-22
+
+## Inhoudsindicatie
+
+EAB België, tussenuitspraak, detentieomst.
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+INTERNATIONALE RECHTSHULPKAMER
+
+Parketnummer: 13/279181-22
+
+RK nummer: 22/4656
+
+Datum uitspraak: 4 januari 2023
+
+TUSSEN
+
+UITSPRAAK
+
+op de vordering van de officier van justitie van 31 oktober 2022 bij deze rechtbank tot het in behandeling nemen van een Europees aanhoudingsbevel (EAB). Dit EAB is uitgevaardigd op 29 oktober 2022 door de rechtbank van Eerste Aanleg Antwerpen, afdeling Antwerpen (België) (hierna: de uitvaardigende justitiële autoriteit) en strekt tot de aanhouding en overlevering van:
+
+[opgeëiste persoon],
+
+geboren te [geboorteplaats] op [geboortedag] 2000,
+
+ingeschreven in de Basisregistratie Personen op het adres:
+
+[adres],
+
+hierna ‘de opgeëiste persoon’.
+
+1
+Procesgang
+
+De behandeling van het EAB heeft plaatsgevonden op de zitting van 21 december 2022. Het openbaar ministerie heeft zich laten vertegenwoordigen door mr. N.R. Bakkenes, officier van justitie. De opgeëiste persoon is verschenen en bijgestaan door zijn raadsman, mr. J.S.B. Boersma, waarnemend voor mr. E.G.S. Roethof, beiden advocaat in Amsterdam.
+
+De rechtbank heeft de termijn waarbinnen zij op grond van de Overleveringswet (OLW) uitspraak moet doen over de verzochte overlevering met 30 dagen verlengd.
+
+2
+Identiteit van de opgeëiste persoon
+
+Ter zitting heeft de opgeëiste persoon verklaard dat de bovenvermelde persoonsgegevens juist zijn en dat hij de Nederlandse nationaliteit heeft.
+
+3
+Grondslag en inhoud van het EAB
+
+Het EAB vermeldt een bevel tot aanhouding van de onderzoeksrechter van 29 oktober 2022 met kenmerk OR A. Gieselink 2022/206.
+
+De uitvaardigende justitiële autoriteit verzoekt de overlevering vanwege het vermoeden dat de opgeëiste persoon zich schuldig heeft gemaakt aan een naar Belgisch recht strafbaar feit. Dit feit is omschreven in het EAB.
+
+3.1
+
+Genoegzaamheid
+
+De raadsman heeft aangevoerd dat het feit te summier omschreven is, zeker nu het om een geringe verdenking gaat.
+
+De rechtbank overweegt dat het EAB gegevens moet bevatten op basis waarvan het voor de opgeëiste persoon duidelijk is waarvoor zijn overlevering wordt verzocht. Verder moet het voor de rechtbank duidelijk zijn of het verzoek voldoet aan de in de OLW genoemde vereisten. Zo moet het EAB een beschrijving bevatten van de omstandigheden waaronder het strafbare feit is gepleegd, met vermelding van, in ieder geval, het tijdstip, de plaats en de mate van betrokkenheid van de opgeëiste persoon bij het strafbare feit. Die beschrijving moet ook de naleving van het specialiteitsbeginsel kunnen waarborgen.
+
+Met de officier van justitie is de rechtbank van oordeel dat het EAB een genoegzame omschrijving van het strafbare feit bevat. Het is voor de opgeëiste persoon voldoende duidelijk waarvoor zijn overlevering wordt verzocht. De opgeëiste persoon wordt verdacht van het teweegbrengen van een ontploffing, deelneming aan een criminele organisatie en inbreuk op de wapenwet, zoals - inclusief pleegdatum en pleegplaats - is omschreven in onderdeel e) van het EAB. De omschrijving van het feit is zodanig dat het voor de rechtbank mogelijk is te onderzoeken of aan alle voorwaarden voor de overlevering is voldaan en of de nalevering van het specialiteitsbeginsel kan worden gewaarborgd. De omschrijving van het feit in het EAB voldoet dan ook aan de eisen gesteld in artikel 2, tweede lid, aanhef en onder e, OLW en is daarmee genoegzaam. Het verweer van de raadsman wordt verworpen.
+
+4
+Strafbaarheid
+
+Feiten vermeld op bijlage 1 bij de OLW
+
+De uitvaardigende justitiële autoriteit wijst het strafbare feit aan als een feit vermeld in de lijst van bijlage 1 bij de OLW. Het feit valt op deze lijst onder nummers 1, 6 en 28, te weten:
+
+deelneming aan een criminele organisatie;
+
+illegale handel in wapens, munitie en explosieven;
+
+opzettelijke brandstichting.
+
+Uit het EAB volgt dat op deze feiten naar het recht van België een vrijheidsstraf met een maximum van ten minste drie jaren is gesteld.
+
+Dit betekent dat een onderzoek naar de dubbele strafbaarheid van het feit waarvoor de overlevering wordt verzocht, achterwege moet blijven.
+
+5
+De garantie als bedoeld in artikel 6, eerste lid, OLW
+
+De opgeëiste persoon heeft de Nederlandse nationaliteit. Zijn overlevering kan daarom worden toegestaan, wanneer is gewaarborgd dat de opgeëiste persoon, in geval van veroordeling in de uitvaardigende lidstaat tot een onvoorwaardelijke vrijheidsstraf na overlevering, hij deze straf in Nederland mag ondergaan.
+
+De Procureur des Konings Antwerpen heeft per brief van 10 november 2022 de volgende garantie gegeven:
+
+Overeenkomstig artikel 5 §3 van het kaderbesluit van 13 juni 2002 betreffende het Europees aanhoudingsbevel, bied ik u de garantie voor de terugkeer naar Nederland van de door u over te leveren Nederlandse onderdaan of ingezetene, in casu [opgeëiste persoon].
+
+Deze garantie houdt in dat, eens betrokkene in België onherroepelijk tot een vrijheidsbenemende straf of maatregel is veroordeeld, deze persoon naar Nederland zal terugkeren om zijn straf of maatregel aldaar te ondergaan. De terugkeer zal gebeuren op basis van het Europees Kaderbesluit inzake de toepassing van het beginsel van wederzijdse erkenning op de vrijheidsbenemende straffen of maatregelen uitgesproken in een lidstaat van de Europese Unie (2008/909/JBZ).
+
+Naar het oordeel van de rechtbank is deze garantie voldoende.
+
+6
+Artikel 11 OLW: detentieomstandigheden
+
+De raadsman heeft betoogd dat de overlevering moet worden geweigerd, omdat de opgeëiste persoon een reëel gevaar van onmenselijke of vernederende behandeling loopt in detentie in België. Deze situatie speelt al langer, dus is het van belang dat de rechtbank nu een punt maakt en de overlevering weigert.
+
+De rechtbank heeft bij uitspraak van 21 december 2022 geoordeeld dat er thans een reëel gevaar bestaat op een onmenselijke of vernederende behandeling voor alle gedetineerden in België. In deze uitspraak heeft de rechtbank ook geoordeeld dat de eerdere algemene detentie-garantie, die vooral betrekking heeft op de personal space van 3 m2 - in combinatie met de ‘grondslapersproblematiek’ - en de sanitaire omstandigheden, niet langer toereikend is.
+
+Er is dus sprake van een individueel reëel gevaar van onmenselijke of vernederende behandeling voor de opgeëiste persoon. De mogelijkheid bestaat echter dat bij wijziging van de omstandigheden het reële gevaar op een onmenselijke of vernederende behandeling alsnog kan worden uitgesloten.
+
+De rechtbank is met de officier van justitie van oordeel dat weigeren of geen gevolg geven aan het EAB op dit moment nog niet aan de orde is. De rechtbank zal de beslissing over de overlevering daarom aanhouden en op de volgende zitting onderzoeken of er een wijziging in de omstandigheden is opgetreden. De rechtbank stelt de in artikel 11, vierde lid, OLW bedoelde redelijke termijn in deze zaak vast op maximaal 60 dagen. Binnen deze termijn zal de vordering opnieuw op een openbare zitting worden behandeld.
+
+Op basis van artikel 22, zesde lid, OLW, verlengt de rechtbank de termijn waarbinnen zij uitspraak moet doen op grond van artikel 22, eerste en derde lid, OLW, met 60 dagen, onder gelijktijdige verlenging van de gevangenhouding met 60 dagen op grond van artikel 27, derde lid, OLW.
+
+Wanneer binnen de hierboven gestelde redelijke termijn geen wijzigingen in de omstandigheden zijn opgetreden, zal aan de overlevering ingevolge artikel 11, eerste lid, OLW, geen gevolg worden gegeven.
+
+7
+Beslissing
+
+HEROPENT en SCHORST het onderzoek ter zitting tot een nader te bepalen zittingsdatum en -tijd.
+
+HOUDT AAN de beslissing over de overlevering van [opgeëiste persoon] aan de rechtbank van Eerste Aanleg Antwerpen, afdeling Antwerpen (België).
+
+VERLENGT de termijn waarbinnen de rechtbank op grond van artikel 22, eerste en derde lid, OLW uitspraak moet doen op grond van artikel 22, zesde lid, OLW met zestig dagen, onder gelijktijdige verlenging van de gevangenhouding met zestig dagen op grond van artikel 27, derde lid, OLW.
+
+BEPAALT dat de vordering opnieuw op zitting moet worden gepland uiterlijk 14 dagen vóór 28 maart 2023, het einde van de verlengde beslistermijn.
+
+BEVEELT de oproeping van de opgeëiste persoon tegen een nader te bepalen datum en tijdstip, met tijdige kennisgeving daarvan aan zijn raadsman.
+
+Aldus gedaan door
+
+mr. M.C.M. Hamer,	                                                                    voorzitter,
+
+mrs. J.A.A.G. de Vries en A. Pahladsingh,	                                             rechters,
+
+in tegenwoordigheid van mr. K. Spanjaart,                        			                    griffier,
+
+en uitgesproken ter openbare zitting van 4 januari 2023.
+
+Ingevolge artikel 29, tweede lid, OLW staat tegen deze uitspraak geen gewoon rechtsmiddel open.
+
+Zie artikel 23 Overleveringswet.
+
+Zie artikel 22, eerste en derde lid, OLW.
+
+Zie onderdeel e) van het EAB.
+
+ECLI:NL:RBAMS:2022:7707
+
+Artikel 11, tweede lid, OLW
