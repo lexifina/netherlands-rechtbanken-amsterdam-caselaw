@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:660"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0293", "PR-Updates.nl PR-2023-0032", "JAR 2023/76 met annotatie van mr. dr. S.F.H. Jellinghaus, mr. M. Maaijen", "RAR 2023/67", "TRA 2023/72 met annotatie van R.D. Poelstra", "PJ 2023/74 met annotatie van E. Schop", "VAAN-AR-Updates.nl 2023-0293"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0293", "PR-Updates.nl PR-2023-0032", "JAR 2023/76 met annotatie van mr. dr. S.F.H. Jellinghaus, mr. M. Maaijen", "RAR 2023/67", "TRA 2023/72 met annotatie van R.D. Poelstra", "PJ 2023/74 met annotatie van E. Schop", "VAAN-AR-Updates.nl 2023-0293", "PR-Updates.nl 2023-0032"]
 ---
 
 # ECLI:NL:RBAMS:2023:660 Rechtbank Amsterdam , 08-02-2023 / 1021835
