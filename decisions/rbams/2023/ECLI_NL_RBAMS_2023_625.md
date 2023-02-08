@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:625"
 published_in: ["Rechtspraak.nl", "JBP 2023/85"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5088, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2023:625 Rechtbank Amsterdam , 08-02-2023 / AWB - 22 _ 6108 en AWB - 23 _ 322
