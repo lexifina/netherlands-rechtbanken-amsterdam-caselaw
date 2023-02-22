@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Mededingingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:1242"
 published_in: ["Rechtspraak.nl", "SEW 2023, afl. 5, p. 240"]
-relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:470"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:764"]]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBAMS:2026:2134"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:470"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:764"]]
 ---
 
 # ECLI:NL:RBAMS:2023:1242 Rechtbank Amsterdam , 22-02-2023 / C/13/697614 / HA ZA 21-186
