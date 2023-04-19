@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2081"
-published_in: ["Rechtspraak.nl", "PJ 2023/56", "PR-Updates.nl PR-2023-0061"]
+published_in: ["Rechtspraak.nl", "PJ 2023/56", "PR-Updates.nl PR-2023-0061", "PR-Updates.nl 2023-0061"]
 ---
 
 # ECLI:NL:RBAMS:2023:2081 Rechtbank Amsterdam , 19-04-2023 / C/13/728517 / HA ZA 23-68
