@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2491"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0605", "PR-Updates.nl PR-2023-0102", "PJ 2023/75", "VAAN-AR-Updates.nl 2023-0605"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0605", "PR-Updates.nl PR-2023-0102", "PJ 2023/75", "VAAN-AR-Updates.nl 2023-0605", "PR-Updates.nl 2023-0102"]
 ---
 
 # ECLI:NL:RBAMS:2023:2491 Rechtbank Amsterdam , 28-04-2023 / 9415163 CV EXPL 21-12582
