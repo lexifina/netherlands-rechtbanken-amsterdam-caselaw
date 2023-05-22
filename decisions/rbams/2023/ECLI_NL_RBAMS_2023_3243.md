@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:3243"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0756", "PR-Updates.nl PR-2023-0134", "VAAN-AR-Updates.nl 2023-0756"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0756", "PR-Updates.nl PR-2023-0134", "VAAN-AR-Updates.nl 2023-0756", "PR-Updates.nl 2023-0134"]
 ---
 
 # ECLI:NL:RBAMS:2023:3243 Rechtbank Amsterdam , 22-05-2023 / 10354237 EA VERZ 23-177
