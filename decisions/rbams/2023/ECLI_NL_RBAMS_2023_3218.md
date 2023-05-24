@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:3218"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0132", "Sdu Nieuws Personen- en familierecht 2023/571", "RFR 2023/127"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0132", "Sdu Nieuws Personen- en familierecht 2023/571", "RFR 2023/127", "PR-Updates.nl 2023-0132"]
 ---
 
 # ECLI:NL:RBAMS:2023:3218 Rechtbank Amsterdam , 24-05-2023 / C/13/679773/ FA RK 20-716
