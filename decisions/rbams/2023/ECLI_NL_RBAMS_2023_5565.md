@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:5565"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1100", "Sdu Nieuws Arbeidsrecht 2023/347", "Jurisprudentie HSE 2023/115", "PR-Updates.nl PR-2023-0188", "VAAN-AR-Updates.nl 2023-1100"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1100", "Sdu Nieuws Arbeidsrecht 2023/347", "Jurisprudentie HSE 2023/115", "PR-Updates.nl PR-2023-0188", "VAAN-AR-Updates.nl 2023-1100", "PR-Updates.nl 2023-0188"]
 ---
 
 # ECLI:NL:RBAMS:2023:5565 Rechtbank Amsterdam , 13-07-2023 / C/13/730874 / HA RK 23-85
