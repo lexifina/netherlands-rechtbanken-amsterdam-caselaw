@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:4526"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0908", "PR-Updates.nl PR-2023-0154", "VAAN-AR-Updates.nl 2023-0908"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0908", "PR-Updates.nl PR-2023-0154", "VAAN-AR-Updates.nl 2023-0908", "PR-Updates.nl 2023-0154"]
 ---
 
 # ECLI:NL:RBAMS:2023:4526 Rechtbank Amsterdam , 13-07-2023 / C/13/731671 / HA RK 23-103
