@@ -6,7 +6,7 @@ docket: "C/13/728860 / HA RK 23-21"
 decided: "2023-07-27"
 published: "2023-09-27"
 type: "uitspraak"
-procedure: "Beschikking"
+procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:5973"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0216"]
