@@ -290,7 +290,7 @@ Zie artikel 23 Overleveringswet.
 
 Zie artikel 22 OLW.
 
-Tenzij sprake is van een verlenging op grond van het kaderbesluitconforme uitgelegde artikel 22, vierde lid (oud), OLW: Rb. Amsterdam 15 april 2021, ECLI:NL:RBAMS:2021:1803 (https://new.navigator.nl/document/id4d5b005205a44367ab06ee96e52bf7c2).
+Tenzij sprake is van een verlenging op grond van het kaderbesluitconforme uitgelegde artikel 22, vierde lid (oud), OLW: Rb. Amsterdam 15 april 2021, ECLI:NL:RBAMS:2021:1803 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1803).
 
 Zie onderdeel e) van het EAB.
 
