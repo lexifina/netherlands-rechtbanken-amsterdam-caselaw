@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:5784"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0090", "Prg. 2023/299", "NJF 2023/481", "JBPr 2024/28 met annotatie van mr. F. Lambert"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0090", "Prg. 2023/299", "NJF 2023/481", "JBPr 2024/28 met annotatie van mr. F. Lambert", "BPR-Updates.nl 2023-0090"]
 ---
 
 # ECLI:NL:RBAMS:2023:5784 Rechtbank Amsterdam , 14-09-2023 / C/13/736621 / KG ZA 23-627
