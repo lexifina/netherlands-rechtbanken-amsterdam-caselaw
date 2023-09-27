@@ -631,6 +631,6 @@ Vgl. Hoge Raad 13 maart 1981, NJ 1981/635 (Haviltex).
 
 Vgl. Hoge Raad 20 maart 2020, ECLI:NL:HR:2020:483.
 
-Vgl. Hoge Raad 1 juni 1990, NJ 1991/759 (https://new.navigator.nl/document/id15761990060113913nj1991759dosred), Hoge Raad 3 juni 1994, ECLI:NL:HR:1994:ZC1383 en Hoge Raad 1 april 2016, ECLI:NL:HR:2016:543.
+Vgl. Hoge Raad 1 juni 1990, NJ 1991/759, Hoge Raad 3 juni 1994, ECLI:NL:HR:1994:ZC1383 en Hoge Raad 1 april 2016, ECLI:NL:HR:2016:543.
 
 Vgl. PHR 12 april 2013, ECLI:NL:PHR:2013:BY8651.
