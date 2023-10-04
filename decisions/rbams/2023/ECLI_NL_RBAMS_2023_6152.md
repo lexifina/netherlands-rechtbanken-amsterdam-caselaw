@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:6152"
 published_in: ["Rechtspraak.nl", "OGR-Updates.nl 2023-0145", "JOM 2023/430", "Sdu Nieuws Omgevingsrecht 2023/288"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2024:987, Overig"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2024:987, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2430, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2023:6152 Rechtbank Amsterdam , 04-10-2023 / AMS 22/2207, AMS 22/2208 en AMS 22/4619
