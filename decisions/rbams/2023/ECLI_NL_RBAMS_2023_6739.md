@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak"
 subject: "Strafrecht; Europees strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:6739"
 published_in: ["Rechtspraak.nl", "SEW 2024/27, p. 91"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:251"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:3"]]
 ---
 
 # ECLI:NL:RBAMS:2023:6739 Rechtbank Amsterdam , 26-10-2023 / 13/161114-23 (EAB II)
