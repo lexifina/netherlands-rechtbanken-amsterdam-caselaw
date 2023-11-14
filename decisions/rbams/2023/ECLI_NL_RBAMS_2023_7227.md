@@ -34,7 +34,7 @@ op de vordering van 8 september 2023 van de officier van justitie bij deze recht
 
 Dit EAB is uitgevaardigd op 13 juli 2023 door the District Court in Koszalin II Criminal Department (Polen) (hierna: de uitvaardigende justitiële autoriteit) en strekt tot de aanhouding en overlevering van:
 
-[opgeëiste persoon],
+[opgeëiste persoon] ,
 
 geboren in [geboorteplaats] (Polen) op [geboortedag] 1992,
 
@@ -158,7 +158,7 @@ Zie artikel 22, eerste en derde lid, OLW.
 
 Zie onderdeel e) van het EAB.
 
-Zie HvJ EU 22 december 2017, C-571/17 PPU, ECLI:EU:C:2017:1026 (https://new.navigator.nl/document/idb7ae2f4593fe451a981a7784d88817b4)(Ardic), punt 77 en o.a. Rb. Amsterdam 11 januari 2018, ECLI:NL:RBAMS:2018:153.
+Zie HvJ EU 22 december 2017, C-571/17 PPU, ECLI:EU:C:2017:1026 (https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62017CJ0571)(Ardic), punt 77 en o.a. Rb. Amsterdam 11 januari 2018, ECLI:NL:RBAMS:2018:153.
 
 Zie bijv. Rb. Amsterdam 18 oktober 2023, ECLI:NL:RBAMS:2023:6533.
 
