@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:7314"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0220", "PJ 2024/10 met annotatie van W.P.M. Thijssen"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0220", "PJ 2024/10 met annotatie van W.P.M. Thijssen", "AR-Updates.nl 2025-0598", "PR-Updates.nl 2023-0220"]
 ---
 
 # ECLI:NL:RBAMS:2023:7314 Rechtbank Amsterdam , 17-11-2023 / 10064717 CV EXPL 22-11025
