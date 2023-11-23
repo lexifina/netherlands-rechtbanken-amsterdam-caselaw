@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:7474"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5627, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBAMS:2023:7474 Rechtbank Amsterdam , 23-11-2023 / 22/5718
