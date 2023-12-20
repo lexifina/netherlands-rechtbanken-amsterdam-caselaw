@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:8330"
 published_in: ["Rechtspraak.nl", "NJF 2024/68", "SEW 2024/44, p. 145"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:212"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:936"]]
 ---
 
 # ECLI:NL:RBAMS:2023:8330 Rechtbank Amsterdam , 20-12-2023 / C/13/708095 / HA ZA 22-1
