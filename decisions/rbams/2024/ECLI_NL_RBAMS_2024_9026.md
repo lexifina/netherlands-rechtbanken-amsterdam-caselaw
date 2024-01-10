@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:9026"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0601", "VAAN-AR-Updates.nl 2026-0601", "Sdu Nieuws Arbeidsrecht 2026/141"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0601", "VAAN-AR-Updates.nl 2026-0601", "Sdu Nieuws Arbeidsrecht 2026/141", "JAR 2026/110"]
 ---
 
 # ECLI:NL:RBAMS:2024:9026 Rechtbank Amsterdam , 10-01-2024 / 10724671 EA VERZ 23-927
