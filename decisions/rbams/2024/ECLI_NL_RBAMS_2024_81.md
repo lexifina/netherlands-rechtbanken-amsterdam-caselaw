@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:81"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0087", "JAR 2024/39", "PR-Updates.nl PR-2024-0033", "PJ 2024/40", "VAAN-AR-Updates.nl 2024-0087"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0087", "JAR 2024/39", "PR-Updates.nl PR-2024-0033", "PJ 2024/40", "VAAN-AR-Updates.nl 2024-0087", "PR-Updates.nl 2024-0033"]
 ---
 
 # ECLI:NL:RBAMS:2024:81 Rechtbank Amsterdam , 11-01-2024 / 10071067 CV EXPL 22-11107 en 10071195 CV EXPL 22-11108
