@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:414"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0029", "RBP 2024/33"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0029", "RBP 2024/33", "BPR-Updates.nl 2024-0029"]
 ---
 
 # ECLI:NL:RBAMS:2024:414 Rechtbank Amsterdam , 31-01-2024 / C/13/740743 / HA ZA 23-935
