@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:1069"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0030"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0030", "BPR-Updates.nl 2024-0030"]
 ---
 
 # ECLI:NL:RBAMS:2024:1069 Rechtbank Amsterdam , 28-02-2024 / 739105
