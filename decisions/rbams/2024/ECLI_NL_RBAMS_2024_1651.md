@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:1651"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1126, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2024:1651 Rechtbank Amsterdam , 26-03-2024 / 13-087381-23 en 10-337310-21 (TUL)
