@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Strafrecht; Europees strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:3874"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1187"]]
 ---
 
 # ECLI:NL:RBAMS:2024:3874 Rechtbank Amsterdam , 11-06-2024 / 13-284129-23
