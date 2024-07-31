@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Schadevergoedingsuitspraak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:4597"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1648", "NDFR Nieuws 2024/1348", "NTFR 2024/1369 met annotatie van mr. R.B.H. Beune", "NLF 2024/1934 met annotatie van Yola Geradts", "V-N 2024/39.23 met annotatie van Redactie", "Viditax (FutD) 2024080601", "FutD 2024-1743"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1648", "NDFR Nieuws 2024/1348", "NTFR 2024/1369 met annotatie van mr. R.B.H. Beune", "NLF 2024/1934 met annotatie van Yola Geradts", "V-N 2024/39.23", "Viditax (FutD) 2024080601", "FutD 2024-1743"]
 ---
 
 # ECLI:NL:RBAMS:2024:4597 Rechtbank Amsterdam , 31-07-2024 / 715714
