@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:5311"
 published_in: ["Rechtspraak.nl", "NLF 2024/2039", "RSV 2024/205 met annotatie van A.T. Marseille, M.W. Venderbos", "Viditax (FutD) 2024090306", "FutD 2024-1898", "AB 2025/99 met annotatie van R. Ortlep"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6146, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2024:5311 Rechtbank Amsterdam , 28-08-2024 / AMS 24/56
