@@ -10,6 +10,7 @@ procedure: "Eerste en enige aanleg"
 subject: "Strafrecht; Europees strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:5620"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:35"]]
 ---
 
 # ECLI:NL:RBAMS:2024:5620 Rechtbank Amsterdam , 05-09-2024 / 13/066445-24
