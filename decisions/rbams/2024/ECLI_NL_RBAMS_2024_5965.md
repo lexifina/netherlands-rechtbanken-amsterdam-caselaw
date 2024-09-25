@@ -228,10 +228,10 @@ Met zaaknummer C/13/731556 / HA ZA 23-323
 
 Artikel 217 Wetboek van Burgerlijke Rechtsvordering (Rv)
 
-HR 14 maart 2008, ECLI:NL:HR:2008:BC6692 (https://www.inview.nl/document/id24220080314c06236hradmusp), HR 6 september 2013,  ECLI:NL:HR:2013:BY5241 (https://www.inview.nl/document/id401daf5f76ef4b3b829bf0a32b99eb57)
+HR 14 maart 2008, ECLI:NL:HR:2008:BC6692 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BC6692), HR 6 september 2013,  ECLI:NL:HR:2013:BY5241 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BY5241)
 
-HR 11 september 2015, ECLI:NL:HR:2015:2534 (https://www.inview.nl/document/id3f478cdaed774b2bbb1d58c2a66c2e1c), HR 15 november 2019, ECLI:NL:HR:2019:1787 (https://www.inview.nl/document/id8e091632e5bb457eaacc9670fe8c7858)
+HR 11 september 2015, ECLI:NL:HR:2015:2534 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:2534), HR 15 november 2019, ECLI:NL:HR:2019:1787 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:1787)
 
-HR 12 juni 2015, ECLI:NL:HR:2015:1602 (https://www.inview.nl/document/id628ac7c367e442cabf553feb526f0025), HR 21 mei 2021, ECLI:NL:HR:2021:750 (https://www.inview.nl/document/idb768ea3d8fb3471da59cc19946054f33)
+HR 12 juni 2015, ECLI:NL:HR:2015:1602 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:1602), HR 21 mei 2021, ECLI:NL:HR:2021:750 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:750)
 
 TK 2010/11, 32612, nr. 3, p. 17
