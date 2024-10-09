@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:9016"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0194", "VEAN-ERF-Updates.nl 2026-0194"]
 ---
 
 # ECLI:NL:RBAMS:2024:9016 Rechtbank Amsterdam , 09-10-2024 / C/13/729612 / HA ZA 23-145
