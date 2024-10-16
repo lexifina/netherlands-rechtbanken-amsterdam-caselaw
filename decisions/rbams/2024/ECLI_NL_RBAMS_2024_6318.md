@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:6318"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/442", "V-N 2025/15.17 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/442", "V-N 2025/15.17"]
 ---
 
 # ECLI:NL:RBAMS:2024:6318 Rechtbank Amsterdam , 16-10-2024 / 24_1633
