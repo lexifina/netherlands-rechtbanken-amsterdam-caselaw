@@ -10,6 +10,7 @@ procedure: "Prejudicieel verzoek"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:6633"
 published_in: ["Rechtspraak.nl", "NJF 2024/499"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2026:1636"]]
 ---
 
 # ECLI:NL:RBAMS:2024:6633 Rechtbank Amsterdam , 25-10-2024 / 10512258 / CV 23-7206
