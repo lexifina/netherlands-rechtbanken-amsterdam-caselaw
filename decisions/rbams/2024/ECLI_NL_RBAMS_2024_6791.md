@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:6791"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2024-1448", "AR-Updates.nl 2024-1448", "PR-Updates.nl PR-2024-0259"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2024-1448", "AR-Updates.nl 2024-1448", "PR-Updates.nl PR-2024-0259", "PR-Updates.nl 2024-0259"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBAMS:2024:3689"]]
 ---
 
