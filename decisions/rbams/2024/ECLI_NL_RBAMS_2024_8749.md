@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:8749"
-published_in: ["Rechtspraak.nl", "PJ 2025/34"]
+published_in: ["Rechtspraak.nl", "PJ 2025/34", "PR-Updates.nl 2025-0061"]
 ---
 
 # ECLI:NL:RBAMS:2024:8749 Rechtbank Amsterdam , 22-11-2024 / 10923620 \ CV EXPL 24-1448
