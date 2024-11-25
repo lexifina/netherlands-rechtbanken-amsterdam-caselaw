@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:7167"
 published_in: ["Rechtspraak.nl", "RSV 2025/14 met annotatie van R.S. Wijling"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6132, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBAMS:2024:7167 Rechtbank Amsterdam , 25-11-2024 / AMS 24/170
