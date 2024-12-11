@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:7785"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2071, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBAMS:2024:7785 Rechtbank Amsterdam , 11-12-2024 / AMS 24/5 T
