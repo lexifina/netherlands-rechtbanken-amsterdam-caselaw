@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:369"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2026:1159"]]
 ---
 
 # ECLI:NL:RBAMS:2025:369 Rechtbank Amsterdam , 22-01-2025 / C/13/747113 / HA ZA 24-205
