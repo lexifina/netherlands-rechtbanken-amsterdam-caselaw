@@ -115,7 +115,7 @@ Ten aanzien van [medeverdachte] is verder van belang dat in zijn slaapkamer een 
 
 De wapens in de garagebox
 
-De rechtbank stelt vast dat zowel Ihsain, als [medeverdachte] vrijelijk toegang hadden tot de garagebox.
+De rechtbank stelt vast dat zowel [verdachte] , als [medeverdachte] vrijelijk toegang hadden tot de garagebox.
 
 [verdachte] beschikte over een sleutel en een elektronische afstandsbediening. Zij heeft ook verklaard geregeld in de garagebox te komen en deze de week voor de doorzoeking nog te hebben opgeruimd. Op haar telefoon is ook een foto van de binnenkant van de garagebox aangetroffen met daarop een tas waarin tijdens de doorzoeking vuurwapens zijn aangetroffen.
 
