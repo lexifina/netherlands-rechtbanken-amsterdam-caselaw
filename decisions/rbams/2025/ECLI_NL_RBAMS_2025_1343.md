@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:1343"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0296", "AR-Updates.nl 2025-0296", "Sdu Nieuws Arbeidsrecht 2025/101", "PJ 2025/36 met annotatie van T. Huijg", "JAR 2025/111 met annotatie van mr. I.H. Vermeeren-Keijzers, mr. K.A. van Haaren"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0296", "AR-Updates.nl 2025-0296", "Sdu Nieuws Arbeidsrecht 2025/101", "PJ 2025/36 met annotatie van T. Huijg", "JAR 2025/111 met annotatie van mr. I.H. Vermeeren-Keijzers, mr. K.A. van Haaren", "PR-Updates.nl 2025-0057"]
 ---
 
 # ECLI:NL:RBAMS:2025:1343 Rechtbank Amsterdam , 27-02-2025 / 10997990
