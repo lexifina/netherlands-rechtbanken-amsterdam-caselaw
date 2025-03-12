@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "NCC"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:1590"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/50"]
 ---
 
 # ECLI:NL:RBAMS:2025:1590 Rechtbank Amsterdam , 12-03-2025 / C/13/754853/NC ZA 24/4
