@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11438"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0605", "AR-Updates.nl 2026-0605"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0605", "AR-Updates.nl 2026-0605", "JAR 2026/111"]
 ---
 
 # ECLI:NL:RBAMS:2025:11438 Rechtbank Amsterdam , 13-03-2025 / 11096525
