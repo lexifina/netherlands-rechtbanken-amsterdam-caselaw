@@ -10,6 +10,7 @@ procedure: "Eerste en enige aanleg"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:1860"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2722, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2025:1860 Rechtbank Amsterdam , 18-03-2025 / 13/020238-24
