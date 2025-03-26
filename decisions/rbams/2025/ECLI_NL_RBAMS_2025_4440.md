@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:4440"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "IER 2026/15 met annotatie van P. Teunissen"]
 ---
 
 # ECLI:NL:RBAMS:2025:4440 Rechtbank Amsterdam , 26-03-2025 / C/13/752830 / HA ZA 24-691
