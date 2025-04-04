@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2231"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0472", "VAAN-AR-Updates.nl 2025-0472", "PJ 2025/51"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0472", "VAAN-AR-Updates.nl 2025-0472", "PJ 2025/51", "PR-Updates.nl 2025-0076"]
 ---
 
 # ECLI:NL:RBAMS:2025:2231 Rechtbank Amsterdam , 04-04-2025 / 11553315 \ KK EXPL  25-110
