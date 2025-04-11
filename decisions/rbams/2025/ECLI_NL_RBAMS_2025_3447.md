@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:3447"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1214, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2025:3447 Rechtbank Amsterdam , 11-04-2025 / 13/406841-24 (zaak A) en 13/339271-24 (zaak B) (ter terechtzitting gevoegd)
