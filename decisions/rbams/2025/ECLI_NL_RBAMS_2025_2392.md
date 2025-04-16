@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2392"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4610, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBAMS:2025:2392 Rechtbank Amsterdam , 16-04-2025 / AMS 24/300
