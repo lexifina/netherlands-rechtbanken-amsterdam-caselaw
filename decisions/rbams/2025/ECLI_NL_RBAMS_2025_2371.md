@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2371"
-published_in: ["Rechtspraak.nl", "Notamail 2025/91", "JERF Actueel 2025/199", "Sdu Nieuws Personen- en familierecht 2025/253"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/91", "JERF Actueel 2025/199", "Sdu Nieuws Personen- en familierecht 2025/253", "ERF-Updates.nl 2025-0271", "ERF-Updates.nl 2025-0272", "VEAN-ERF-Updates.nl 2025-0271", "VEAN-ERF-Updates.nl 2025-0272", "Vp-bulletin 2025/24 met annotatie van Kluwer", "JERF 2025/84 met annotatie van mr. L.A.G.M. van der Geld", "FJR 2026/55.3"]
 ---
 
 # ECLI:NL:RBAMS:2025:2371 Rechtbank Amsterdam , 16-04-2025 / C/13/756883 / HA ZA 24-1044
