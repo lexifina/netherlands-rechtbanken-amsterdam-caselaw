@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2630"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2026/39 met annotatie van M. Poulus"]
 ---
 
 # ECLI:NL:RBAMS:2025:2630 Rechtbank Amsterdam , 23-04-2025 / C/13/765338 / KG ZA 25-137
