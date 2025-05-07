@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2965"
-published_in: ["Rechtspraak.nl", "Notamail 2025/105"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/105", "JERF Actueel 2025/221", "Sdu Nieuws Personen- en familierecht 2025/299", "ERF-Updates.nl 2025-0303", "VEAN-ERF-Updates.nl 2025-0303", "Prg. 2025/188", "JERF 2025/91", "RN 2025/55", "FJR 2026/55.19"]
 ---
 
 # ECLI:NL:RBAMS:2025:2965 Rechtbank Amsterdam , 07-05-2025 / C/13/754818 / HA ZA 24-875
