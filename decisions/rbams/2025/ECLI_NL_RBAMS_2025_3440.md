@@ -89,7 +89,7 @@ De feiten
 
 2.5.
 
-De heer [naam] ( [naam] ) heeft [eisers] geassisteerd bij het aanvragen van de hypothecaire leningen als intermediair. [naam] handelde daarbij namens Uyrum Totaal Advies op Maat B.V. (Uyrum). Uyrum heeft de relevante stukken verstrekt aan ING en Florius.
+De heer [naam] ( [naam] ) heeft [eisers] geassisteerd bij het aanvragen van de hypothecaire leningen als intermediair. [naam] handelde daarbij namens [bedrijf] B.V. ( [bedrijf] ). [bedrijf] heeft de relevante stukken verstrekt aan ING en Florius.
 
 2.6.
 
@@ -140,7 +140,7 @@ ii. ING veroordeelt om de executiemaatregelen met onmiddellijke ingang op te hef
 
 iii. voor recht verklaart dat ING aansprakelijk is jegens [eisers] voor het schenden van haar zorgplicht op grond van onrechtmatige daad althans artikel 4:34 Wft,
 
-iv. voor recht verklaart dat ING aansprakelijk is jegens [eisers] voor het schenden van de onderzoeksplicht althans het beschikbaar stellen van het bankrekeningnummer aan Uyrum en [naam] waarmee de onrechtmatige praktijken gefinancierd werden, op grond van onrechtmatige daad althans artikel 4:34 Wft en dat ING daarmee schade heeft toegebracht aan [eisers] ,
+iv. voor recht verklaart dat ING aansprakelijk is jegens [eisers] voor het schenden van de onderzoeksplicht althans het beschikbaar stellen van het bankrekeningnummer aan [bedrijf] en [naam] waarmee de onrechtmatige praktijken gefinancierd werden, op grond van onrechtmatige daad althans artikel 4:34 Wft en dat ING daarmee schade heeft toegebracht aan [eisers] ,
 
 v. ING veroordeelt om [eisers] met onmiddellijke ingang uit het IVR te verwijderen, op straffe van een dwangsom, omdat ING geen deugdelijke motivering heeft gegeven ten aanzien van de opname in het IVR en de opname niet alleen onrechtmatig maar ook in strijd met de redelijkheid en billijkheid is, met daarbij het verzoek de periode waarin [eisers] reeds opgenomen was in het IVR als voldoende te beschouwen, althans te beperken,
 
@@ -169,7 +169,7 @@ beëindiging bancaire relatie en opeising hypothecaire lening
 
 4.2.
 
-[eisers] zijn van mening dat ING de bancaire relatie niet mocht beëindigen. Hiertoe voeren [eisers] aan dat zij de juiste gegevens aan Uyrum ( [naam] ) hebben verstrekt maar dat zij slachtoffer zijn geworden van frauduleus handelen. Dit frauduleus handelen kan niet aan hen worden verweten. Volgens [eisers] heeft ING een zorgplicht geschonden omdat zij de aangeleverde stukken niet voldoende heeft onderzocht. Daarnaast heeft ING volgens [eisers] het vertrouwen gewekt de hypothecaire lening voort te zetten door de kwestie opnieuw te onderzoeken. In dat kader hebben [eisers] verder aangevoerd dat zij inmiddels meer omzet genereren en dat uit een nieuwe berekening blijkt dat zij alsnog in aanmerking zouden komen voor de hypothecaire financiering van de woning.
+[eisers] zijn van mening dat ING de bancaire relatie niet mocht beëindigen. Hiertoe voeren [eisers] aan dat zij de juiste gegevens aan [bedrijf] ( [naam] ) hebben verstrekt maar dat zij slachtoffer zijn geworden van frauduleus handelen. Dit frauduleus handelen kan niet aan hen worden verweten. Volgens [eisers] heeft ING een zorgplicht geschonden omdat zij de aangeleverde stukken niet voldoende heeft onderzocht. Daarnaast heeft ING volgens [eisers] het vertrouwen gewekt de hypothecaire lening voort te zetten door de kwestie opnieuw te onderzoeken. In dat kader hebben [eisers] verder aangevoerd dat zij inmiddels meer omzet genereren en dat uit een nieuwe berekening blijkt dat zij alsnog in aanmerking zouden komen voor de hypothecaire financiering van de woning.
 
 4.3.
 
@@ -185,7 +185,7 @@ Bij deze omstandigheden mocht ING de bancaire relatie beëindigen zoals zij dat 
 
 4.6.
 
-Het vorenstaande betekent dat ING geen zorgplichten heeft geschonden jegens [eisers] Tot nader onderzoek op basis van de namens [eisers] verstrekte gegevens was zij niet gehouden. Waarom het beschikbaar stellen van een bankrekeningnummer aan Uyrum en [naam] in de gegeven omstandigheden onrechtmatig is, hebben [eisers] onvoldoende toegelicht.
+Het vorenstaande betekent dat ING geen zorgplichten heeft geschonden jegens [eisers] Tot nader onderzoek op basis van de namens [eisers] verstrekte gegevens was zij niet gehouden. Waarom het beschikbaar stellen van een bankrekeningnummer aan [bedrijf] en [naam] in de gegeven omstandigheden onrechtmatig is, hebben [eisers] onvoldoende toegelicht.
 
 registratie IVR
 
