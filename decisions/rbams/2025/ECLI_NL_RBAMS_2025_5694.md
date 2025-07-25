@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:5694"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2071, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBAMS:2025:5694 Rechtbank Amsterdam , 25-07-2025 / AMS 24/5
