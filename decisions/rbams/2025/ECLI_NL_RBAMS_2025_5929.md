@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:5929"
-published_in: ["Rechtspraak.nl", "JW 2025/58"]
+published_in: ["Rechtspraak.nl", "JW 2025/58", "IER 2026/17 met annotatie van A.M.E. Verschuur, F.J.P.M. Haverhals"]
 ---
 
 # ECLI:NL:RBAMS:2025:5929 Rechtbank Amsterdam , 15-08-2025 / C/13/771980 / KG ZA 25-541
