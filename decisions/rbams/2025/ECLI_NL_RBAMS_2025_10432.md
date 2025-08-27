@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10432"
-published_in: ["Rechtspraak.nl", "RO 2026/30"]
+published_in: ["Rechtspraak.nl", "RO 2026/30", "JONDR 2026/364"]
 ---
 
 # ECLI:NL:RBAMS:2025:10432 Rechtbank Amsterdam , 27-08-2025 / C/13/771924 / KG ZA 25-538
