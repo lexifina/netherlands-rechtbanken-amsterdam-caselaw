@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:6730"
-published_in: ["Rechtspraak.nl", "NJF 2025/453", "Prg. 2025/363"]
+published_in: ["Rechtspraak.nl", "NJF 2025/453", "Prg. 2025/363", "JBPr 2026/31 met annotatie van mr. dr. E.F. Groot"]
 ---
 
 # ECLI:NL:RBAMS:2025:6730 Rechtbank Amsterdam , 04-09-2025 / 766681
