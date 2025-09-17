@@ -1,0 +1,145 @@
+---
+ecli: "ECLI:NL:RBAMS:2025:7078"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "13/196970-25 (EAB 3)"
+decided: "2025-09-17"
+published: "2025-09-25"
+type: "uitspraak"
+procedure: "Eerste en enige aanleg"
+subject: "Strafrecht; Europees strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7078"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2025:7078 Rechtbank Amsterdam , 17-09-2025 / 13/196970-25 (EAB 3)
+
+## Inhoudsindicatie
+
+EAB Italië; verweer m.b.t. artikel 12 OLW verworpen; overlevering toegestaan
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+INTERNATIONALE RECHTSHULPKAMER
+
+Parketnummer: 13/196970-25 (EAB 3)
+
+Datum uitspraak: 17 september 2025
+
+UITSPRAAK
+
+op de vordering van 7 juli 2025 van de officier van justitie bij deze rechtbank tot het in behandeling nemen van een Europees aanhoudingsbevel (EAB).
+
+Dit EAB is uitgevaardigd op 10 maart 2025 door de Deputy Public Prosecutor of the Prosecution c/o Court Milan - Office for Criminal Executions (Italië) (hierna: de uitvaardigende justitiële autoriteit) en strekt tot de aanhouding en overlevering van:
+
+[opgeëiste persoon] ,
+
+geboren op [geboortedag] 1988 te [geboorteplaats] (Mauritanië)
+
+inschrijvingsadres in de basisregistratie personen:
+
+[adres] ,
+
+thans gedetineerd in [detentieplaats] ,
+
+hierna ‘de opgeëiste persoon’.
+
+1
+Procesgang
+
+De behandeling van het EAB is aangevangen op de zitting van 27 augustus 2025, in aanwezigheid van mr. K. van der Schaft, officier van justitie. De opgeëiste persoon is verschenen en is bijgestaan door zijn raadsman, mr. M.A.M. Pijnenburg, advocaat te Amsterdam, en door een tolk in de Franse taal.
+
+De rechtbank heeft de termijn waarbinnen zij op grond van de Overleveringswet (OLW) uitspraak moet doen over de verzochte overlevering met 30 dagen verlengd.
+
+Tevens heeft de rechtbank de gevangenneming bevolen.
+
+De rechtbank heeft het onderzoek ter zitting voor bepaalde tijd geschorst om de officier van justitie in de gelegenheid te stellen de in het proces-verbaal opgenomen vragen aan de uitvaardigende justitiële autoriteit voor te leggen.
+
+De behandeling van het EAB is – met toestemming van partijen in gewijzigde samenstelling – voortgezet op de zitting van 11 september 2025, in aanwezigheid van mr. K. van der Schaft, officier van justitie. De opgeëiste persoon is verschenen en is bijgestaan door zijn raadsman, mr. M.A.M. Pijnenburg, advocaat te Amsterdam, en door een tolk in de Franse taal.
+
+2
+Identiteit van de opgeëiste persoon
+
+Ter zitting heeft de opgeëiste persoon verklaard dat de bovenvermelde persoonsgegevens juist zijn en dat hij de Mauritaanse nationaliteit heeft.
+
+3
+Grondslag en inhoud van het EAB
+
+Het EAB vermeldt een enforceable judgment No. 3092/2022 issued on 28 April 2022 by the Milan Court of Appeal, final on 14 May 2022, partially reversing Judgment No. 10455/2020 - Reg. Court No. 3133/2020 – No. 10657/2019 General Criminal Records Registry, issued on 18 December 2020 by the Ordinary Court of Milan.
+
+De overlevering wordt verzocht ten behoeve van de tenuitvoerlegging van een vrijheidsstraf voor de duur van acht maanden, door de opgeëiste persoon te ondergaan op het grondgebied van de uitvaardigende lidstaat. De vrijheidsstraf is aan de opgeëiste persoon opgelegd bij het hiervoor genoemde arrest.
+
+Dit arrest betreft het feit zoals dat is omschreven in het EAB.
+
+3.1
+
+Weigeringsgrond als bedoeld in artikel 12 OLW
+
+De raadsman heeft aangevoerd dat het onduidelijk is of de opgeëiste persoon rechtsbijstand heeft gehad en, als dat niet het geval is, of sprake is van een verzetgarantie. Daarbij is de vraag over hoe het mogelijk is dat een feit dat vóór de aanvang van de proeftijd is gepleegd tot omzetting van de aanvankelijk voorwaardelijke straf kan leiden, onbegrijpelijk en onvoldoende beantwoord. De overlevering moet daarom worden geweigerd.
+
+De officier van justitie heeft zich op het standpunt gesteld dat voor het proces in hoger beroep zich de omstandigheid van artikel 12, sub b, OLW heeft voorgedaan, zodat de weigeringsgrond van artikel 12 OLW niet van toepassing is. Uit de aanvullende informatie blijkt dat omzetting van een aanvankelijk voorwaardelijk opgelegde straf wegens een veroordeling voor een feit dat vóór de aanvang van de proeftijd is gepleegd mogelijk is volgens de Italiaanse wet, indien gedurende de proeftijd voor dat eerder gepleegde feit een gevangenisstraf van meer dan twee jaar wordt opgelegd. Op het proces van het triggerende feit is artikel 12, sub b, OLW van toepassing.
+
+De rechtbank overweegt als volgt.
+
+Als het proces in twee opeenvolgende instanties heeft plaatsgevonden, namelijk een eerste aanleg gevolgd door een procedure in hoger beroep, dan is de laatste van die beslissingen relevant voor de beoordeling of is voldaan aan de vereisten van artikel 4 bis, eerste lid, Kaderbesluit 2002/584/JBZ en artikel 12 OLW, voor zover daartegen geen gewoon rechtsmiddel meer openstaat en daarom de zaak ten gronde definitief is afgedaan. Uit het EAB en aanvullende informatie van 3 september 2025 volgt dat er een proces in hoger beroep heeft plaatsgevonden, waarbij de zaak ten gronde is behandeld en dat hiertegen geen gewoon rechtsmiddel meer openstaat. De rechtbank zal daarom alleen het proces in hoger beroep toetsen aan artikel 12 OLW.
+
+De rechtbank stelt vast dat het EAB strekt tot de tenuitvoerlegging van een arrest terwijl de verdachte niet in persoon is verschenen bij het proces dat tot die beslissing heeft geleid, en zich de omstandigheid van artikel 12, sub b, heeft voorgedaan. In de aanvullende informatie staat dat de opgeëiste persoon op de hoogte was van het voorgenomen proces in hoger beroep en een door hem gemachtigd advocaat had die hem daadwerkelijk heeft verdedigd in het proces in hoger beroep. Gelet op het vertrouwensbeginsel gaat de rechtbank uit van de juistheid van deze informatie. De opgeëiste heeft ter zitting bovendien in algemene zin bevestigd dat hij in Italië werd bijgestaan door een advocaat. Bij die stand van zaken is er geen reden om aan de Italiaanse informatie te twijfelen. De weigeringsgrond van artikel 12 OLW is daarom niet van toepassing.
+
+De vrijheidsstraf is aanvankelijk in voorwaardelijke vorm aan de opgeëiste persoon opgelegd. Bij beslissing van the Ordinary Court of Milan van 17 april 2023 (5745/2023) is de tenuitvoerlegging van die voorwaardelijke vrijheidsstraf bevolen, omdat de opgeëiste persoon is veroordeeld voor een strafbaar feit.
+
+De beslissing tot tenuitvoerlegging van 17 april 2023 zelf is geen beslissing waarbij de aard of de maat van de aanvankelijk opgelegde straf is gewijzigd. Deze beslissing valt daarom niet onder de reikwijdte van artikel 12 OLW.
+
+Uit het arrest van het Hof van Justitie van de Europese Unie van 23 maart 2023 volgt dat de procedure die heeft geleid tot de veroordeling voor een nieuw strafbaar feit die ten grondslag ligt aan de beslissing tot tenuitvoerlegging van een eerder voorwaardelijk opgelegde straf ook onderworpen dient te worden aan de toets van artikel 12 OLW.
+
+Uit het EAB volgt dat de aanvankelijk voorwaardelijk opgelegde straf is omgezet in een onvoorwaardelijk gevangenisstraf vanwege de veroordeling voor de feiten zoals vermeld EAB 1. De opgeëiste persoon is in eerste aanleg op 17 april 2023 door the Ordinary Court of Milan, Criminal Section VI, veroordeeld voor deze feiten en in hoger beroep op 27 juni 2024 door the Court of Appeal of Milan. Uit het EAB en aanvullende informatie van 3 september 2025 volgt dat bij het proces dat in hoger beroep heeft plaatsgevonden de zaak ten gronde is behandeld en dat hiertegen geen gewoon rechtsmiddel meer openstaat. De rechtbank zal daarom alleen het proces in hoger beroep toetsen aan artikel 12 OLW. Uit voornoemde aanvullende informatie volgt tevens dat de opgeëiste persoon op de hoogte was van het voorgenomen proces in hoger beroep en hij een door hem gemachtigd advocaat had die hem daadwerkelijk in dit proces heeft verdedigd. De weigeringsgrond van artikel 12 OLW is dus niet van toepassing, omdat zich de omstandigheid van artikel 12, sub b, OLW heeft voorgedaan.
+
+4
+Strafbaarheid; feit waarvoor dubbele strafbaarheid is vereist
+
+De uitvaardigende justitiële autoriteit heeft het feit niet aangeduid als een feit waarvoor het vereiste van toetsing van dubbele strafbaarheid niet geldt. Overlevering kan in dat geval worden toegestaan, indien voldaan wordt aan de eisen die in artikel 7, eerste lid, aanhef en onder b, OLW zijn neergelegd.
+
+De rechtbank stelt vast dat hieraan is voldaan.
+
+Het feit levert naar Nederlands recht op:
+
+opzetheling.
+
+5
+Slotsom
+
+De rechtbank stelt vast dat het EAB voldoet aan de eisen van artikel 2 OLW. Verder staan geen weigeringsgronden aan de overlevering in de weg en is geen sprake van een geval waarin aan het EAB geen gevolg mag worden gegeven. De rechtbank staat daarom de overlevering toe.
+
+6
+Toepasselijke wetsbepalingen
+
+Artikel 416 Wetboek van Strafrecht en artikelen 2, 5 en 7 OLW.
+
+7
+Beslissing
+
+STAAT TOE de overlevering van [opgeëiste persoon] aan Deputy Public Prosecutor of the Prosecution c/o Court Milan - Office for Criminal Executions voor het feit zoals dat is omschreven in onderdeel e) van het EAB.
+
+Deze uitspraak is gedaan door
+
+mr. O.P.M. Fruytier,	  				                         		voorzitter,
+
+mrs. M. Westerman en C.M.S. Loven,          				   	rechters,
+
+in tegenwoordigheid van mr. C.W. van der Hoek,	                         		griffier,
+
+en in het openbaar uitgesproken op de zitting van 17 september 2025.
+
+Ingevolge artikel 29, tweede lid, OLW staat tegen deze uitspraak geen gewoon rechtsmiddel open.
+
+Zie artikel 23 Overleveringswet.
+
+Zie artikel 22, eerste en derde lid, OLW.
+
+Zie onderdeel e) van het EAB.
+
+Hof van Justitie van de Europese Unie, 21 december 2023, C-397/22, LM, (Generalstaatsanwaltschaft Berlin (Condamnation par défaut)), ECLI:EU:C:2023:1030, punt 47 en C-398/22, RQ (Generalstaatsanwaltschaft Berlin (Condamnation par défaut)), ECLI:EU:C:2023:1031, punt 32.
+
+HvJ EU 23 maart 2023, C-514/21 en C-515/21, ECLI:EU:C:2023:235 (Minister for Justice and Equality (Herroeping van de opschorting)), punt 53.
+
+HvJ EU 23 maart 2023, C-514/21 en C-515/21, ECLI:EU:C:2023:235 (Minister for Justice and Equality (Herroeping van de opschorting)).
