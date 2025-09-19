@@ -1,0 +1,154 @@
+---
+ecli: "ECLI:NL:RBAMS:2025:6977"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "AMS 24/2675"
+decided: "2025-09-19"
+published: "2025-09-19"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Bestuursprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:6977"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2025:6977 Rechtbank Amsterdam , 19-09-2025 / AMS 24/2675
+
+## Inhoudsindicatie
+
+De burgemeester heeft een aangevraagde exploitatievergunning voor een coffeeshop in het pand van eiser afgewezen. Daarnaast heeft de burgemeester de afgifte van een aangevraagde gedoogverklaring geweigerd. Eiser is eigenaar en verhuurder van het pand en heeft beroep ingesteld. Uit het dossier blijkt dat er in 2016 drie keer beschietingen zijn geweest bij het pand. Verder blijkt uit de bestuurlijke rapportage dat verschillende panden waarvan eiser ook eigenaar is, betrokken zijn geweest bij (recentere) openbare ordeverstoringen Op grond van de genoemde incidenten, op zichzelf staand of in verband met eiser, heeft de burgemeester kunnen concluderen dat door de aanwezigheid van de coffeeshop op het adres een risico ontstaat voor de openbare orde en veiligheid. Ook kon zij in redelijkheid concluderen dat door het verlenen van het aangevraagde het woon- en leefklimaat nadelig wordt beïnvloed. De rechtbank neemt in aanmerking dat buurtbewoners aan toezeggingen van de voormalig burgemeester en de huidige burgemeeste
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+Bestuursrecht
+
+zaaknummer: AMS 24/2675
+
+uitspraak van de meervoudige kamer van 19 september 2025 in de zaak tussen
+
+[eiser], te [woonplaats], eiser
+(gemachtigde: mr. J. de Groot),
+
+en
+
+de burgemeester van de gemeente Amsterdam, verweerder
+(gemachtigde: mr. M.I. Houben).
+
+Partijen worden hierna aangeduid als [eiser] en de burgemeester.
+
+Procesverloop
+
+Bij besluit van 4 augustus 2023 (het primaire besluit 1) heeft de burgemeester de door[naam 1] (hierna: [naam 1]) aangevraagde exploitatievergunning voor een coffeeshop aan de [adres] afgewezen. Bij separaat besluit van 4 augustus 2023 (het primaire besluit 2) heeft de burgemeester de afgifte van de door [naam 1] aangevraagde gedoogverklaring geweigerd.
+
+[eiser] heeft tegen de primaire besluiten bezwaar gemaakt.
+
+Bij besluit van 28 maart 2024, verzonden op 9 april 2024, (het bestreden besluit) heeft de burgemeester het bezwaar van [eiser] tegen de primaire besluiten ongegrond verklaard.
+
+[eiser] heeft tegen het bestreden besluit beroep ingesteld. De burgemeester heeft op het beroepschrift gereageerd met een verweerschrift.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 16 juli 2025. [eiser] is verschenen, bijgestaan door zijn gemachtigde. De burgemeester heeft zich laten vertegenwoordigen door haar gemachtigde. De rechtbank heeft het beroep van [eiser] gelijktijdig behandeld met het beroep van [naam 1] (zaaknummer AMS 24/2778). Op het laatstgenoemde beroep is gelijktijdig met onderhavige uitspraak beslist met een afzonderlijke uitspraak.
+
+Overwegingen
+
+1. Op 9 februari 2023 heeft [naam 1] een aanvraag ingediend voor een exploitatievergunning en een gedoogverklaring voor een coffeeshop aan de [adres] in Amsterdam (het adres). [eiser] is eigenaar en verhuurder van het pand op het adres.
+
+2. Op 7 juni 2023 heeft de burgemeester een voornemen tot weigering van de exploitatievergunning en gedoogverklaring naar [naam 1] gestuurd. [naam 1] heeft een zienswijze ingediend.
+
+Besluitvorming
+
+3. Met de primaire besluiten, gehandhaafd in het bestreden besluit, heeft de burgemeester de exploitatievergunning en de gedoogverklaring geweigerd op grond van twee weigeringsgronden uit de APV: de aanwezigheid van de coffeeshop heeft een nadelige invloed op het woon- en leefklimaat en op de openbare orde en veiligheid van de buurt. De burgemeester komt tot deze conclusie door de incidenten die in het verleden hebben plaatsgevonden op het adres en de rol van [eiser] bij de beoogde coffeeshop. Ten aanzien van de rol van [eiser] verwijst de burgemeester naar de bestuurlijke rapportage van27 februari 2023. Uit de rapportage blijkt dat [eiser] meerdere panden verhuurt waarin coffeeshops worden geëxploiteerd. Verder volgt uit de rapportage dat [eiser] in verband wordt gebracht met strafbare feiten en dat meerdere panden van hem doelwit zijn geweest van ernstige openbare orde-verstoringen. Verder uit de politie het vermoeden dat [eiser] een grotere rol speelt bij coffeeshops dan slechts die van pandeigenaar, in die zin dat hij zich ook bezighoudt met de bevoorrading van de coffeeshops. Ten aanzien van de geschiedenis van het pand is van belang dat het pand in 2016 drie keer is beschoten. De burgemeester vreest hierdoor dat een nieuwe coffeeshop op het adres een nadelige invloed heeft op het woon- en leefklimaat in de buurt. Buurtbewoners hebben, al dan niet anoniem, hun zienswijzen ingediend. Zij hebben daarin hun zorgen geuit in verband met de veiligheid in de buurt en zich verzet tegen opening van de coffeeshop op het adres. Tot slot werpt de burgemeester tegen dat zij en haar voorganger herhaaldelijk hebben toegezegd dat er geen coffeeshop meer komt op het adres.
+
+Standpunt [eiser]
+
+4. [eiser] voert, samengevat, aan dat de burgemeester de exploitatievergunning en gedoogverklaring ten onrechte heeft geweigerd en dat de besluitvorming berust op oneigenlijke en gezochte argumenten en een deugdelijke motivering ontbeert. Hierna zal de rechtbank ingaan op zijn beroepsgronden.
+
+Beoordeling door de rechtbank
+
+5. De rechtbank moet beoordelen of de burgemeester de aangevraagde exploitatievergunning en gedoogverklaring in redelijkheid kon afwijzen op basis van de weigeringsgronden in de APV.
+
+Ex tunc toetsing
+
+6. De rechtbank stelt voorop dat zij het bestreden besluit ex tunc toetst. Dit betekent dat de beoordeling zich baseert op de omstandigheden zoals die bestonden ten tijde van het bestreden besluit. De ex tunc-toets verzet zich ertegen dat de rechtbank een inhoudelijke beoordeling geeft over omstandigheden die hebben plaatsgevonden na het bestreden besluit, omdat de burgemeester deze omstandigheden bij de inhoudelijke beoordeling niet heeft kunnen meenemen. De rechtbank kan dus de omstandigheid dat [eiser] na het bestreden besluit het pand op het adres heeft verkocht aan de onderneming van [naam 1] niet betrekken in de beoordeling.
+
+Toetsingsintensiteit
+
+7. In het bestreden besluit en het verweerschrift heeft de burgemeester geschreven dat er geen nieuwe coffeeshops in Amsterdam kunnen worden geopend. De rechtbank stelt vast dat het bij de onderhavige aanvraag weliswaar gaat om een nieuwe coffeeshop maar op een bestaande locatie die reeds op de gedooglijst staat. Om die reden dient de aanvraag voor de exploitatievergunning te worden getoetst aan de weigeringsgronden in artikel 3.11, tweede en derde lid, van de APV. De burgemeester heeft daarbij beoordelingsruimte. Daarnaast geldt in deze zaak dat voor de exploitatie van de coffeeshop een gedoogverklaring nodig is, omdat coffeeshops illegale waar verkopen. Daarbij heeft de burgemeester een ruime beleids- en beoordelingsvrijheid. Gelet op het voorgaande dient de rechtbank het bestreden besluit terughoudend te toetsen.
+
+Relevant juridisch kader
+
+8. Op grond van artikel 3:11, tweede en derde lid, van de APV kan een vergunning worden geweigerd als het woon- en leefklimaat in de omgeving van het horecabedrijf, de openbare orde of de veiligheid nadelig wordt beïnvloed door de aanwezigheid van het horecabedrijf. Daarbij wordt rekening gehouden met het karakter van de straat en de wijk waarin het horecabedrijf is gelegen, de aard van het horecabedrijf, de spanning waaraan het woon- en leefklimaat ter plaatse reeds bloot staat, de wijze van bedrijfsvoering door de exploitant of de leidinggevende en het levensgedrag van de exploitant of leidinggevende.
+
+Openbare orde en veiligheid
+
+9. [eiser] betoogt dat de bezwaren van de burgemeester tegen hem irrelevant zijn voor de beoordeling van de aanvraag van [naam 1], omdat [eiser] het pand zal verkopen zodra de coffeeshop geëxploiteerd kan worden. Daarnaast stelt hij dat de burgemeester ten onrechte de bestuurlijke rapportage ten grondslag heeft gelegd aan de besluitvorming. Het rapport is namelijk niet opgesteld in het kader van de aanvraag van [naam 1] en bevat vertrouwelijke informatie over een andere persoon dan die van [naam 1]. Verder stelt [eiser] dat de vermoedens die de politie heeft opgeschreven in de rapportage niet onderbouwd zijn. Tot slot stelt [eiser] dat de burgemeester ten onrechte tegenwerpt dat er in het verleden incidenten zijn geweest. Er is geen enkel verband te leggen tussen de beschietingen op het adres en de persoon van [eiser]. [eiser] verhuurt ook geen panden meer waarin een coffeeshop is gevestigd.
+
+10.1.
+
+De rechtbank stelt vast dat het pand ten tijde van het bestreden besluit nog niet verkocht was aan [naam 1] en dat [eiser] toen de pandeigenaar was. Om die reden is de rechtbank van oordeel dat de burgemeester [eiser] in redelijkheid in de besluitvorming mocht betrekken.
+
+10.2.
+
+De door de politie opgemaakte bestuurlijke rapportage is aan de burgemeester verstrekt op grond van artikel 16, eerste lid, sub b, onder 2 van de Wpg. Op grond van dit artikel kan de politie politiegegevens verstrekken aan de burgemeester voor zover dit nodig is in het kader van de handhaving van de openbare orde. De informatie uit de rapportage mag worden gebruikt voor de motivering van een besluit op dit terrein. De rechtbank is daarom van oordeel dat er geen beletsel is om de bestuurlijke rapportage mee te nemen in de besluitvorming in het kader van de openbare orde.
+
+10.3.
+
+Ten aanzien van de inhoud van de rapportage neemt de rechtbank in aanmerking dat de politie het vermoeden heeft geuit dat [eiser] als pandeigenaar betrokken is bij handel in verdovende middelen (softdrugs), witwassen en dat meerdere panden in zijn eigendom het doelwit zijn geweest van ernstige openbare orde-incidenten. Daarnaast zijn er vermoedens van schijnbeheer ten aanzien van diverse coffeeshops en horecagelegenheden. De rechtbank is met de burgemeester van oordeel dat deze vermoedens in de rapportage voldoende worden onderbouwd met gegevens.
+
+10.4.
+
+De rechtbank overweegt ten aanzien van incidenten in het verleden als volgt. Uit het dossier blijkt dat er in 2016 drie keer beschietingen zijn geweest bij het pand. Destijds was coffeeshop [naam 2] daar gevestigd. Dit zijn ernstige openbare orde-incidenten. Vanwege deze incidenten heersen nog steeds gevoelens van onveiligheid onder de omwonenden, zoals is gebleken uit de door hen ingediende zienswijzen. In de zienswijzen geven omwonenden aan dat zij zich de schietincidenten nog kunnen herinneren en dat het vertrouwen in de openbare orde sindsdien nog niet is hersteld. Zij zijn geschrokken van de aanvraag voor een exploitatievergunning voor een nieuwe coffeeshop. Verder blijkt uit de bestuurlijke rapportage dat verschillende panden waarvan [eiser] eigenaar is, betrokken zijn geweest bij (recentere) openbare orde-verstoringen. Zo is in 2023 coffeeshop [naam 3], waarvan [eiser] pandeigenaar is, nog beschoten. Op grond van de genoemde incidenten, op zichzelf staand of in verband met [eiser], heeft de burgemeester kunnen concluderen dat door de aanwezigheid van de coffeeshop op het adres een risico ontstaat voor de openbare orde en veiligheid.
+
+11. De rechtbank is van oordeel dat de burgemeester, gelet op de bestuurlijke rapportage van de politie en de geschiedenis van de locatie, ten tijde van het bestreden besluit in redelijkheid kon tegenwerpen dat door het verlenen van de aangevraagde exploitatievergunning er gegronde vrees is dat de openbare orde en veiligheid nadelig worden beïnvloed en dat aan het bestreden besluit ten grondslag kon leggen.
+
+Woon- en leefklimaat
+
+12. [eiser] stelt dat de burgemeester ten onrechte tegenwerpt dat het woon- en leefklimaat nadelig wordt beïnvloed door de aanwezigheid van een coffeeshop. Gelet op het tijdsverloop en het blanco verleden van [naam 1] is de vrees van omwonenden niet gegrond.
+
+13. De rechtbank is van oordeel dat de burgemeester op grond van de voornoemde bestuurlijke rapportage en de zienswijzen van omwonenden in redelijkheid heeft kunnen concluderen dat door het verlenen van de aangevraagde exploitatievergunning het woon- en leefklimaat in de omgeving van het pand nadelig wordt beïnvloed.
+
+Toezegging
+
+14. Diverse omwonenden verwijzen in hun zienswijze naar de schriftelijke toezegging van voormalig burgemeester Van der Laan in 2016 dat er op het adres geen nieuwe coffeeshop meer zal komen. Ook de huidige burgemeester stelt zich gebonden te voelen aan deze toezegging en heeft deze herhaald. [eiser] stelt echter dat in een eerdere procedure reeds is geoordeeld dat deze toezegging niet in rechte afdwingbaar is. Dit volgt volgens [eiser] uit de uitspraak van het gerechtshof Amsterdam van 14 november 2017.
+
+15. De rechtbank stelt vast dat de burgemeester op meerdere momenten aan verschillende buurtbewoners heeft toegezegd dat er geen coffeeshop op deze locatie meer wordt gedoogd. Deze toezegging is onder meer op 9 december 2016, 19 november 2018 en 14 februari 2019 gedaan. De rechtbank neemt in aanmerking dat buurtbewoners aan deze toezeggingen van de voormalige en huidige burgemeester het vertrouwen kunnen ontlenen dat er geen coffeeshop meer komt op de locatie totdat de openbare orde langdurig is hersteld.
+
+Gelijkheidsbeginsel
+
+16. [eiser] is van mening dat de burgemeester in strijd met het gelijkheidsbeginsel handelt omdat andere coffeeshops, waar hij als financier bij betrokken is, wel een exploitatievergunning en gedoogverklaring hebben gekregen.
+
+17. De rechtbank is niet gebleken van gelijke gevallen. Deze grond slaagt niet.
+
+Conclusie
+
+18. Gelet op de optelsom van alle hiervoor genoemde omstandigheden oordeelt de rechtbank dat de burgemeester in redelijkheid tot het bestreden besluit kon komen.
+
+19. Het beroep is ongegrond.
+
+20. Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. R. Hirzalla, voorzitter, mr. A.D. Belcheva en
+
+mr. M.H. van Haeften, leden, in aanwezigheid van mr. K.M. Nannan Panday, griffier.
+
+De beslissing is in het openbaar uitgesproken op 19 september 2025.
+
+griffier voorzitter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+
+Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
+
+Artikel 3.11, tweede en derde lid, van de Algemene Plaatselijke Verordening Amsterdam (APV).
+
+Wet politiegegevens.
+
+ECLI:NL:GHAMS:2017:4697.
