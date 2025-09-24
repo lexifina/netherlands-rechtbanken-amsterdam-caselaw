@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7045"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/156"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/156", "JONDR 2026/402"]
 ---
 
 # ECLI:NL:RBAMS:2025:7045 Rechtbank Amsterdam , 24-09-2025 / C/13/756201 / HA ZA 24-983
