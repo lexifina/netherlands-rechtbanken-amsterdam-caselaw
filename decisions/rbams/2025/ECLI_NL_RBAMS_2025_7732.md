@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7732"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/323", "JONDR 2026/610"]
 ---
 
 # ECLI:NL:RBAMS:2025:7732 Rechtbank Amsterdam , 26-09-2025 / 11480597 \ CV EXPL 25-350
