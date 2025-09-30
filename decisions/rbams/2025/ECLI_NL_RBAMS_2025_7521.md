@@ -10,6 +10,7 @@ procedure: "Eerste en enige aanleg"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7521"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2118, Overig"]]
 ---
 
 # ECLI:NL:RBAMS:2025:7521 Rechtbank Amsterdam , 30-09-2025 / 13/297858-22 (ontneming)
