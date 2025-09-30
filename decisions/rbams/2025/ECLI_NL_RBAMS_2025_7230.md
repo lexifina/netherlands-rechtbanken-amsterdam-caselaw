@@ -69,7 +69,7 @@ Bij de zitting waren aanwezig:
 
 - aan de kant van eiseres: [bewindvoerder] , bewindvoerder, met mr. Kaloudis,
 
-- aan de kant van ABN AMRO: mr H. Huisman (legal counsel bij ABN AMRO), met mr. Den Hertog.
+- aan de kant van ABN AMRO: mr [naam] ( [naam functie] bij ABN AMRO), met mr. Den Hertog.
 
 2
 De feiten
