@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7253"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Privacyrecht 2025/18", "Sdu Nieuws Privacyrecht 2026/11"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Privacyrecht 2025/18", "Sdu Nieuws Privacyrecht 2026/11", "Computerrecht 2026/41 met annotatie van M.D. Reijneveld", "IR 2025/18, UDH:IR/56829 met annotatie van mr. dr. T. (Tim) van Zuijlen"]
 ---
 
 # ECLI:NL:RBAMS:2025:7253 Rechtbank Amsterdam , 02-10-2025 / C/13/774725 / KG ZA 25-687 MK/JD
