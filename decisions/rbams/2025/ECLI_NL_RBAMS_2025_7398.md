@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7398"
-published_in: ["Rechtspraak.nl", "RN 2026/17"]
+published_in: ["Rechtspraak.nl", "RN 2026/17", "NJFCZ 2026/167"]
 ---
 
 # ECLI:NL:RBAMS:2025:7398 Rechtbank Amsterdam , 09-10-2025 / 11671417 \ EA VERZ  25-489
