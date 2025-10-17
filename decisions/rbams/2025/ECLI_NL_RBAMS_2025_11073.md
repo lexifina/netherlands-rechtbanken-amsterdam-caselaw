@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11073"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/49"]
 ---
 
 # ECLI:NL:RBAMS:2025:11073 Rechtbank Amsterdam , 17-10-2025 / 11615975 \ CV FORM 25-4994
