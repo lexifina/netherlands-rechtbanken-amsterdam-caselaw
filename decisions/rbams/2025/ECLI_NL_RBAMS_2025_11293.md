@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11293"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0147", "VEAN-ERF-Updates.nl 2026-0147"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0147", "VEAN-ERF-Updates.nl 2026-0147", "JERF 2026/63", "JERF Actueel 2026/83"]
 ---
 
 # ECLI:NL:RBAMS:2025:11293 Rechtbank Amsterdam , 17-10-2025 / 11332966  CV EXPL 24-12567
