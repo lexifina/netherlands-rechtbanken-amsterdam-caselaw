@@ -65,7 +65,7 @@ Op 11 december 2024 is de mondelinge behandeling op de rechtbank gehouden. Ter z
 
 Vervolgens zijn verschillende deskundigen aan partijen voorgesteld en ook partijen hebben getracht gezamenlijk een deskundige aan te wijzen, maar dit heeft om verschillende redenen niet geleid tot een opdracht aan een onafhankelijke deskundige. Uiteindelijk is daarom bij rolmededeling van 18 juli 2025 afgezien van het voornemen om een deskundige te benoemen en besloten tot een bezichtiging ter plaatse, waarbij partijen in de gelegenheid werden gesteld een eigen deskundige mee te nemen die de kantonrechter kon voorlichten over (de staat van) het geleverde werk.
 
-Op 17 september 2025 is in de woning van [eisers] een bezichtiging ter plaatse gehouden, voorafgaand waaraan [eisers] nog aanvullende producties heeft ingediend. Bij de bezichtiging was [eisers] aanwezig met de gemachtigde en [naam 1] van Peters Bouwkundig Adviesbureau. [gedaagde] was eveneens aanwezig met zijn gemachtigde en met [naam 2] van Hightower Group. De kantonrechter heeft met de griffier de keuken en het badkamermeubel bekeken, waarvan proces-verbaal is opgemaakt.
+Op 17 september 2025 is in de woning van [eisers] een bezichtiging ter plaatse gehouden, voorafgaand waaraan [eisers] nog aanvullende producties heeft ingediend. Bij de bezichtiging was [eisers] aanwezig met de gemachtigde en [naam 1] van [naam adviesbureau] . [gedaagde] was eveneens aanwezig met zijn gemachtigde en met [naam 2] van [naam 4] . De kantonrechter heeft met de griffier de keuken en het badkamermeubel bekeken, waarvan proces-verbaal is opgemaakt.
 
 1.2.
 
@@ -82,7 +82,7 @@ Sinds augustus 2021 is [eisers] eigenaar van het perceel aan de [adres] . In mei
 
 2.2.
 
-In opdracht van [eisers] heeft Femkeido Interieur Design in juli 2021 een ontwerp gemaakt voor het interieur van de nieuwbouwwoning van [eisers] .
+In opdracht van [eisers] heeft [naam 5] in juli 2021 een ontwerp gemaakt voor het interieur van de nieuwbouwwoning van [eisers] .
 
 2.3.
 
@@ -90,7 +90,7 @@ In opdracht van [eisers] heeft Femkeido Interieur Design in juli 2021 een ontwer
 
 2.4.
 
-Op 28 augustus 2021 heeft [eisers] aan [gedaagde] het ontwerp van Femkeido verstrekt en vervolgens hebben partijen op basis van dit ontwerp de maten, positionering en materialen gekozen van/voor de in het ontwerp getekende maatwerkkeuken (bestaande uit een keuken met bovenkasten, een eiland met spoel- en zitgedeelte en een wandkast), badkamermeubel en toiletmeubel en -ombouw. Uiteindelijk heeft [eisers] op 3 november 2021 per whatsapp [gedaagde] opdracht gegeven de genoemde zaken te vervaardigen en te installeren voor een totaalbedrag van € 26.500,-.
+Op 28 augustus 2021 heeft [eisers] aan [gedaagde] het ontwerp van [naam 5] verstrekt en vervolgens hebben partijen op basis van dit ontwerp de maten, positionering en materialen gekozen van/voor de in het ontwerp getekende maatwerkkeuken (bestaande uit een keuken met bovenkasten, een eiland met spoel- en zitgedeelte en een wandkast), badkamermeubel en toiletmeubel en -ombouw. Uiteindelijk heeft [eisers] op 3 november 2021 per whatsapp [gedaagde] opdracht gegeven de genoemde zaken te vervaardigen en te installeren voor een totaalbedrag van € 26.500,-.
 
 2.5.
 
@@ -138,7 +138,7 @@ Op 4 oktober 2022 heeft [gedaagde] in de middag werkzaamheden uitgevoerd.
 
 2.16.
 
-[eisers] heeft vervolgens [naam 3] van Stijlwerk opdracht gegeven een expertiseonderzoek te doen naar de kwaliteit van het door [gedaagde] geleverde werk. Op 1 december 2022 heeft Stijlwerk een rapport uitgebracht met de volgende conclusie: “Algemene beoordeling van de keuken, eiland en wandmeubel is slecht en voldoet hiermee niet aan de eisen van deugdelijk interieurwerk. De basis van dit alles is dat geen van de objecten in het lood (recht en haaks) zijn gesteld. Dit incorrecte basisbeginsel van interieurwerk, werkt door in alle overige onderdelen die in, aan en op deze basis worden gemonteerd. Daarnaast zijn er onderdelen ondeugdelijk aangebracht en bevestigd, is niet overal het juiste materiaal gebruikt en is de afwerking van alle onderdelen zeer slecht. (…)
+[eisers] heeft vervolgens [naam 3] van [naam 6] opdracht gegeven een expertiseonderzoek te doen naar de kwaliteit van het door [gedaagde] geleverde werk. Op 1 december 2022 heeft [naam 6] een rapport uitgebracht met de volgende conclusie: “Algemene beoordeling van de keuken, eiland en wandmeubel is slecht en voldoet hiermee niet aan de eisen van deugdelijk interieurwerk. De basis van dit alles is dat geen van de objecten in het lood (recht en haaks) zijn gesteld. Dit incorrecte basisbeginsel van interieurwerk, werkt door in alle overige onderdelen die in, aan en op deze basis worden gemonteerd. Daarnaast zijn er onderdelen ondeugdelijk aangebracht en bevestigd, is niet overal het juiste materiaal gebruikt en is de afwerking van alle onderdelen zeer slecht. (…)
 
 Herstel acht ik onuitvoerbaar, dus alles moet opnieuw gedemonteerd worden, opnieuw gemaakt en geplaats. Bij het demonteren/ontmantelen van de basisopstelling is onherstelbare schade te verwachten omdat vele delen foutief zijn gesteld, verlijmd en/of geschroefd. Hergebruik van het basismateriaal sluit ik dan ook uit. (…) De kosten van nieuwbouw van:
 
@@ -154,21 +154,21 @@ Totaal					€ 32600,- (…)”.
 
 2.17.
 
-Bij brief van 21 december 2022 heeft de voormalig gemachtigde van [eisers] het rapport van Stijlwerk aan [gedaagde] gestuurd, de overeenkomst tussen partijen buitengerechtelijk ontbonden en een schikkingsvoorstel gedaan, waarbij is verzocht om betaling van een bedrag van € 42.500,-. Met dit voorstel is [gedaagde] niet akkoord gegaan.
+Bij brief van 21 december 2022 heeft de voormalig gemachtigde van [eisers] het rapport van [naam 6] aan [gedaagde] gestuurd, de overeenkomst tussen partijen buitengerechtelijk ontbonden en een schikkingsvoorstel gedaan, waarbij is verzocht om betaling van een bedrag van € 42.500,-. Met dit voorstel is [gedaagde] niet akkoord gegaan.
 
 2.18.
 
-Nadat het partijen niet was gelukt samen een deskundige te benoemen, heeft [eisers] Van Beek Expertise opdracht gegeven het werk van [gedaagde] te beoordelen. Op 10 mei 2023 is het werk bezichtigd, waarbij [gedaagde] aanwezig was. Hiervan is een rapport opgemaakt, dat niet aan [gedaagde] is verstrekt en ook niet in de procedure is gebracht.
+Nadat het partijen niet was gelukt samen een deskundige te benoemen, heeft [eisers] [naam 7] opdracht gegeven het werk van [gedaagde] te beoordelen. Op 10 mei 2023 is het werk bezichtigd, waarbij [gedaagde] aanwezig was. Hiervan is een rapport opgemaakt, dat niet aan [gedaagde] is verstrekt en ook niet in de procedure is gebracht.
 
 2.19.
 
-Tot slot heeft [eisers] [naam 1] van Peters Bouwkundig Adviesbureau opdracht gegeven het werk te onderzoeken. Op 5 december 2023 heeft hij in aanwezigheid van [gedaagde] het werk beoordeeld. Op 14 februari 2024 heeft hij daarvan rapport uitgebracht, waarin als conclusie is vermeld:
+Tot slot heeft [eisers] [naam 1] van [naam adviesbureau] opdracht gegeven het werk te onderzoeken. Op 5 december 2023 heeft hij in aanwezigheid van [gedaagde] het werk beoordeeld. Op 14 februari 2024 heeft hij daarvan rapport uitgebracht, waarin als conclusie is vermeld:
 
 “(…) De door ondergetekende verkregen algemene indruk van de door firma [gedaagde] gerealiseerde werkzaamheden is slecht. De geleverde maatwerk keuken- en badkamer opstelling vertoont gebreken. De gebreken zijn aanwezig in alle onderdelen welke geleverd, bewerkt en geplaatst zijn door firma [gedaagde] . (…) Door ondergetekende is geconstateerd dat veel onderdelen middels schroeven zijn gefixeerd echter is ook geconstateerd dat veel onderdelen middel (lijm)kit zijn gefixeerd. (…) Daarnaast is door ondergetekende geconstateerd dat de omvang van de gebreken dusdanig groot is dat plaatselijk herstel van de diverse interieuronderdelen niet meer mogelijk is. (…) De gehele keukenopstelling inclusief wandkast dient vervangen te worden.(…) Kostenraming (…) Totaal incl BTW € 40.686,07.(…)”
 
 2.20.
 
-In de aanvulling op het rapport van Peters Bouwkundig Adviesbureau is de waarde van het geleverde aanneemwerk inclusief btw voor de keuken op nihil begroot, voor de toiletombouw op € 400,-, voor het badkamermeubel op € 950,- en voor de badkamermeubelombouw op € 1.000,-. De koelkast ten bedrage van € 1.249,- inclusief btw is niet geleverd door [gedaagde] .
+In de aanvulling op het rapport van [naam adviesbureau] is de waarde van het geleverde aanneemwerk inclusief btw voor de keuken op nihil begroot, voor de toiletombouw op € 400,-, voor het badkamermeubel op € 950,- en voor de badkamermeubelombouw op € 1.000,-. De koelkast ten bedrage van € 1.249,- inclusief btw is niet geleverd door [gedaagde] .
 
 3
 Het geschil
@@ -187,7 +187,7 @@ voor recht te verklaren dat de overeenkomst tussen partijen op 21 december 2022 
 
 3.2.
 
-[eisers] stelt daartoe dat [gedaagde] ondanks verschillende herstelmogelijkheden dusdanig tekort is geschoten in de nakoming van de opdracht dat dit ontbinding van de overeenkomst rechtvaardigt. [gedaagde] is daarom gehouden om het betaalde bedrag minus de geleverde apparatuur ten bedrage van € 7.046,78 en de waarde van de geleverde toilet- en badkamermeubelen ten bedrage van € 2.350,- aan [eisers] terug te betalen, in totaal € 21.919,42. Verder is [gedaagde] gehouden tot vergoeding van aanvullende schade met betrekking tot het herstel van de keuken ten bedrage van € 3.270,03. Ook stelt [eisers] dat [gedaagde] de kosten van het expertiseonderzoek van Peters Bouwkundig Adviesbureau en de gemaakte buitengerechtelijke incassokosten moet vergoeden. Op de mondelinge behandeling van 11 december 2024 heeft [eisers] zijn eis beperkt tot € 25.000,- en afstand gedaan van het meerdere.
+[eisers] stelt daartoe dat [gedaagde] ondanks verschillende herstelmogelijkheden dusdanig tekort is geschoten in de nakoming van de opdracht dat dit ontbinding van de overeenkomst rechtvaardigt. [gedaagde] is daarom gehouden om het betaalde bedrag minus de geleverde apparatuur ten bedrage van € 7.046,78 en de waarde van de geleverde toilet- en badkamermeubelen ten bedrage van € 2.350,- aan [eisers] terug te betalen, in totaal € 21.919,42. Verder is [gedaagde] gehouden tot vergoeding van aanvullende schade met betrekking tot het herstel van de keuken ten bedrage van € 3.270,03. Ook stelt [eisers] dat [gedaagde] de kosten van het expertiseonderzoek van [naam adviesbureau] en de gemaakte buitengerechtelijke incassokosten moet vergoeden. Op de mondelinge behandeling van 11 december 2024 heeft [eisers] zijn eis beperkt tot € 25.000,- en afstand gedaan van het meerdere.
 
 3.3.
 
@@ -220,25 +220,25 @@ Als dan ook vastgesteld wordt dat na 4 oktober 2022 nog gebreken in het werk bes
 
 4.4.
 
-Aan de orde is dan ook allereerst de vraag of het werk van [gedaagde] na 4 oktober 2022 nog gebreken kende. Vaststaat dat [gedaagde] zich heeft verplicht het ontwerp van Femkeido uit te voeren ten aanzien van de keuken-, de badkamer- en de toiletmeubelen alsmede de barkrukken te spuiten. [eisers] heeft het ontwerp van Femkeido en twee van de drie rapporten van deskundigen overgelegd, waarin die partijdeskundigen concluderen dat het werk gebreken kent. Deze rapporten heeft [gedaagde] in zijn conclusie van antwoord uitvoerig en gemotiveerd weersproken. Gelet hierop en op de omstandigheid dat het als tweede opgemaakte deskundigenrapport, waarvoor [gedaagde] ook op de locatie was uitgenodigd, niet door [eisers] is overgelegd, had de kantonrechter zich graag laten adviseren door een onafhankelijke deskundige. Nu dat ondanks alle pogingen daartoe niet is gelukt, is in plaats daarvan een bezichtiging ter plaatse bepaald. Daarbij is het werk bekeken en zijn partijen, hun gemachtigden en hun deskundigen in de gelegenheid gesteld om vragen van de kantonrechter te beantwoorden en hun standpunten toe te lichten. Op grond van deze bevindingen zal hieronder per onderdeel een beslissing worden genomen.
+Aan de orde is dan ook allereerst de vraag of het werk van [gedaagde] na 4 oktober 2022 nog gebreken kende. Vaststaat dat [gedaagde] zich heeft verplicht het ontwerp van [naam 5] uit te voeren ten aanzien van de keuken-, de badkamer- en de toiletmeubelen alsmede de barkrukken te spuiten. [eisers] heeft het ontwerp van [naam 5] en twee van de drie rapporten van deskundigen overgelegd, waarin die partijdeskundigen concluderen dat het werk gebreken kent. Deze rapporten heeft [gedaagde] in zijn conclusie van antwoord uitvoerig en gemotiveerd weersproken. Gelet hierop en op de omstandigheid dat het als tweede opgemaakte deskundigenrapport, waarvoor [gedaagde] ook op de locatie was uitgenodigd, niet door [eisers] is overgelegd, had de kantonrechter zich graag laten adviseren door een onafhankelijke deskundige. Nu dat ondanks alle pogingen daartoe niet is gelukt, is in plaats daarvan een bezichtiging ter plaatse bepaald. Daarbij is het werk bekeken en zijn partijen, hun gemachtigden en hun deskundigen in de gelegenheid gesteld om vragen van de kantonrechter te beantwoorden en hun standpunten toe te lichten. Op grond van deze bevindingen zal hieronder per onderdeel een beslissing worden genomen.
 
 Eiland met spoel- en zitgedeelte
 
 4.5.
 
-Vaststaat dat op de tekeningen van Femkeido de wasbak onderbouw is ingetekend. De kantonrechter stelt vast dat de wasbak bovenbouw is gemonteerd. In de brief van 29 augustus 2022 is hierover geklaagd. [gedaagde] voert weliswaar aan dat onderbouw niet mogelijk was vanwege de kwetsbaarheid van het gekozen keukenblad, maar erkent dat hij dit niet van te voren met [eisers] heeft besproken. Nu dit van te voren niet is besproken, mocht [eisers] erop vertrouwen dat de wasbak onderbouw zou worden gemonteerd  en nu dit niet is gebeurd, is sprake van een gebrek. Ditzelfde geldt ten aanzien van de Shinnoki panelen. Op de tekeningen van Femkeido zijn de naden van de panelen verticaal ingetekend. Op drie van de zijden van het eiland is echter zichtbaar dat de naden van de panelen horizontaal lopen. Ook dit heeft [gedaagde] niet van te voren met [eisers] besproken.
+Vaststaat dat op de tekeningen van [naam 5] de wasbak onderbouw is ingetekend. De kantonrechter stelt vast dat de wasbak bovenbouw is gemonteerd. In de brief van 29 augustus 2022 is hierover geklaagd. [gedaagde] voert weliswaar aan dat onderbouw niet mogelijk was vanwege de kwetsbaarheid van het gekozen keukenblad, maar erkent dat hij dit niet van te voren met [eisers] heeft besproken. Nu dit van te voren niet is besproken, mocht [eisers] erop vertrouwen dat de wasbak onderbouw zou worden gemonteerd  en nu dit niet is gebeurd, is sprake van een gebrek. Ditzelfde geldt ten aanzien van de [merknaam] panelen. Op de tekeningen van [naam 5] zijn de naden van de panelen verticaal ingetekend. Op drie van de zijden van het eiland is echter zichtbaar dat de naden van de panelen horizontaal lopen. Ook dit heeft [gedaagde] niet van te voren met [eisers] besproken.
 
 4.6.
 
-De Shinnoki panelen zijn op verzoek van [eisers] door [gedaagde] geschuurd en behandeld met skylt lak, maar zien er niet zo uit als op de staal van Shinnoki die [eisers] tijdens de bezichtiging heeft laten zien. [eisers] stelt dat later is gebleken dat de panelen helemaal niet behandeld hoefden te worden en dat deze door dat wel te doen, zijn beschadigd. De deskundige van [gedaagde] erkent dat ook na behandeling met skylt lak de panelen er zo uit zouden moeten zien als op de staal van [eisers] . De kantonrechter stelt vast dat dat niet het geval is; het oppervlak voelt ruw en is vlekkerig. Dit is dan ook een gebrek.
+De [merknaam] panelen zijn op verzoek van [eisers] door [gedaagde] geschuurd en behandeld met skylt lak, maar zien er niet zo uit als op de staal van [merknaam] die [eisers] tijdens de bezichtiging heeft laten zien. [eisers] stelt dat later is gebleken dat de panelen helemaal niet behandeld hoefden te worden en dat deze door dat wel te doen, zijn beschadigd. De deskundige van [gedaagde] erkent dat ook na behandeling met skylt lak de panelen er zo uit zouden moeten zien als op de staal van [eisers] . De kantonrechter stelt vast dat dat niet het geval is; het oppervlak voelt ruw en is vlekkerig. Dit is dan ook een gebrek.
 
 4.7.
 
-Het keukenblad is niet gepolijst en voelt ruw. [eisers] heeft een staal getoond van het gebruikte materiaal. Deze voelde gladder dan het keukenblad. [eisers] stelt dat hij deze staal aan [gedaagde] van te voren heeft laten zien, dat [gedaagde] ontkent. Beide deskundigen verklaren dat het mogelijk is om het keukenblad te polijsten. Nu echter dit punt door [eisers] niet is genoemd in de brief van 29 augustus 2022, kan nu niet meer worden vastgesteld wat precies is afgesproken, dit blijkt ook niet uit de tekeningen van Femkeido, zodat dit niet als een gebrek wordt aangemerkt.
+Het keukenblad is niet gepolijst en voelt ruw. [eisers] heeft een staal getoond van het gebruikte materiaal. Deze voelde gladder dan het keukenblad. [eisers] stelt dat hij deze staal aan [gedaagde] van te voren heeft laten zien, dat [gedaagde] ontkent. Beide deskundigen verklaren dat het mogelijk is om het keukenblad te polijsten. Nu echter dit punt door [eisers] niet is genoemd in de brief van 29 augustus 2022, kan nu niet meer worden vastgesteld wat precies is afgesproken, dit blijkt ook niet uit de tekeningen van [naam 5] , zodat dit niet als een gebrek wordt aangemerkt.
 
 4.8.
 
-Duidelijk zichtbaar was dat het keukenblad doorbuigt aan de kant van het zitgedeelte. Het blad van composiet is niet ondersteund en is 38,5 cm diep over een lengte van ongeveer 2,5 meter. [gedaagde] verklaarde dat hij hiervoor heeft gewaarschuwd en dat hij daarom uitging van een diepte van 25 cm, hetgeen volgens hem en zijn deskundige een gebruikelijke diepte is voor een bar. Bij die diepte zou het blad niet doorbuigen. Nu [eisers] toch deze diepte van 38,5 cm wilde, heeft [gedaagde] tegen een meerprijs aangeboden een profiel eronder te maken, maar daarvoor wilde [eisers] niet betalen. Op de tekening van Femkeido is het zitgedeelte ingetekend. Daarop is te zien dat de barkrukken (vierkant met rugleuning) onder het blad passen en dat de diepte onder het blad bijna net zo groot is als de afstand tussen de poten aan de onderkant van de krukken. Op grond van deze tekening mocht [eisers] verwachten dat de bar dieper zou zijn dan 25 cm. Dat het blad bij een diepte van meer dan 25 cm doorbuigt, is dan ook een gebrek.
+Duidelijk zichtbaar was dat het keukenblad doorbuigt aan de kant van het zitgedeelte. Het blad van composiet is niet ondersteund en is 38,5 cm diep over een lengte van ongeveer 2,5 meter. [gedaagde] verklaarde dat hij hiervoor heeft gewaarschuwd en dat hij daarom uitging van een diepte van 25 cm, hetgeen volgens hem en zijn deskundige een gebruikelijke diepte is voor een bar. Bij die diepte zou het blad niet doorbuigen. Nu [eisers] toch deze diepte van 38,5 cm wilde, heeft [gedaagde] tegen een meerprijs aangeboden een profiel eronder te maken, maar daarvoor wilde [eisers] niet betalen. Op de tekening van [naam 5] is het zitgedeelte ingetekend. Daarop is te zien dat de barkrukken (vierkant met rugleuning) onder het blad passen en dat de diepte onder het blad bijna net zo groot is als de afstand tussen de poten aan de onderkant van de krukken. Op grond van deze tekening mocht [eisers] verwachten dat de bar dieper zou zijn dan 25 cm. Dat het blad bij een diepte van meer dan 25 cm doorbuigt, is dan ook een gebrek.
 
 De barkrukken
 
@@ -260,7 +260,7 @@ De groene wandkast
 
 4.12.
 
-Zichtbaar is dat de kast aan één zijde naar boven toe steeds meer afwijkt van de muur. Verder is zichtbaar dat de naden van de kast niet even groot zijn en dat er kleurverschil in de verschillende panelen zit. De kast beantwoordt daardoor niet aan hetgeen [eisers] op grond van de tekeningen van Femkeido van een maatkast mocht verwachten. [gedaagde] voert aan dat dit nog bijgesteld kan worden, maar met de deskundige van [eisers] wordt geoordeeld dat nu de kast zelf niet waterpas staat, het onmogelijk is de cnc gezaagde panelen nog recht te stellen. Dat de vloer of muren niet waterpas zijn, maakt het voorgaande niet anders. Juist van een maatkast mag worden verwacht dat deze waterpas ingemeten en gemaakt wordt.
+Zichtbaar is dat de kast aan één zijde naar boven toe steeds meer afwijkt van de muur. Verder is zichtbaar dat de naden van de kast niet even groot zijn en dat er kleurverschil in de verschillende panelen zit. De kast beantwoordt daardoor niet aan hetgeen [eisers] op grond van de tekeningen van [naam 5] van een maatkast mocht verwachten. [gedaagde] voert aan dat dit nog bijgesteld kan worden, maar met de deskundige van [eisers] wordt geoordeeld dat nu de kast zelf niet waterpas staat, het onmogelijk is de cnc gezaagde panelen nog recht te stellen. Dat de vloer of muren niet waterpas zijn, maakt het voorgaande niet anders. Juist van een maatkast mag worden verwacht dat deze waterpas ingemeten en gemaakt wordt.
 
 De badkamer
 
@@ -276,7 +276,7 @@ Conclusie van het bovenstaande is dat het werk van [gedaagde] op vele punten, zo
 
 4.15.
 
-Gevolg van ontbinding is dat voor partijen een ongedaanmakingsverplichting ontstaat, te weten dat het reeds betaalde bedrag dient te worden terugbetaald en de geleverde zaken dienen te worden teruggegeven dan wel dat de waarde daarvan moet worden vergoed. [eisers] heeft op basis van het rapport van Bouwkundig Adviesbureau Peters de waarde van het geleverde werk begroot op € 2.350,-. Hij gaat er daarbij van uit dat de geleverde keukenmeubelen geen waarde vertegenwoordigen aangezien die niet hersteld kunnen worden en dus in het geheel opnieuw gemaakt moeten worden. Ook het spuiten van de krukken zal opnieuw gedaan moeten worden. Gelet op de aard en omvang van de vastgestelde gebreken, wordt [eisers] daarin gevolgd. De vordering tot terugbetaling van € 21.919,42 van het betaalde bedrag is dan ook toewijsbaar. Ook de aanvullende schadevergoeding wordt tot een bedrag van € 3.080,58 toegewezen, aangezien voorzienbaar is dat het verwijderen en afvoeren van de (keuken)meubelen, het tijdelijk opslaan van de keukenapparatuur en het plaatsen van nieuwe keukenmeubelen kosten met zich brengen. Verder geldt dat [eisers] kosten heeft gemaakt voor de deskundigenrapporten, die ook voor toewijzing in aanmerking komen. De vordering in conventie tot betaling van in totaal € 25.000,- wordt dan ook toegewezen. De vordering in reconventie wordt gelet op de ontbinding van de overeenkomst afgewezen.
+Gevolg van ontbinding is dat voor partijen een ongedaanmakingsverplichting ontstaat, te weten dat het reeds betaalde bedrag dient te worden terugbetaald en de geleverde zaken dienen te worden teruggegeven dan wel dat de waarde daarvan moet worden vergoed. [eisers] heeft op basis van het rapport van [naam adviesbureau] de waarde van het geleverde werk begroot op € 2.350,-. Hij gaat er daarbij van uit dat de geleverde keukenmeubelen geen waarde vertegenwoordigen aangezien die niet hersteld kunnen worden en dus in het geheel opnieuw gemaakt moeten worden. Ook het spuiten van de krukken zal opnieuw gedaan moeten worden. Gelet op de aard en omvang van de vastgestelde gebreken, wordt [eisers] daarin gevolgd. De vordering tot terugbetaling van € 21.919,42 van het betaalde bedrag is dan ook toewijsbaar. Ook de aanvullende schadevergoeding wordt tot een bedrag van € 3.080,58 toegewezen, aangezien voorzienbaar is dat het verwijderen en afvoeren van de (keuken)meubelen, het tijdelijk opslaan van de keukenapparatuur en het plaatsen van nieuwe keukenmeubelen kosten met zich brengen. Verder geldt dat [eisers] kosten heeft gemaakt voor de deskundigenrapporten, die ook voor toewijzing in aanmerking komen. De vordering in conventie tot betaling van in totaal € 25.000,- wordt dan ook toegewezen. De vordering in reconventie wordt gelet op de ontbinding van de overeenkomst afgewezen.
 
 4.16.
 
