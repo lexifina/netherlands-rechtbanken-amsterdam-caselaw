@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:8083"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/83", "JONDR 2026/201"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/83", "JONDR 2026/201", "JOR 2026/155 met annotatie van mr. D.E. Mandigers"]
 ---
 
 # ECLI:NL:RBAMS:2025:8083 Rechtbank Amsterdam , 29-10-2025 / 774952
