@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11439"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/69"]
 ---
 
 # ECLI:NL:RBAMS:2025:11439 Rechtbank Amsterdam , 29-10-2025 / C/13/777560 / KG ZA -25-868
