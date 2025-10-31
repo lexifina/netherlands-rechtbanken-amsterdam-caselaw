@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:9464"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0063", "NJFCZ 2026/85"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0063", "NJFCZ 2026/85", "VR 2026/69"]
 ---
 
 # ECLI:NL:RBAMS:2025:9464 Rechtbank Amsterdam , 31-10-2025 / 11526838
