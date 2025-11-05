@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:8223"
-published_in: ["Rechtspraak.nl", "NJF 2025/510", "JONDR 2026/60", "JA 2026/22"]
+published_in: ["Rechtspraak.nl", "NJF 2025/510", "JONDR 2026/60", "JA 2026/22", "JOR 2026/105 met annotatie van mr. M. Velthuis, mr. M.J. Bosselaar", "JONDR 2026/499", "NTHR 2026/30, p.141"]
 ---
 
 # ECLI:NL:RBAMS:2025:8223 Rechtbank Amsterdam , 05-11-2025 / C/13/756238 / HA ZA 24-987
