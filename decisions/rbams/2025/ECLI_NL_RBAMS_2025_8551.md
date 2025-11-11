@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:8551"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.6"]
 ---
 
 # ECLI:NL:RBAMS:2025:8551 Rechtbank Amsterdam , 11-11-2025 / C/13/760150 / FA RK 24-8124
