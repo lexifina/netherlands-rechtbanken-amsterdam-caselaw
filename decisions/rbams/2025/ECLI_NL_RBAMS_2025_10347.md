@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10347"
-published_in: ["Rechtspraak.nl", "JOR 2026/71 met annotatie van mr. M. Schreel", "RO 2026/29"]
+published_in: ["Rechtspraak.nl", "JOR 2026/71 met annotatie van mr. M. Schreel", "RO 2026/29", "JONDR 2026/363"]
 ---
 
 # ECLI:NL:RBAMS:2025:10347 Rechtbank Amsterdam , 12-11-2025 / 707213 / HA ZA 21-815
