@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Europees civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:9046"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/87"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/87", "RF 2026/51", "JONDR 2026/699"]
 ---
 
 # ECLI:NL:RBAMS:2025:9046 Rechtbank Amsterdam , 18-11-2025 / 11451568 \ CV EXPL  24-16022
