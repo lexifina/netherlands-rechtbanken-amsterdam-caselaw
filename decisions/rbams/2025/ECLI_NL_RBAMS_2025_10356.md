@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10356"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/131"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/131", "JONDR 2026/400", "NTHR 2026/33, p.147"]
 ---
 
 # ECLI:NL:RBAMS:2025:10356 Rechtbank Amsterdam , 20-11-2025 / C/13/765283 / HA RK 25-65
