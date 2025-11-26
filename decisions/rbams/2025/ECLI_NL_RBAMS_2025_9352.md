@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:9352"
-published_in: ["Rechtspraak.nl", "JOR 2026/30 met annotatie van mr. T. Hekman", "RF 2026/18", "JONDR 2026/237"]
+published_in: ["Rechtspraak.nl", "JOR 2026/30 met annotatie van mr. T. Hekman", "RF 2026/18", "JONDR 2026/237", "NTHR 2026/33, p.148"]
 ---
 
 # ECLI:NL:RBAMS:2025:9352 Rechtbank Amsterdam , 26-11-2025 / C/13/767883 / HA ZA 25-958
