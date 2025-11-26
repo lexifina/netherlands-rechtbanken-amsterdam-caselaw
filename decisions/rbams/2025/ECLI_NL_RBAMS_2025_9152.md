@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:9152"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/8"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/8", "NTHR 2026/30, p.141", "RF 2026/40", "JONDR 2026/574"]
 ---
 
 # ECLI:NL:RBAMS:2025:9152 Rechtbank Amsterdam , 26-11-2025 / 13/763438
