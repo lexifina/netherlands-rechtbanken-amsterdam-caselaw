@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11352"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PJ 2026/66"]
 ---
 
 # ECLI:NL:RBAMS:2025:11352 Rechtbank Amsterdam , 03-12-2025 / AMS 25/2850
