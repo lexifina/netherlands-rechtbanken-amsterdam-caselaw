@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10836"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/56 met annotatie van F. van Westrhenen"]
 ---
 
 # ECLI:NL:RBAMS:2025:10836 Rechtbank Amsterdam , 03-12-2025 / 11919149 \ KK EXPL  25-701
