@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10090"
-published_in: ["Rechtspraak.nl", "JOR 2026/60 met annotatie van mr. J.W. Frieling"]
+published_in: ["Rechtspraak.nl", "JOR 2026/60 met annotatie van mr. J.W. Frieling", "JBPr 2026/40 met annotatie van mr. F. Lambert"]
 ---
 
 # ECLI:NL:RBAMS:2025:10090 Rechtbank Amsterdam , 10-12-2025 / 778323
