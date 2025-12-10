@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10777"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/30, p.141"]
 ---
 
 # ECLI:NL:RBAMS:2025:10777 Rechtbank Amsterdam , 10-12-2025 / C/13/762123 / HA ZA 25-24
