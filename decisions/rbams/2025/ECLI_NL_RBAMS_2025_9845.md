@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:9845"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/33, p.148"]
 ---
 
 # ECLI:NL:RBAMS:2025:9845 Rechtbank Amsterdam , 10-12-2025 / C/13/765260 / HA ZA 25-682
