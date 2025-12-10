@@ -184,11 +184,11 @@ The Companies’ products and services suite comprises a versatile array of APIs
 
 2.10.
 
-Op enig moment na het sluiten van de koopovereenkomst is [gedaagde 1] via [gedaagde 2] werkzaamheden gaan verrichten voor Brock Solutions (hierna: Brock), een Canadees bedrijf dat onder meer in de luchtvaartsector actief is. Ook is [gedaagde 1] in die periode een podcast over de bagage-industrie genaamd “The Bagfather” gaan presenteren.
+Op enig moment na het sluiten van de koopovereenkomst is [gedaagde 1] via [gedaagde 2] werkzaamheden gaan verrichten voor Brock Solutions (hierna: Brock), een Canadees bedrijf dat onder meer in de luchtvaartsector actief is. Ook is [gedaagde 1] in die periode een podcast over de bagage-industrie genaamd “ [naam podcast] ” gaan presenteren.
 
 2.11.
 
-Op 12 september 2024 heeft de advocaat van Paxon c.s. [gedaagde 1] en [gedaagde 2] gesommeerd om iedere werkzaamheid voor en betrokkenheid bij Brock en The Bagfather te staken. In de brief is onder meer het volgende te lezen:
+Op 12 september 2024 heeft de advocaat van Paxon c.s. [gedaagde 1] en [gedaagde 2] gesommeerd om iedere werkzaamheid voor en betrokkenheid bij Brock en [naam podcast] te staken. In de brief is onder meer het volgende te lezen:
 
 Aangezien Brock Solutions vergelijkbare activiteiten verricht als BagsID en omdat Brock Solutions kwalificeert als een concurrent van BagsID, is het u zoals gezegd op grond van de gemaakte afspraken niet toegestaan om werkzaamheden te verrichten voor (of anderszins op enigerlei wijze betrokken te zijn bij) Brock Solutions (of een andere onderneming die vergelijkbare activiteiten verricht als BagsID en/of concurreert met BagsID). Door uw handelwijze schendt u (doelbewust) de gemaakte afspraken. Bovendien heeft u door uw handelwijze boetes verbeurd (en verbeurt u boetes totdat u niet langer in overtreding van de gemaakte afspraken bent) en uw handelwijze is zeer schadelijk voor Paxon Technologies, Venès, Boca Ciega, Synchold en BagsID (als ook de overige aandeelhouders van Boga Ciega).
 
@@ -239,11 +239,11 @@ alles met rente en kosten.
 
 3.2.
 
-Paxon c.s. leggen aan de vorderingen I. tot en met V. het volgende ten grondslag. Brock en The Bagfather concurreren (mogelijk) met BagsID, althans zijn vergelijkbaar met BagsID. Daarom zijn [gedaagde 1] en [gedaagde 2] in overtreding van artikel 7.1 sub a van de koopovereenkomst en zijn zij beiden contractuele boetes verschuldigd. [gedaagde 1] en [gedaagde 2] hebben daarnaast, in strijd met artikel 7.1 sub d van de koopovereenkomst, twee voormalig medewerkers van BagsID benaderd voor een overstap naar Brock. Daarom vorderen Paxon c.s. onder VI. en VII. de bijbehorende contractuele boetes (2 x € 50.000). [gedaagde 1] en [gedaagde 2] zijn tot slot tekortgeschoten in de nakoming van artikel 6.1 van de koopovereenkomst in samenhang artikel 4.1 van bijlage 4. [gedaagde 1] heeft namelijk verzwegen dat hij tijdens de onderhandelingen over de koopovereenkomst al contact onderhield met Brock. Ook heeft hij vanuit zijn zakelijke e-mailaccount van BagsID bedrijfsgevoelige informatie doorgestuurd naar zijn privé e-mailaccount.
+Paxon c.s. leggen aan de vorderingen I. tot en met V. het volgende ten grondslag. Brock en [naam podcast] concurreren (mogelijk) met BagsID, althans zijn vergelijkbaar met BagsID. Daarom zijn [gedaagde 1] en [gedaagde 2] in overtreding van artikel 7.1 sub a van de koopovereenkomst en zijn zij beiden contractuele boetes verschuldigd. [gedaagde 1] en [gedaagde 2] hebben daarnaast, in strijd met artikel 7.1 sub d van de koopovereenkomst, twee voormalig medewerkers van BagsID benaderd voor een overstap naar Brock. Daarom vorderen Paxon c.s. onder VI. en VII. de bijbehorende contractuele boetes (2 x € 50.000). [gedaagde 1] en [gedaagde 2] zijn tot slot tekortgeschoten in de nakoming van artikel 6.1 van de koopovereenkomst in samenhang artikel 4.1 van bijlage 4. [gedaagde 1] heeft namelijk verzwegen dat hij tijdens de onderhandelingen over de koopovereenkomst al contact onderhield met Brock. Ook heeft hij vanuit zijn zakelijke e-mailaccount van BagsID bedrijfsgevoelige informatie doorgestuurd naar zijn privé e-mailaccount.
 
 3.3.
 
-[gedaagde 1] en SVD betwisten dat zij het non-concurrentiebeding hebben overtreden. Brock concurreert namelijk niet met BagsID, zal dat ook niet waarschijnlijk (“likely”) gaan doen en is niet vergelijkbaar is met BagsID. Bovendien hadden de werkzaamheden van [gedaagde 1] voor Brock niets met bagage-identificatie te maken. Hetzelfde geldt voor de podcast The Bagfather. Daarnaast voeren zij als verweer dat het non-concurrentiebeding nietig is wegens strijd met artikel 6 van de Mededingingswet en artikel 101 van het Verdrag betreffende de Werking van de Europese Unie. Tot slot betwisten [gedaagde 1] en [gedaagde 2] dat zij de twee voormalig medewerkers van BagsID hebben bewogen om naar Brock over te stappen en dat zij op enige wijze artikel 6.1 van de koopovereenkomst in samenhang artikel 4.1 van bijlage 4 hebben geschonden.
+[gedaagde 1] en SVD betwisten dat zij het non-concurrentiebeding hebben overtreden. Brock concurreert namelijk niet met BagsID, zal dat ook niet waarschijnlijk (“likely”) gaan doen en is niet vergelijkbaar is met BagsID. Bovendien hadden de werkzaamheden van [gedaagde 1] voor Brock niets met bagage-identificatie te maken. Hetzelfde geldt voor de podcast [naam podcast] . Daarnaast voeren zij als verweer dat het non-concurrentiebeding nietig is wegens strijd met artikel 6 van de Mededingingswet en artikel 101 van het Verdrag betreffende de Werking van de Europese Unie. Tot slot betwisten [gedaagde 1] en [gedaagde 2] dat zij de twee voormalig medewerkers van BagsID hebben bewogen om naar Brock over te stappen en dat zij op enige wijze artikel 6.1 van de koopovereenkomst in samenhang artikel 4.1 van bijlage 4 hebben geschonden.
 
 in reconventie
 
@@ -261,7 +261,7 @@ III. voor recht te verklaren dat [gedaagde 1] en [gedaagde 2] :
 
 - subsidiair: gerechtigd zijn werkzaam te blijven binnen de luchtvaart- en bagagesector, waaronder in ieder geval werkzaamheden die verband houden met het optisch lezen of scannen van gedrukte streepjescodes en/of QR-codes die vanaf een bagagelabel leesbaar zijn, hetgeen de huidige standaard is, met uitzondering van de ontwikkeling van technologie voor beeldherkenning voor bagage (‘bagagebiometrie’), meer specifiek het ontwikkelen van kunstmatige intelligentie/machine-learning (computer vision) of algoritmen waarmee unieke bagageobjecten op basis van uiterlijke kenmerken kunnen worden geïdentificeerd; althans
 
-- meer subsidiair: gerechtigd zijn met Brock Solutions samen te werken en de podcast The Bagfather te presenteren;
+- meer subsidiair: gerechtigd zijn met Brock Solutions samen te werken en de podcast [naam podcast] te presenteren;
 
 IV. Paxon c.s. ieder hoofdelijk te veroordelen tot betaling van:
 
@@ -288,7 +288,7 @@ Inleiding
 
 4.1.
 
-De discussie tussen partijen richt zich in de eerste plaats op de vraag of [gedaagde 1] en [gedaagde 2] het non-concurrentiebeding uit artikel 7.1 sub a van de koopoverkomst hebben overtreden. Het antwoord daarop hangt af van de vraag of Brock of The Bagfather vergelijkbaar, concurrerend of “likely to be competitive” is met de in bijlage 6 bij de koopovereenkomst omschreven activiteiten van BagsID. De rechtbank zal hierna eerst haar oordeel motiveren dat dit niet het geval is. Vervolgens komen de gestelde schendingen van artikel 7.1 sub d en artikel 6.1 in samenhang met artikel 4.1 van bijlage 4 aan bod. Die zijn, zoals hierna verder wordt toegelicht, evenmin vast komen te staan.
+De discussie tussen partijen richt zich in de eerste plaats op de vraag of [gedaagde 1] en [gedaagde 2] het non-concurrentiebeding uit artikel 7.1 sub a van de koopoverkomst hebben overtreden. Het antwoord daarop hangt af van de vraag of Brock of [naam podcast] vergelijkbaar, concurrerend of “likely to be competitive” is met de in bijlage 6 bij de koopovereenkomst omschreven activiteiten van BagsID. De rechtbank zal hierna eerst haar oordeel motiveren dat dit niet het geval is. Vervolgens komen de gestelde schendingen van artikel 7.1 sub d en artikel 6.1 in samenhang met artikel 4.1 van bijlage 4 aan bod. Die zijn, zoals hierna verder wordt toegelicht, evenmin vast komen te staan.
 
 Brock is niet (waarschijnlijk) concurrerend of vergelijkbaar met BagsID
 
@@ -328,19 +328,19 @@ Het voorgaande wordt niet anders door de stelling van Paxon c.s. dat Brock zelf 
 
 Paxon c.s. hebben verder aangevoerd dat Brock mogelijk concurreert met BagsID. De rechtbank heeft hiervoor al geoordeeld dat sprake moet zijn van waarschijnlijke concurrentie. Dat iets waarschijnlijk, aannemelijk of geloofwaardig is impliceert dat er op zijn minst aanknopingspunten zijn om te verwachten dat het zich zal voordoen, terwijl ‘mogelijk’ alleen inhoudt dat iets niet valt uit te sluiten. [gedaagde 1] en [gedaagde 2] hebben betwist dat Brock een belang heeft om met BagsID concurrerende technologie te gaan ontwikkelen en in dat verband toegelicht dat de software van Brock, waarmee de bagagebanden worden aangestuurd, niet wordt bedreigd door de technologie van BagsID, waarmee bagage wordt geïdentificeerd. Behalve dat Brock daartoe financieel in staat is, hebben Paxon c.s. verder geen concrete aanknopingspunten naar voren gebracht op grond waarvan te verwachten valt dat Brock (foto)herkenningstechnologie om bagage mee te identificeren zal gaan ontwikkelen of anderszins zal gaan concurreren met de in bijlage 6 omschreven activiteiten BagsID. Dat betekent dat Paxon c.s. eveneens onvoldoende hebben onderbouwd dat Brock waarschijnlijk concurrerend is zoals bedoeld in artikel 7.1 sub a van de koopovereenkomst.
 
-The Bagfather is niet (waarschijnlijk) concurrerend of vergelijkbaar met BagsID
+[naam podcast] is niet (waarschijnlijk) concurrerend of vergelijkbaar met BagsID
 
 4.11.
 
-Paxon c.s. stellen dat de onderneming The Bagfather, gericht op het maken van podcasts, eveneens vergelijkbaar dan wel concurrerend dan wel mogelijk concurrerend is met BagsID. The Bagfather genereert namelijk omzet door middel van advertenties van vliegmaatschappijen en heeft bagagetag op de markt gebracht, aldus Paxon c.s.
+Paxon c.s. stellen dat de onderneming [naam podcast] , gericht op het maken van podcasts, eveneens vergelijkbaar dan wel concurrerend dan wel mogelijk concurrerend is met BagsID. [naam podcast] genereert namelijk omzet door middel van advertenties van vliegmaatschappijen en heeft bagagetag op de markt gebracht, aldus Paxon c.s.
 
 4.12.
 
-[gedaagde 1] en [gedaagde 2] hebben betwist dat de The Bagfather een bagagetag op de markt heeft gebracht en toegelicht dat slechts ter promotie bagagelabels bedrukt met het logo van de podcast zijn uitgedeeld op een evenement. [gedaagde 1] is bovendien alleen (onbezoldigd) medepresentator van de podcast, aldus [gedaagde 1] en [gedaagde 2] .
+[gedaagde 1] en [gedaagde 2] hebben betwist dat de [naam podcast] een bagagetag op de markt heeft gebracht en toegelicht dat slechts ter promotie bagagelabels bedrukt met het logo van de podcast zijn uitgedeeld op een evenement. [gedaagde 1] is bovendien alleen (onbezoldigd) medepresentator van de podcast, aldus [gedaagde 1] en [gedaagde 2] .
 
 4.13.
 
-Bij Paxon c.s. ligt de stelplicht en bewijslast dat de betrokkenheid van [gedaagde 1] en [gedaagde 2] bij The Bagfather in strijd is met artikel 7.1 van de koopovereenkomst. Zij hebben echter geen concrete onderbouwing gegeven dat The Bagfather – een podcast – concurreert of waarschijnlijk zal concurreren met de activiteiten van BagsID zoals omschreven in bijlage 6. Dat de podcast omzet genereert door middel van advertenties volstaat daartoe niet. Het valt ook niet in te zien op welke wijze de podcast vergelijkbaar is met de beschreven activiteiten van BagsID.
+Bij Paxon c.s. ligt de stelplicht en bewijslast dat de betrokkenheid van [gedaagde 1] en [gedaagde 2] bij [naam podcast] in strijd is met artikel 7.1 van de koopovereenkomst. Zij hebben echter geen concrete onderbouwing gegeven dat [naam podcast] – een podcast – concurreert of waarschijnlijk zal concurreren met de activiteiten van BagsID zoals omschreven in bijlage 6. Dat de podcast omzet genereert door middel van advertenties volstaat daartoe niet. Het valt ook niet in te zien op welke wijze de podcast vergelijkbaar is met de beschreven activiteiten van BagsID.
 
 De gestelde strijd met het mededingingsrecht blijft onbesproken
 
@@ -449,13 +449,13 @@ Artikel 7.1 en artikel 4.1 van bijlage 4 zijn niet geschonden
 
 5.3.
 
-[gedaagde 1] en [gedaagde 2] vorderen onder II. een verklaring voor recht dat zij artikel 7.1 en artikel 4.1 van bijlage 4 van de Koopovereenkomst niet hebben geschonden. Op de zitting hebben [gedaagde 1] en [gedaagde 2] verduidelijkt dat daarmee wordt bedoeld dat zij met hun werkzaamheden voor Brock en The Bagfather het non-concurrentiebeding niet hebben geschonden. Zij hebben ook toegelicht dat hun belang bij de verklaring voor recht erin ligt dat zij daarmee aan Brock kunnen aantonen dat de koopovereenkomst hen deze werkzaamheden niet verbiedt.
+[gedaagde 1] en [gedaagde 2] vorderen onder II. een verklaring voor recht dat zij artikel 7.1 en artikel 4.1 van bijlage 4 van de Koopovereenkomst niet hebben geschonden. Op de zitting hebben [gedaagde 1] en [gedaagde 2] verduidelijkt dat daarmee wordt bedoeld dat zij met hun werkzaamheden voor Brock en [naam podcast] het non-concurrentiebeding niet hebben geschonden. Zij hebben ook toegelicht dat hun belang bij de verklaring voor recht erin ligt dat zij daarmee aan Brock kunnen aantonen dat de koopovereenkomst hen deze werkzaamheden niet verbiedt.
 
 5.4.
 
 De onderbouwing die is weergeven in 4.3 tot en met 4.13, 4.15 tot en met 4.17 en 4.19 tot en met 4.21 is voldoende om de gevorderde verklaring voor recht uit te spreken.
 
-[gedaagde 1] en [gedaagde 2] mogen betrokken zijn bij Brock en The Bagfather
+[gedaagde 1] en [gedaagde 2] mogen betrokken zijn bij Brock en [naam podcast]
 
 5.5.
 
@@ -471,7 +471,7 @@ De subsidiair gevorderde verklaring voor recht kan ook niet worden uitgesproken.
 
 5.8.
 
-De meer subsidiaire gevorderde verklaring voor recht, dat [gedaagde 1] en [gedaagde 2] gerechtigd zijn met Brock samen te werken en de podcast The Bagfather te presenteren, kan wel worden uitgesproken. De rechtbank heeft in conventie immers al geoordeeld dat hun betrokkenheid bij Brock en The Bagfather niet in strijd is met het non-concurrentiebeding.
+De meer subsidiaire gevorderde verklaring voor recht, dat [gedaagde 1] en [gedaagde 2] gerechtigd zijn met Brock samen te werken en de podcast [naam podcast] te presenteren, kan wel worden uitgesproken. De rechtbank heeft in conventie immers al geoordeeld dat hun betrokkenheid bij Brock en [naam podcast] niet in strijd is met het non-concurrentiebeding.
 
 Alleen de eerste termijn van de voorwaardelijke koopsom is verschuldigd
 
