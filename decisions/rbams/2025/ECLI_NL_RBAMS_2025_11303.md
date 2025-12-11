@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste en enige aanleg"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11303"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0181", "VEAN-ERF-Updates.nl 2026-0181"]
 ---
 
 # ECLI:NL:RBAMS:2025:11303 Rechtbank Amsterdam , 11-12-2025 / 11974076
