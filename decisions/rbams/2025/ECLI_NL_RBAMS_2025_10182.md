@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10182"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/19 met annotatie van mr. M. Meddens-Bakker"]
 ---
 
 # ECLI:NL:RBAMS:2025:10182 Rechtbank Amsterdam , 17-12-2025 / C/13/778526 / KG ZA 25-918
