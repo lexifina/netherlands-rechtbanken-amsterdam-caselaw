@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:9951"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0646", "GZR-Updates.nl 2026-0012", "GJ 2026/2 met annotatie van prof. mr. J.G. Sijmons", "JA 2026/39 met annotatie van mr. R.V. Montulet", "RAV 2026/28"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0646", "GZR-Updates.nl 2026-0012", "GJ 2026/2 met annotatie van prof. mr. J.G. Sijmons", "JA 2026/39 met annotatie van mr. R.V. Montulet", "RAV 2026/28", "VR 2026/75"]
 ---
 
 # ECLI:NL:RBAMS:2025:9951 Rechtbank Amsterdam , 17-12-2025 / C/13/726782 / HA ZA 23-2
