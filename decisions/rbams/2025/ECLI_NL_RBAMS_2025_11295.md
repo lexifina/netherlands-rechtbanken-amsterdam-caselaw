@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:11295"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/68"]
 ---
 
 # ECLI:NL:RBAMS:2025:11295 Rechtbank Amsterdam , 18-12-2025 / C/13/769236 / HA RK 25-162
