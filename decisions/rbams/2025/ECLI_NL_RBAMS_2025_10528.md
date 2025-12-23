@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10528"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/106 met annotatie van mr. L.P.W. Mensink, mr. M.M. de Haan", "JONDR 2026/498"]
 ---
 
 # ECLI:NL:RBAMS:2025:10528 Rechtbank Amsterdam , 23-12-2025 / AMS 24/276
