@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10898"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JIN 2026/76 met annotatie van E. Veen", "FJR 2026/46.11"]
 ---
 
 # ECLI:NL:RBAMS:2025:10898 Rechtbank Amsterdam , 24-12-2025 / 738347
