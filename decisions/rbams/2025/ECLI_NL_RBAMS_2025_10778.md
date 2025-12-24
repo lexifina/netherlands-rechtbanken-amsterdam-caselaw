@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:10778"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/110 met annotatie van mr. S.A.C.R. Wahlbrinck", "RI 2026/39", "JONDR 2026/497", "RF 2026/72"]
 ---
 
 # ECLI:NL:RBAMS:2025:10778 Rechtbank Amsterdam , 24-12-2025 / C/13/765268 / HA ZA 25-686
