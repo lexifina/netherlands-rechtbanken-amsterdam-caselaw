@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:101"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PJ 2026/54"]
 ---
 
 # ECLI:NL:RBAMS:2026:101 Rechtbank Amsterdam , 14-01-2026 / 24 / 6949
