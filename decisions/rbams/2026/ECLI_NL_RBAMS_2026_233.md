@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:233"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/130"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/130", "TVA 2026/33"]
 ---
 
 # ECLI:NL:RBAMS:2026:233 Rechtbank Amsterdam , 19-01-2026 / C/13/780043 / KG ZA 25-1007
