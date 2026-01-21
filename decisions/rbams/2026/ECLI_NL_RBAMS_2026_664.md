@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:664"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0058"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0058", "JOR 2026/141 met annotatie van mr. G.Á.C. Orbán"]
 ---
 
 # ECLI:NL:RBAMS:2026:664 Rechtbank Amsterdam , 21-01-2026 / C/13/25/507-F
