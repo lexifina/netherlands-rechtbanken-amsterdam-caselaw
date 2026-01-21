@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:596"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/72"]
 ---
 
 # ECLI:NL:RBAMS:2026:596 Rechtbank Amsterdam , 21-01-2026 / C/13/764758/HAZA 25-520
