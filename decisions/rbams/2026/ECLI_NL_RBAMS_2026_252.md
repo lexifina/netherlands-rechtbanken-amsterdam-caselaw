@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:252"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/157 met annotatie van mr. drs. A.H.M. Noordam", "JONDR 2026/608"]
 ---
 
 # ECLI:NL:RBAMS:2026:252 Rechtbank Amsterdam , 21-01-2026 / 767740
