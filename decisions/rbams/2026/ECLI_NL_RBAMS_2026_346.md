@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:346"
-published_in: ["Rechtspraak.nl", "JOR 2026/84 met annotatie van mr. M.D. Schuilwerve"]
+published_in: ["Rechtspraak.nl", "JOR 2026/84 met annotatie van mr. M.D. Schuilwerve", "JBPr 2026/28 met annotatie van mr. M.J. Bosselaar, mr. S.C. de Bakker"]
 ---
 
 # ECLI:NL:RBAMS:2026:346 Rechtbank Amsterdam , 22-01-2026 / C/13/770181 / HA RK 25-179
