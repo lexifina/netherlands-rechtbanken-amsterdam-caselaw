@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:495"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/192 met annotatie van M.P. van der Burg"]
 ---
 
 # ECLI:NL:RBAMS:2026:495 Rechtbank Amsterdam , 26-01-2026 / 24/7091, 24/7093, 24/70916, 24/7097
