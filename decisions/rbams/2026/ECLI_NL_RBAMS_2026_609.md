@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste en enige aanleg"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:609"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/51, p.224"]
 ---
 
 # ECLI:NL:RBAMS:2026:609 Rechtbank Amsterdam , 28-01-2026 / 13-286817-25
