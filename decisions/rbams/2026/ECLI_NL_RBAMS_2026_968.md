@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:968"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/191"]
 ---
 
 # ECLI:NL:RBAMS:2026:968 Rechtbank Amsterdam , 28-01-2026 / C/13/762283 / HA ZA 25-42
