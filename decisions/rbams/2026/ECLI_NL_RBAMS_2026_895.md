@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:895"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/187 met annotatie van mr. A.S. Renshof"]
 ---
 
 # ECLI:NL:RBAMS:2026:895 Rechtbank Amsterdam , 28-01-2026 / C/13/778874/KG RK 25-1835
