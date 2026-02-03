@@ -354,7 +354,7 @@ Legt op de maatregel dat verdachte voor de duur van drie jaren zich niet bevindt
 
 - [naam kind 2] (geboren op [geboortedatum] ); en
 
-- Djayden [slachtoffer] (geboren op [geboortedatum] ),
+- [naam kind 3] (geboren op [geboortedatum] ),
 
 tenzij de reclassering toestemming heeft gegeven voor het contact in verband met de omgangsregeling.
 
