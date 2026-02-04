@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1032"
-published_in: ["Rechtspraak.nl", "RO 2026/28"]
+published_in: ["Rechtspraak.nl", "RO 2026/28", "JONDR 2026/362"]
 ---
 
 # ECLI:NL:RBAMS:2026:1032 Rechtbank Amsterdam , 04-02-2026 / C/13/765947 / HA ZA 25-832
