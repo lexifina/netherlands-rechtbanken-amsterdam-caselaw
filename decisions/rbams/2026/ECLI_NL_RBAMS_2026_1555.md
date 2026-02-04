@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1555"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/119 met annotatie van mr. W.P. Wijers", "JBPr 2026/29 met annotatie van mr. K. Rutten, mr. Y. Pletting", "Module Privacy & AVG 2026/4504"]
 ---
 
 # ECLI:NL:RBAMS:2026:1555 Rechtbank Amsterdam , 04-02-2026 / C/13/753433 / HA ZA 24-725
