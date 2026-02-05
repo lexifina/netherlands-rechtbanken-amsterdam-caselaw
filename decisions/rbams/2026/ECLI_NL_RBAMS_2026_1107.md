@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1107"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/39"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/39", "Ondernemingsrecht 2026/48 met annotatie van M.L.H. Reumers"]
 ---
 
 # ECLI:NL:RBAMS:2026:1107 Rechtbank Amsterdam , 05-02-2026 / C/13/769512 / HA RK 25-169
