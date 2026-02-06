@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1031"
-published_in: ["Rechtspraak.nl", "NLF 2026/0484", "Viditax (FutD) 2026031204", "Sdu Nieuws Belastingzaken 2026/379", "FutD 2026-0460", "V-N Vandaag 2026/471", "V-N 2026/18.18.24"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0484", "Viditax (FutD) 2026031204", "Sdu Nieuws Belastingzaken 2026/379", "FutD 2026-0460", "V-N Vandaag 2026/471", "V-N 2026/18.18.24", "Belastingblad 2026/167 met annotatie van J.K. Lanser"]
 ---
 
 # ECLI:NL:RBAMS:2026:1031 Rechtbank Amsterdam , 06-02-2026 / AMS 25/4043
