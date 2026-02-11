@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1325"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/297"]
 ---
 
 # ECLI:NL:RBAMS:2026:1325 Rechtbank Amsterdam , 11-02-2026 / C/13/752764 / HA ZA 24-688
