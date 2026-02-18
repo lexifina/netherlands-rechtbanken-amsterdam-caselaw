@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2976"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/215"]
 ---
 
 # ECLI:NL:RBAMS:2026:2976 Rechtbank Amsterdam , 18-02-2026 / C/13/772251 / HA ZA 25-1271
