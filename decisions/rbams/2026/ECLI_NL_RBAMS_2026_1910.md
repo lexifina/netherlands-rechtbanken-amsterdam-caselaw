@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Verzekeringsrecht. Eiseres vordert (volledige) voldoening van door haar bij Stad Holland ingediende declaraties. Daarnaast vordert zij een verbod en verklaringen voor recht die ertoe strekken dat Stad Holland haar niet om aanvullende informatie mag vragen voordat zij de declaraties voldoet. De rechtbank wijst de vorderingen van eiseres af. Stad Holland heeft namelijk een wettelijke plicht om te controleren of de zorg die onder de zorgverzekering wordt gedeclareerd, onder de dekking van die verzekering valt. De informatie die Dorsman aan Stad Holland heeft verstrekt, is onvoldoende om aan die wettelijke controleplicht te kunnen voldoen.
+Verzekeringsrecht. Eiseres vordert (volledige) voldoening van door haar bij Stad Holland ingediende declaraties. Daarnaast vordert zij een verbod en verklaringen voor recht die ertoe strekken dat Stad Holland haar niet om aanvullende informatie mag vragen voordat zij de declaraties voldoet. De rechtbank wijst de vorderingen van eiseres af. Stad Holland heeft namelijk een wettelijke plicht om te controleren of de zorg die onder de zorgverzekering wordt gedeclareerd, onder de dekking van die verzekering valt. De informatie die [eiseres] aan Stad Holland heeft verstrekt, is onvoldoende om aan die wettelijke controleplicht te kunnen voldoen.
 
 ## Uitspraak
 
