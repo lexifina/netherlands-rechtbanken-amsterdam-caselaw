@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1672"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NBR-Pw/2026/015 met annotatie van mr. Maartje Smeets"]
 ---
 
 # ECLI:NL:RBAMS:2026:1672 Rechtbank Amsterdam , 18-02-2026 / AMS 24/5186
