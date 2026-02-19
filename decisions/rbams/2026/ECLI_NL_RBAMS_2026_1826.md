@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1826"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTFR 2026/743 met annotatie van mr. R.B.H. Beune"]
 ---
 
 # ECLI:NL:RBAMS:2026:1826 Rechtbank Amsterdam , 19-02-2026 / 81.182462.25
