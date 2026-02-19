@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2268"
-published_in: ["Rechtspraak.nl", "Notamail 2026/76", "Sdu Nieuws Personen- en familierecht 2026/202"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/76", "Sdu Nieuws Personen- en familierecht 2026/202", "ERF-Updates.nl 2026-0214", "VEAN-ERF-Updates.nl 2026-0214", "JERF 2026/90"]
 ---
 
 # ECLI:NL:RBAMS:2026:2268 Rechtbank Amsterdam , 19-02-2026 / C/13/765226/HA RK 25-62
