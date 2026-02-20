@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3640"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/156"]
 ---
 
 # ECLI:NL:RBAMS:2026:3640 Rechtbank Amsterdam , 20-02-2026 / 11827092 \ CV EXPL 25-10698
