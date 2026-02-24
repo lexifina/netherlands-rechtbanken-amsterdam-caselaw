@@ -34,7 +34,7 @@ Vonnis van 24 februari 2026
 
 in de zaak van
 
-LINNERIE ANJA B.V.,
+[huurder] B.V.,
 
 te 's-Hertogenbosch,
 
