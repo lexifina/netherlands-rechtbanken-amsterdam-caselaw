@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2205"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/35, p.160"]
 ---
 
 # ECLI:NL:RBAMS:2026:2205 Rechtbank Amsterdam , 24-02-2026 / 11322682 CV EXPL 24-12379
