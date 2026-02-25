@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2259"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/205"]
 ---
 
 # ECLI:NL:RBAMS:2026:2259 Rechtbank Amsterdam , 25-02-2026 / C/13/777730 / HA ZA 25-1637
