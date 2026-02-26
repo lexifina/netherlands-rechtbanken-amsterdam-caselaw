@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2304"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0498"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0498", "PR-Updates.nl 2026-0112"]
 ---
 
 # ECLI:NL:RBAMS:2026:2304 Rechtbank Amsterdam , 26-02-2026 / 11947929 EA VERZ 25-1275
