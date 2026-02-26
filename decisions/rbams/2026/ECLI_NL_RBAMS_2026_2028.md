@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2028"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BIE 2026-3, nr. 6 met annotatie van Roderick Chalmers Hoynck van Papendrecht"]
 ---
 
 # ECLI:NL:RBAMS:2026:2028 Rechtbank Amsterdam , 26-02-2026 / C/13/782572/KG ZA 26-70
