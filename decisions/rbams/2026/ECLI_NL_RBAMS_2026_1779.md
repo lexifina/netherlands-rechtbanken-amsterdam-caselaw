@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:1779"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0171"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0171", "JA 2026/63", "VR 2026/123"]
 ---
 
 # ECLI:NL:RBAMS:2026:1779 Rechtbank Amsterdam , 26-02-2026 / C/13/780380 / HA RK 25-450
