@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2795"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0513", "VAAN-AR-Updates.nl 2026-0513", "Sdu Nieuws Arbeidsrecht 2026/122"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0513", "VAAN-AR-Updates.nl 2026-0513", "Sdu Nieuws Arbeidsrecht 2026/122", "Prg. 2026/153", "RAR 2026/91", "JAR 2026/128 met annotatie van mr. M.A.N. van Schadewijk"]
 ---
 
 # ECLI:NL:RBAMS:2026:2795 Rechtbank Amsterdam , 26-02-2026 / 11914340 EA VERZ 25-1145
