@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2134"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBAMS:2023:1242"]]
 ---
 
 # ECLI:NL:RBAMS:2026:2134 Rechtbank Amsterdam , 04-03-2026 / C/13/697614 / HA ZA 21-186
