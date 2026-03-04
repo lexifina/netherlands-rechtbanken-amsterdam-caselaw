@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3219"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/164"]
 ---
 
 # ECLI:NL:RBAMS:2026:3219 Rechtbank Amsterdam , 04-03-2026 / 13/315074-22
