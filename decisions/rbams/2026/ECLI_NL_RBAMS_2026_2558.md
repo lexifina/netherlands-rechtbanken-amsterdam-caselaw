@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2558"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031708", "FutD 2026-0500"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031708", "FutD 2026-0500", "NDFR Nieuws 2026/750", "NTFR 2026/829 met annotatie van mr. R.B.H. Beune"]
 ---
 
 # ECLI:NL:RBAMS:2026:2558 Rechtbank Amsterdam , 05-03-2026 / 81/139513-23
