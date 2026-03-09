@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste en enige aanleg"
 subject: "Strafrecht; Strafprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2539"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/163"]
 ---
 
 # ECLI:NL:RBAMS:2026:2539 Rechtbank Amsterdam , 09-03-2026 / C/13/784468 / HA RK 26-149
