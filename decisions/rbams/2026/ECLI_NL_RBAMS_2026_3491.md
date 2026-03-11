@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3491"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "O&A 2026/39"]
 ---
 
 # ECLI:NL:RBAMS:2026:3491 Rechtbank Amsterdam , 11-03-2026 / 25-024073
