@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2543"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2026/4513"]
 ---
 
 # ECLI:NL:RBAMS:2026:2543 Rechtbank Amsterdam , 11-03-2026 / C/13/748534 / HA ZA 24-290
