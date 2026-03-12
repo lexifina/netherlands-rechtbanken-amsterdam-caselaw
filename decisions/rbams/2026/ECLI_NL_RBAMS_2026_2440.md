@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2440"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032408", "V-N Vandaag 2026/548", "FutD 2026-0564"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032408", "V-N Vandaag 2026/548", "FutD 2026-0564", "V-N 2026/23.20.36"]
 ---
 
 # ECLI:NL:RBAMS:2026:2440 Rechtbank Amsterdam , 12-03-2026 / AMS 25/4098
