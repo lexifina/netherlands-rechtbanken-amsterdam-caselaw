@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2971"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.12"]
 ---
 
 # ECLI:NL:RBAMS:2026:2971 Rechtbank Amsterdam , 16-03-2026 / C/13/759958 / FA RK 24-8015
