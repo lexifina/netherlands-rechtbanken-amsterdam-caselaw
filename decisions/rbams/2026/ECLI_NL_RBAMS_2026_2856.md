@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2856"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0109", "GJ 2026/49 met annotatie van mr. dr. A.G.H. Klaassen"]
 ---
 
 # ECLI:NL:RBAMS:2026:2856 Rechtbank Amsterdam , 19-03-2026 / C/13/776823 / HA RK 25-352 en C/13/776825 / HA RK 25-353
