@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3308"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0081"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0081", "RI 2026/38"]
 ---
 
 # ECLI:NL:RBAMS:2026:3308 Rechtbank Amsterdam , 20-03-2026 / C/13/782653 / FT RK 26/45
