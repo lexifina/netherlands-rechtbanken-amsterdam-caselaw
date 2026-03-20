@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:2994"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0189", "VEAN-ERF-Updates.nl 2026-0189"]
 ---
 
 # ECLI:NL:RBAMS:2026:2994 Rechtbank Amsterdam , 20-03-2026 / 12102147
