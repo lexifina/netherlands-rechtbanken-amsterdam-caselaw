@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3114"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/130", "AR-Updates.nl 2026-0579"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/130", "AR-Updates.nl 2026-0579", "JAR 2026/112", "RAR 2026/99"]
 ---
 
 # ECLI:NL:RBAMS:2026:3114 Rechtbank Amsterdam , 20-03-2026 / 11888628 \ CV EXPL  25-12939
