@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3723"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/58"]
 ---
 
 # ECLI:NL:RBAMS:2026:3723 Rechtbank Amsterdam , 24-03-2026 / 11908669 \ CV EXPL 25-13567
