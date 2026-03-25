@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3075"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/680"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/680", "Belastingblad 2026/193", "V-N 2026/26.15.11"]
 ---
 
 # ECLI:NL:RBAMS:2026:3075 Rechtbank Amsterdam , 25-03-2026 / 25/886
