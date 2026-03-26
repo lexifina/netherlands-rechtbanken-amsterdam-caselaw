@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3106"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/207", "Mediaforum 2026-3, nr. 8 met annotatie van Th.O.M. Dieben", "IR 2026/19, UDH:IR/57178 met annotatie van mr. P.F.T. (Pepijn) Tukker", "Computerrecht 2026/117 met annotatie van B.H.M. Custers", "JBP 2026/132 met annotatie van mr. M. Poulus"]
 ---
 
 # ECLI:NL:RBAMS:2026:3106 Rechtbank Amsterdam , 26-03-2026 / C/13/783613 / KG ZA 26-120
