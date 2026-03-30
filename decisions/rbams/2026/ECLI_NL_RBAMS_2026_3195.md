@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3195"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/121"]
 ---
 
 # ECLI:NL:RBAMS:2026:3195 Rechtbank Amsterdam , 30-03-2026 / 13/091410-23, 13/287180-24, 13/122834-24, 13/268702-24
