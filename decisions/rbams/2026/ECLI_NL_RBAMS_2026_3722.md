@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3722"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0136"]
 ---
 
 # ECLI:NL:RBAMS:2026:3722 Rechtbank Amsterdam , 30-03-2026 / 12030578 \ EA VERZ 25-1515
