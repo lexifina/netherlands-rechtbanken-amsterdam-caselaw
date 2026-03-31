@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3643"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RSV 2026/75"]
 ---
 
 # ECLI:NL:RBAMS:2026:3643 Rechtbank Amsterdam , 31-03-2026 / 25/1972
