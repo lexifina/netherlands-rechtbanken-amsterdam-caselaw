@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3801"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0231", "ERF-Updates.nl 2026-0231", "WR 2026/104 met annotatie van C.L.J.M. de Waal"]
 ---
 
 # ECLI:NL:RBAMS:2026:3801 Rechtbank Amsterdam , 31-03-2026 / 11826211 \ CV EXPL  25-10662
