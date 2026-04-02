@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3309"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RCR 2026/49"]
 ---
 
 # ECLI:NL:RBAMS:2026:3309 Rechtbank Amsterdam , 02-04-2026 / 783643
