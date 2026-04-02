@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3518"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0263", "VEAN-ERF-Updates.nl 2026-0263", "JERF Actueel 2026/120", "JERF 2026/102 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBAMS:2026:3518 Rechtbank Amsterdam , 02-04-2026 / C/13/776277 / HA RK 25-335
