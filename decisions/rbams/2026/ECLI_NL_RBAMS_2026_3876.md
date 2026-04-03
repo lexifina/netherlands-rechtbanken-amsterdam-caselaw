@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3876"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/229"]
 ---
 
 # ECLI:NL:RBAMS:2026:3876 Rechtbank Amsterdam , 03-04-2026 / 12103502 CV EXPL 26-1965
