@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3396"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/117 met annotatie van mr. R. Smit"]
 ---
 
 # ECLI:NL:RBAMS:2026:3396 Rechtbank Amsterdam , 07-04-2026 / C/13/784682 / KG ZA 26-172
