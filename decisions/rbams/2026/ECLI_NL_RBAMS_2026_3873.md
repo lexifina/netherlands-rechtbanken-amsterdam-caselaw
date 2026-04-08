@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3873"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RF 2026/50", "JONDR 2026/695"]
 ---
 
 # ECLI:NL:RBAMS:2026:3873 Rechtbank Amsterdam , 08-04-2026 / C/13/772244 / HA ZA 25-1268
