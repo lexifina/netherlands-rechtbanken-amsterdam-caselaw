@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3721"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/76", "TVA 2026/54"]
 ---
 
 # ECLI:NL:RBAMS:2026:3721 Rechtbank Amsterdam , 08-04-2026 / C/13/771700 / HA ZA 25-1237
