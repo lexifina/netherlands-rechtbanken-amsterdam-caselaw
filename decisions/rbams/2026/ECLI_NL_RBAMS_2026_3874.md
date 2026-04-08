@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3874"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0099"]
 ---
 
 # ECLI:NL:RBAMS:2026:3874 Rechtbank Amsterdam , 08-04-2026 / C/13/784851 / KG ZA 26-186 MK/RL
