@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3631"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0594", "VAAN-AR-Updates.nl 2026-0594"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0594", "VAAN-AR-Updates.nl 2026-0594", "JAR 2026/129 met annotatie van mr. M.A.N. van Schadewijk"]
 ---
 
 # ECLI:NL:RBAMS:2026:3631 Rechtbank Amsterdam , 10-04-2026 / 12016198 \ CV EXPL  25-17390
