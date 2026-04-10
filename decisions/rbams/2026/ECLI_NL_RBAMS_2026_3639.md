@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3639"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0602", "AR-Updates.nl 2026-0602", "Viditax (FutD) 2026042107"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0602", "AR-Updates.nl 2026-0602", "Viditax (FutD) 2026042107", "FutD 2026-0748"]
 ---
 
 # ECLI:NL:RBAMS:2026:3639 Rechtbank Amsterdam , 10-04-2026 / 12064804 \ EA VERZ 26-64
