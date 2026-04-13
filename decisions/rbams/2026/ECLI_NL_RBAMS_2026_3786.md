@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3786"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/158", "NJFCZ 2026/238"]
 ---
 
 # ECLI:NL:RBAMS:2026:3786 Rechtbank Amsterdam , 13-04-2026 / C/13/786134 / KG ZA 26-281 MdV/MV
