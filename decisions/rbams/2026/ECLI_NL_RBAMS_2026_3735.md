@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3735"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0628", "AR-Updates.nl 2026-0628"]
 ---
 
 # ECLI:NL:RBAMS:2026:3735 Rechtbank Amsterdam , 14-04-2026 / 11871687 \ EA VERZ  25-1037 en 11902857 \ EA VERZ  25-1122
