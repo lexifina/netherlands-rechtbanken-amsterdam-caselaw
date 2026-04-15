@@ -27,9 +27,8 @@ Bestuursrecht
 zaaknummer: AMS 25/1658
 
 uitspraak van de enkelvoudige kamer van 15 april 2026 in de zaak tussen
-
-[stichting] , uit [plaats] , eiseres
-(gemachtigden: [naam 1] en [naam 2] ),
+Stichting Wakker Dier , uit [plaats] , eiseres
+(gemachtigden: T.J. van Alten en S.C. van de Wou ),
 
 en
 
