@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3948"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/188"]
 ---
 
 # ECLI:NL:RBAMS:2026:3948 Rechtbank Amsterdam , 15-04-2026 / C/13/784270 / KG ZA 26-150 NB/EvK
