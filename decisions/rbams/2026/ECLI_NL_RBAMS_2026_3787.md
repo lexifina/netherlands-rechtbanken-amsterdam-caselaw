@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3787"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0085", "OR-Updates.nl 2026-0072"]
 ---
 
 # ECLI:NL:RBAMS:2026:3787 Rechtbank Amsterdam , 15-04-2026 / 759431
