@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3734"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RAV 2026/56"]
 ---
 
 # ECLI:NL:RBAMS:2026:3734 Rechtbank Amsterdam , 15-04-2026 / C/13/639718 / HA ZA 17-1255
