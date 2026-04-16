@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3928"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/67"]
 ---
 
 # ECLI:NL:RBAMS:2026:3928 Rechtbank Amsterdam , 16-04-2026 / 11922556 \ CV EXPL 25-14136
