@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3963"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0098", "EB 2026/63"]
 ---
 
 # ECLI:NL:RBAMS:2026:3963 Rechtbank Amsterdam , 21-04-2026 / C/13/766033 / FA RK 25-1876
