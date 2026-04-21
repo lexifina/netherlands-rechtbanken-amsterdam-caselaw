@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3960"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0641"]
 ---
 
 # ECLI:NL:RBAMS:2026:3960 Rechtbank Amsterdam , 21-04-2026 / 11990481 \ EA VERZ  25-1403
