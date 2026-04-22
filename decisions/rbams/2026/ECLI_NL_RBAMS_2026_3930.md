@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3930"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2026/151 met annotatie van M. Jansen, S.Y. Wakker"]
 ---
 
 # ECLI:NL:RBAMS:2026:3930 Rechtbank Amsterdam , 22-04-2026 / 771110 HA ZA 25-1193
