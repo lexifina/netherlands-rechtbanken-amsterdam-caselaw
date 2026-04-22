@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:3931"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TVA 2026/55"]
 ---
 
 # ECLI:NL:RBAMS:2026:3931 Rechtbank Amsterdam , 22-04-2026 / 777937 HA ZA 25-1656
