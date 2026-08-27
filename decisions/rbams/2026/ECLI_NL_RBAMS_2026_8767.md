@@ -1,0 +1,159 @@
+---
+ecli: "ECLI:NL:RBAMS:2026:8767"
+court: "Rechtbank Amsterdam"
+court_code: "RBAMS"
+docket: "C/13/792171"
+decided: "2026-08-27"
+published: "2026-09-02"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht; Personen- en familierecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:8767"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBAMS:2026:8767 Rechtbank Amsterdam , 27-08-2026 / C/13/792171
+
+## Inhoudsindicatie
+
+betrokkene wil geen mediciatie, vrijwillig niet mogelijk
+
+## Uitspraak
+
+RECHTBANK AMSTERDAM
+
+Familie- en Jeugdrecht
+
+Zaaknummer: C/13/792171 / FA RK 26-6185
+
+Datum uitspraak: 27 augustus 2026
+
+Beschikking zorgmachtiging
+
+op het verzoek van de officier van justitie voor
+
+[betrokkene] ,
+
+geboren op [geboortedag] 1992 in [geboorteplaats], Nederland,
+
+wonende [woonplaats],
+
+verblijvende te [verblijfsplaats],
+
+hierna te noemen betrokkene,
+
+advocaat mr. R.G.J. van Ommeren namens mr. K.R. Lieuw On.
+
+1
+Het verloop van de procedure
+
+1.1.
+
+De rechtbank neemt de volgende stukken mee in de beoordeling:
+
+- het verzoekschrift met bijlagen, binnengekomen bij de rechtbank op 6 augustus 2026.
+
+1.2.
+
+De zitting heeft plaatsgevonden op 27 augustus 2026. Daarbij zijn gehoord:
+
+- betrokkene, bijgestaan door haar advocaat;
+
+- arts, mw. [naam].
+
+2
+Het verzoek
+
+2.1.
+
+De officier van justitie verzoekt de rechtbank een zorgmachtiging te verlenen voor de duur van zes maanden.
+
+3
+De beoordeling
+
+3.1.
+
+De rechtbank verleent de gevraagde machtiging voor de duur van zes maanden. Zij legt hierna uit waarom zij deze beslissing neemt.
+
+3.2.
+
+De rechtbank is van oordeel dat betrokkene lijdt aan een psychische stoornis. Betrokkene heeft namelijk een psychotische ontregeling in het kader van een schizofreniespectrumstoomis.
+
+3.3.
+
+Deze stoornis veroorzaakt ernstig nadeel. Dit nadeel bestaat uit:
+
+- levensgevaar;
+
+- ernstig lichamelijk letsel;
+
+- ernstige psychische schade;
+
+- ernstige verwaarlozing;
+
+- maatschappelijke teloorgang;
+
+- het oproepen van agressie van een ander door het vertonen van hinderlijk gedrag;
+
+- gevaar voor de algemene veiligheid van personen en goederen.
+
+3.4.
+
+Om het ernstig nadeel af te wenden en de geestelijke en fysieke gezondheid van betrokkene te stabiliseren of te herstellen heeft betrokkene zorg nodig.
+
+3.5.
+
+Betrokkene is het niet eens met de opname en vindt medicatie niet nodig. Ook is zij van mening dat er in haar dossier onwaarheden staan. De zorgmachtiging zal gebruikt worden om betrokkene tijdens opname weer opnieuw in te stellen op antipsychotica en de haar lichamelijke conditie te stabiliseren. Zonder zorgmachtiging is de vrees dat betrokkene direct met ontslag zal gaan en stopt met de behandeling en de medicatie. Derhalve zijn geen mogelijkheden voor passende zorg op vrijwillige basis, zoals bepleit door de advocaat, en is verplichte zorg nodig.
+
+3.6.
+
+De rechtbank is op grond van het zorgplan, de medische verklaring, het advies van de geneesheer-directeur en de toelichting tijdens de zitting van oordeel dat de volgende vormen van verplichte zorg nodig zijn:
+
+- het toedienen van vocht en voeding voor de duur van 6 maanden;
+
+- het toedienen van medicatie voor de duur van 6 maanden;
+
+- het verrichten van medische controles voor de duur van 6 maanden;
+
+- het verrichten van andere medische handelingen en therapeutische maatregelen, ter behandeling van een psychische stoornis, dan wel vanwege die stoornis, ter behandeling van een somatische aandoening voor de duur van 6 maanden;
+
+- het beperken van de bewegingsvrijheid voor de duur van 6 maanden;
+
+- insluiten voor de duur van 6 maanden, telkens voor maximaal 2 weken per toepassing;
+
+- uitoefenen van toezicht op betrokkene voor de duur van 6 maanden, telkens voor maximaal 2 weken per toepassing;
+
+- onderzoek aan kleding of lichaam voor de duur van 6 maanden;
+
+- onderzoek van de woon- of verblijfsruimte op gedrag-beïnvloedende middelen en gevaarlijke voorwerpen voor de duur van 6 maanden;
+
+- controleren op de aanwezigheid van gedrag-beïnvloedende middelen voor de duur van 6 maanden;
+
+- aanbrengen van beperkingen in de vrijheid het eigen leven in te richten die tot gevolg hebben dat betrokkene iets moet doen of nalaten, waaronder het gebruik van communicatiemiddelen voor de duur van 6 maanden;
+
+- opnemen in een accommodatie voor de duur van 6 maanden.
+
+3.7.
+
+Er zijn geen minder bezwarende alternatieven die hetzelfde beoogde effect hebben. De vormen van verplichte zorg die de rechtbank toewijst zijn evenredig en naar verwachting effectief. Bij het bepalen van de juiste vormen van zorg is rekening gehouden met de voorwaarden die noodzakelijk zijn om deelname van betrokkene aan het maatschappelijk leven te bevorderen en om te zorgen voor de veiligheid van betrokkene en haar omgeving.
+
+4
+De beslissing
+
+De rechtbank:
+
+4.1.
+
+verleent een zorgmachtiging voor [betrokkene] , geboren op [geboortedag] 1992 wat inhoudt dat de maatregelen die in 3.6 staan kunnen worden toegepast;
+
+4.2.
+
+bepaalt dat deze machtiging geldt tot en met 27 februari 2027;
+
+4.3.
+
+wijst af het meer of anders verzochte.
+
+Deze beschikking is mondeling gegeven en in het openbaar uitgesproken op 27 augustus 2026 door mr. P.B. Martens, rechter, in aanwezigheid van M.E. Langewisch, griffier en op schrift gesteld op 31 augustus 2026.
+
+Tegen deze beschikking staat het rechtsmiddel van cassatie open.
